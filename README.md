@@ -1166,6 +1166,343 @@
 
 ***
 
+<details open>
+    <summary>A Posteriori</summary>
+
+[//]: # (====================================================================)
+[//]: # (====================================================================)
+[//]: # (====================================================================)
+[//]: # ( A Posteriori )
+[//]: # (====================================================================)
+[//]: # (====================================================================)
+[//]: # (====================================================================)
+
+***
+
+<details>
+    <summary>Programming</summary>
+
+[//]: # (====================================================================)
+[//]: # ( Programming )
+[//]: # (====================================================================)
+
+***
+
+<!-- ( ./par ) -->
+> [{paradigm}](https://github.com/E6985/E2746/blob/master/src/par/paradigm.ipynb)
+&#x1F530;
+[{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/par/paradigm.ipynb)
+
+<!-- ( ./par ) -->
+- [{imperative}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative.ipynb)
+&#x1F530;
+[{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative.ipynb)
+    
+    <!-- ( ./par ) -->
+    > [{procedural}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative-procedural.ipynb)
+    &#x1F530;
+    [{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative-procedural.ipynb)
+
+    <!-- ( ./par ) -->
+    > [{object-oriented}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative-object-oriented.ipynb)
+    &#x1F530;
+    [{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative-object-oriented.ipynb)
+
+    <details>
+        <summary>Python &#x26AA;</summary> 
+    
+    <!-- ( ./pyt ) -->
+    
+    ***
+
+    - [{object}](https://github.com/E6985/E2746/blob/master/src/pyt/object.ipynb)
+    &#x1F530;
+    [{distinction}](https://github.com/E6985/E2746/blob/master/src/pyt/object-distinction.ipynb)
+    &#x1F530;
+    [{variable}](https://github.com/E6985/E2746/blob/master/src/pyt/object-variable.ipynb)
+    &#x1F530;
+                
+        - [{class}](https://github.com/E6985/E2746/blob/master/src/pyt/object-class.ipynb)
+        &#x1F530;
+        [{instantiation}](https://github.com/E6985/E2746/blob/master/src/pyt/object-class-instantiation.ipynb)
+        &#x1F530;
+            
+            - [{instance}](https://github.com/E6985/E2746/blob/master/src/pyt/object-class-instance.ipynb)
+            &#x1F530;
+            [{attribute}](https://github.com/E6985/E2746/blob/master/src/pyt/object-class-instance-attribute.ipynb)
+            &#x1F530;
+            [{method}](https://github.com/E6985/E2746/blob/master/src/pyt/object-class-instance-method.ipynb)
+            &#x1F530;
+
+            - [{inheritance}](https://github.com/E6985/E2746/blob/master/src/pyt/object-class-inheritance.ipynb)
+            &#x1F530;
+
+    - [{operator}](https://github.com/E6985/E2746/blob/master/src/pyt/operator-intentionally-blank.ipynb) 
+    &#x26AA;
+
+        - [{arithmetic}](https://github.com/E6985/E2746/blob/master/src/pyt/operator-arithmetic.ipynb)
+        &#x1F530;
+        [{bitwise}](https://github.com/E6985/E2746/blob/master/src/pyt/operator-bitwise.ipynb)
+        &#x1F530;
+        [{assignment}](https://github.com/E6985/E2746/blob/master/src/pyt/operator-assignment.ipynb)
+        &#x1F530;
+        [{comparison}](https://github.com/E6985/E2746/blob/master/src/pyt/operator-comparison.ipynb)
+        &#x1F530;
+        [{boolean}](https://github.com/E6985/E2746/blob/master/src/pyt/operator-boolean.ipynb)
+        &#x1F530;
+        [{identity}](https://github.com/E6985/E2746/blob/master/src/pyt/operator-identity.ipynb)
+        &#x1F530;
+        [{membership}](https://github.com/E6985/E2746/blob/master/src/pyt/operator-membership.ipynb)
+        &#x1F530;
+
+    - [{control-flow}](https://github.com/E6985/E2746/blob/master/src/pyt/control-flow.ipynb)
+    &#x1F530;
+    [{conditional}](https://github.com/E6985/E2746/blob/master/src/pyt/control-flow-conditional.ipynb)
+    &#x1F530;
+
+    - [{loop}](https://github.com/E6985/E2746/blob/master/src/pyt/loop-intentionally-blank.ipynb)
+    &#x26AA;
+
+        - [{for}](https://github.com/E6985/E2746/blob/master/src/pyt/control-flow-loop-for.ipynb)
+        &#x1F530;
+        [{while}](https://github.com/E6985/E2746/blob/master/src/pyt/control-flow-loop-while.ipynb)
+        &#x1F530;
+
+    - [{iterator}](https://github.com/E6985/E2746/blob/master/src/pyt/iterator.ipynb)
+    &#x1F530;
+
+    - [{function}](https://github.com/E6985/E2746/blob/master/src/pyt/function-intentionally-blank.ipynb)
+    &#x26AA;
+
+        - [{user-defined}](https://github.com/E6985/E2746/blob/master/src/pyt/function-user-defined.ipynb)
+        &#x1F530;
+        [{\*args}](https://github.com/E6985/E2746/blob/master/src/pyt/function-user-defined-args.ipynb)
+        &#x1F530;
+        [{\*\*kwargs}](https://github.com/E6985/E2746/blob/master/src/pyt/function-user-defined-kwargs.ipynb)
+        &#x1F530;
+
+            - [{lambda}](https://github.com/E6985/E2746/blob/master/src/pyt/function-user-defined-lambda.ipynb)
+            &#x1F530;
+
+        - [{built-in}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-intentionally-blank.ipynb)
+        &#x26AA;
+
+            - [{iterator}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iterator-intentionally-blank.ipynb)
+            &#x26AA;
+
+                - [{enumerate}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iterator-enumerate.ipynb)
+                &#x1F530;
+                [{filter}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iterator-filter.ipynb)
+                &#x1F530;
+                [{map}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iterator-map.ipynb)
+                &#x1F530;
+                [{zip}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iterator-zip.ipynb)
+                &#x1F530;
+
+                - [{class}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iterator-class-intentionally-blank.ipynb)
+                &#x26AA;
+
+                    - [{range}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iterator-class-range.ipynb)
+                    &#x1F530;
+
+            - [{abs}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-abs.ipynb)
+            &#x1F530;
+            [{bin}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-bin.ipynb)
+            &#x1F530;
+            [{format}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-format.ipynb)
+            &#x1F530;
+            [{id}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-id.ipynb)
+            &#x1F530;
+            [{isinstance}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-isinstance.ipynb)
+            &#x1F530;
+            [{iter}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iter.ipynb)
+            &#x1F530;
+            [{len}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-len.ipynb)
+            &#x1F530;
+            [{next}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-next.ipynb)
+            &#x1F530;
+            [{print}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-print.ipynb)
+            &#x1F530;
+            [{sorted}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-sorted.ipynb)
+            &#x1F530;
+
+            - [{class}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-intentionally-blank.ipynb)
+            &#x26AA;
+
+                - [{type}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-type.ipynb)
+                &#x1F530;
+                [{object}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-object.ipynb)
+                &#x1F530;
+
+                    - [{simple}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple.ipynb)
+                    &#x1F530;
+
+                        - [{int}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-int.ipynb)
+                        &#x1F530;
+
+                        - [{float}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-float.ipynb) 
+                        &#x1F530;
+
+                            - [{method}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-float-method-intentionally-blank.ipynb) 
+                            &#x26AA;
+                            [{.as-integer-ratio}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-float-method-as-integer-ratio.ipynb)
+                            &#x1F530;
+
+                        - [{complex}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-complex.ipynb)
+                        &#x1F530;
+
+                            - [{attribute}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-complex-intentionally-blank.ipynb)
+                            &#x26AA;
+                            [{.real} {.imag}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-complex-attribute-real-imag.ipynb)
+                            &#x1F530;
+
+                            - [{method}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-complex-method-intentionally-blank.ipynb)
+                            &#x26AA; 
+                            [{.conjugate}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-complex-method-conjugate.ipynb)
+                            &#x1F530;
+
+                        - [{str}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-str.ipynb)
+                        &#x1F530;
+
+                            - [{method}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-str-method-intentionally-blank.ipynb)
+                            &#x26AA; 
+                            [{.format}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-str-method-format.ipynb)
+                            &#x1F530;
+
+                        - [{bool}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-bool.ipynb)
+                        &#x1F530;
+
+                    - [{compound}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound.ipynb)
+                    &#x1F530;
+
+                        - [{list}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list.ipynb)
+                        &#x1F530;
+
+                            - [{method}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-method-intentionally-blank.ipynb)
+                            &#x26AA;
+                            [{.append}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-method-append.ipynb)
+                            &#x1F530;
+                            [{.sort}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-method-sort.ipynb)
+                            &#x1F530;
+
+                            - [{indexing}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-indexing.ipynb)
+                            &#x1F530;
+                            
+                                - [{tuple}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-indexing-tuple.ipynb)
+                                &#x1F530;
+
+                                - [{dict}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-indexing-dict.ipynb)
+                                &#x1F530;                         
+
+                            - [{slicing}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-slicing.ipynb)
+                            &#x1F530;
+
+                                - [{tuple}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-slicing-tuple.ipynb)
+                                &#x1F530;
+                        
+                            - [{comprehension}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-comprehension.ipynb) 
+                            &#x1F530;
+
+                               - [{dict}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-comprehension-dict.ipynb)
+                               &#x1F530;
+
+                                - [{set}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-comprehension-set.ipynb)
+                                &#x1F530;
+
+                            - [{generator}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-comprehension-generator.ipynb)
+                            &#x1F530;
+
+                        - [{tuple}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-tuple.ipynb)
+                        &#x1F530;
+
+                        - [{dict}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-dict.ipynb)
+                        &#x1F530;
+
+                            - [{method}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-dict-method-intentionally-blank.ipynb)
+                            &#x26AA;
+                            [{.values}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-dict-method-values.ipynb)
+                            &#x1F530;
+
+                        - [{set}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-set.ipynb)
+                        &#x1F530;
+
+                            - [{method}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-set-method-intentionally-blank.ipynb)
+                            &#x26AA;
+                            [{.union}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-set-method-union.ipynb)
+                            &#x1F530;
+                            [{.intersection}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-set-method-intersection.ipynb)
+                            &#x1F530;
+                            [{.difference}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-set-method-difference.ipynb)
+                            &#x1F530;
+                            [{.symmetric_difference}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-set-method-symmetric_difference.ipynb)
+                            &#x1F530;
+
+    - [{errors-exceptions}](https://github.com/E6985/E2746/blob/master/src/pyt/errors-exceptions.ipynb)
+    &#x1F530;
+    [{try-except}](https://github.com/E6985/E2746/blob/master/src/pyt/errors-exceptions-try-except.ipynb)
+    &#x1F530;
+    [{raise}](https://github.com/E6985/E2746/blob/master/src/pyt/errors-exceptions-raise.ipynb)
+    &#x1F530;
+
+    - [{lorem_ipsum}](https://github.com/E6985/E2746/blob/master/src/lorem_ipsum.ipynb)
+
+    &#x23F9;
+
+    ***
+
+    <!-- ( Python - END ) -->
+
+    </details> 
+
+    <!-- ( ./par ) -->
+    > [{parallel-processing}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative-parallel-processing.ipynb)
+    &#x1F530;
+    [{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative-parallel-processing.ipynb)
+
+<!-- ( ./par ) -->
+- [{declarative}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative.ipynb)
+&#x1F530;
+[{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative.ipynb)
+
+    <!-- ( ./par ) -->
+    > [{logic}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative-logic.ipynb)
+    &#x1F530;
+    [{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative-logic.ipynb)
+    
+    <!-- ( ./par ) -->
+    > [{functional}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative-functional.ipynb)
+    &#x1F530;
+    [{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative-functional.ipynb)
+    
+    <!-- ( ./par ) -->
+    > [{database-processing}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative-database-processing.ipynb) 
+    &#x1F530;
+    [{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative-database-processing.ipynb)
+
+&#x23CF;
+
+***
+
+[//]: # (====================================================================)
+[//]: # ( Programming - END )
+[//]: # (====================================================================)
+
+</details>
+
+[//]: # (====================================================================)
+[//]: # (====================================================================)
+[//]: # (====================================================================)
+[//]: # ( A Posteriori - END )
+[//]: # (====================================================================)
+[//]: # (====================================================================)
+[//]: # (====================================================================)
+
+</details>
+
+</br>&#x23CF;
+
+***
+
 [//]: # (====================================================================)
 [//]: # (====================================================================)
 [//]: # (====================================================================)
