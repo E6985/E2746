@@ -93,43 +93,57 @@
             [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-evaluate.ipynb)
 
 > [{recursion}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion.ipynb)
-&#x1F530;
+&#x1F4CC;
 [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion.ipynb)
 
 - [{iteration}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration.ipynb)
-&#x1F530;
+&#x1F4CC;
 [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration.ipynb)
 
-    - [{types}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-types.ipynb)
-    &#x1F530;
-    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-types.ipynb)
+    - [{process}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-process.ipynb)
+    &#x1F4CC; &#x00A9;
 
-        - [{trace}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-trace.ipynb)
-        &#x1F530;
-        [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-trace.ipynb)
+        - [{stack}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-process-stack.ipynb)
+        &#x1F4CC; &#x00A9;
+        [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-process-stack.ipynb)
 
-        - [{stack}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack.ipynb)
-        &#x1F530;
-        [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack.ipynb)
+        - [{types}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-process-types-intentionally-blank.ipynb)
+        &#x26AA;
 
-    - [{error}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-error-intentionally-blank.ipynb)
-    &#x26AA;
+            - [{linear}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-process-types-linear.ipynb) 
+            &#x1F4CC;
+            [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-process-types-linear.ipynb)
 
-        - [{infinite}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-error-infinite.ipynb)
-        &#x1F530;
-        [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-error-infinite.ipynb)
+            - [{tail}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-process-types-tail.ipynb) 
+            &#x1F4CC;
+            [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-process-types-tail.ipynb)
+
+            - [{binary}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-process-types-binary.ipynb) 
+            &#x1F4CC;
+            [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-process-types-binary.ipynb)
+
+            - [{exponential}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-process-types-exponential.ipynb) 
+            &#x1F4CC;
+            [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-process-types-exponential.ipynb)
+
+- [{error}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-error-intentionally-blank.ipynb)
+&#x26AA;
+
+    - [{infinite}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-error-infinite.ipynb)
+    &#x1F4CC; &#x00A9;
+    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-error-infinite.ipynb)
 
         - [{circular}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-error-circular.ipynb)
-        &#x1F530;
+        &#x1F4CC; &#x00A9;
         [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-error-circular.ipynb)
 
-    - [{rules}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-rules.ipynb)
-    &#x1F530;
-    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-rules.ipynb)
+- [{rules}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-rules.ipynb)
+&#x1F4CC; &#x00A9;
+[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-rules.ipynb)
 
-        - [{design}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-rules-design.ipynb)
-        &#x1F530;
-        [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-rules-design.ipynb)
+    - [{design}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-rules-design.ipynb)
+    &#x1F4CC;
+    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-rules-design.ipynb)
 
 > [{cryptography}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography.ipynb)
 &#x1F530;
