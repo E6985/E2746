@@ -585,38 +585,38 @@
 	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types.ipynb)
 
 		- [{relational}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational.ipynb)
-		&#x1F530;
+		&#x1F4CC;
 		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational.ipynb)
 
 			- [{table}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table.ipynb)
-			&#x1F530;
+			&#x1F4CC;
 			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table.ipynb)
 
 				- [{column}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-column.ipynb)
-				&#x1F530;
+				&#x1F4CC;
 				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-column.ipynb)
 
 				- [{row}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-row.ipynb)
-				&#x1F530;
+				&#x1F4CC;
 				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-row.ipynb)
 
 			- [{spreadsheets}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb)
-			&#x1F530;
+			&#x1F4CC;
 			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb)
 
 			- [{language}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-intentionally-blank.ipynb)
 			&#x26AA;
 
 				- [{SQL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb)
-				&#x1F530;
+				&#x1F4CC;
 				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb)
 
 					- [{MySQL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL.ipynb)
-					&#x1F530;
+					&#x1F4CC;
 					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL.ipynb)
 
 						- [{MongoDB}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-MongoDB.ipynb)
-						&#x1F530;
+						&#x1F4CC;
 						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-MongoDB.ipynb)
 
 						- [{alias}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-alias.ipynb)
@@ -624,37 +624,37 @@
 						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-alias.ipynb)
 
 						- [{data-types}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-data-types.ipynb)
-						&#x1F530;
+						&#x1F4CC;
 						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-data-types.ipynb)
 
 						- [{command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-intentionally-blank.ipynb)
 						&#x26AA;
 
-							- [{CREATE-DATABASE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-DATABASE.ipynb)
-							&#x1F530;
+							- [{create-database}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-DATABASE.ipynb)
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-DATABASE.ipynb)
 
-							- [{SHOW-DATABASES}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-DATABASES.ipynb)
-							&#x1F530;
+							- [{show-databases}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-DATABASES.ipynb)
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-DATABASES.ipynb)
 
-							- [{USE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-USE.ipynb)
-							&#x1F530;
+							- [{use}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-USE.ipynb)
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-USE.ipynb)
 
 							- [{CREATE-TABLE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-TABLE.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-TABLE.ipynb)
 
 							- [{DESCRIBE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-DESCRIBE.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-DESCRIBE.ipynb)
 
 					- [{C_R_UD-read-command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-intentionally-blank.ipynb)
 					&#x26AA;
 
 						- [{SELECT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT.ipynb)
-						&#x1F530;
+						&#x1F4CC;
 						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT.ipynb)
 
 							- [{INNER-JOIN}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb)
