@@ -619,10 +619,6 @@
 						&#x1F4CC;
 						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-MongoDB.ipynb)
 
-						- [{alias}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-alias.ipynb)
-						&#x1F530;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-alias.ipynb)
-
 						- [{data-types}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-data-types.ipynb)
 						&#x1F4CC;
 						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-data-types.ipynb)
@@ -650,6 +646,10 @@
 							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-DESCRIBE.ipynb)
 
+                            - [{SHOW-CREATE-TABLE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-CREATE-TABLE.ipynb)
+                            &#x1F4CC;
+                            [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-CREATE-TABLE.ipynb)
+
 					- [{C_R_UD-read-command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-intentionally-blank.ipynb)
 					&#x26AA;
 
@@ -657,40 +657,44 @@
 						&#x1F4CC;
 						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT.ipynb)
 
+                            - [{alias}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-alias.ipynb)
+                            &#x1F4CC;
+                            [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-alias.ipynb)
+
 							- [{INNER-JOIN}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb)
 
 							- [{LEFT-JOIN}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LEFT-JOIN.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LEFT-JOIN.ipynb)
 
 							- [{WHERE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb)
 
 								- [{operator}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator.ipynb)
-								&#x1F530;
+								&#x1F4CC;
 								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator.ipynb)
 
 									- [{AND-OR}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-AND-OR.ipynb)
-									&#x1F530;
+									&#x1F4CC;
 									[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-AND-OR.ipynb)
 
 									- [{BETWEEN}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-BETWEEN.ipynb)
-									&#x1F530;
+									&#x1F4CC;
 									[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-BETWEEN.ipynb)
 
 									- [{LIKE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-LIKE.ipynb)
-									&#x1F530;
+									&#x1F4CC;
 									[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-LIKE.ipynb)
 
 									- [{IN}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-IN.ipynb)
-									&#x1F530;
+									&#x1F4CC;
 									[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-IN.ipynb)
 
 							- [{LIMIT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LIMIT.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LIMIT.ipynb)
 
 							- [{DISTINCT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-DISTINCT.ipynb)
