@@ -156,6 +156,17 @@
         &#x1F4CC; &#x00A9;
         [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-factorial-process-recursive.ipynb)
 
+- [{euclid}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-euclid.ipynb)
+&#x1F4CC; &#x00A9;
+[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-euclid.ipynb)
+
+    - [{process}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-euclid-process-intentionally-blank.ipynb)
+    &#x26AA; 
+
+        - [{iterative}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-euclid-process-iterative.ipynb)
+        &#x1F4CC; &#x00A9;
+        [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-euclid-process-iterative.ipynb)
+
 > [{cryptography}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography.ipynb)
 &#x1F530;
 [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography.ipynb)
