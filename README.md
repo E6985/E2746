@@ -746,14 +746,14 @@
 					&#x26AA;
 
 						- [{UPDATE-SET}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb)
-						&#x1F530;
+						&#x1F4CC;
 						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb)
 
 					- [{CRU_D_-delete-command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-intentionally-blank.ipynb)
 					&#x26AA;
 
 						- [{DELETE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE.ipynb)
-						&#x1F530;
+						&#x1F4CC;
 						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE.ipynb)
 
 							- [{foreign-key}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key.ipynb)
@@ -773,34 +773,34 @@
 								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-SET-NULL.ipynb)
 
 				- [{primary-key}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-primary-key.ipynb)
-				&#x1F530;
+				&#x1F4CC;
 				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-primary-key.ipynb)
 
 				- [{function}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb)
-				&#x1F530;
+				&#x1F4CC;
 				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb)
 
 					- [{built-in}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in.ipynb)
-					&#x1F530;
+					&#x1F4CC;
 					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in.ipynb)
 
 						- [{string}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-intentionally-blank.ipynb)
 						&#x26AA;
 
 							- [{UPPER}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-UPPER.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-UPPER.ipynb)
 
 							- [{STRCMP}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb)
 
 							- [{ASCII}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-ASCII.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-ASCII.ipynb)
 
 							- [{REPLACE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-REPLACE.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-REPLACE.ipynb)
 
 							- [{SUBSTR}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-SUBSTR.ipynb)
@@ -808,29 +808,29 @@
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-SUBSTR.ipynb)
 
 							- [{CONCAT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-CONCAT.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-CONCAT.ipynb)
 
 						- [{numeric}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-intentionally-blank.ipynb)
 						&#x26AA;
 
 							- [{SQRT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-SQRT.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-SQRT.ipynb)
 
 							- [{ROUND}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-ROUND.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-ROUND.ipynb)
 
 						- [{date}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-intentionally-blank.ipynb)
 						&#x26AA;
 
 							- [{DATEDIFF}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATEDIFF.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATEDIFF.ipynb)
 
 							- [{DATE_FORMAT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATE_FORMAT.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATE_FORMAT.ipynb)
 
 						- [{aggregate}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate.ipynb)
