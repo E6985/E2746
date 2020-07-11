@@ -834,93 +834,92 @@
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATE_FORMAT.ipynb)
 
 						- [{aggregate}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate.ipynb)
-						&#x1F530;
+						&#x1F4CC;
 						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate.ipynb)
 
 							- [{AVG}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-AVG.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-AVG.ipynb)
 
 							- [{COUNT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-COUNT.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-COUNT.ipynb)
 
 							- [{GROUP-BY}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-GROUP-BY.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-GROUP-BY.ipynb)
 
 								- [{HAVING}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-GROUP-BY-HAVING.ipynb)
-								&#x1F530;
+								&#x1F4CC;
 								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-GROUP-BY-HAVING.ipynb)
 
-						- [{information}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information.ipynb)
-						&#x1F530;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information.ipynb)
+						- [{information}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-intentionally-blank.ipynb)
+						&#x26AA;
 
 							- [{DATABASE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-DATABASE.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-DATABASE.ipynb)
 
 							- [{USER}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-USER.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-USER.ipynb)
 
 						- [{control-flow}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow.ipynb)
-						&#x1F530;
+						&#x1F4CC;
 						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow.ipynb)
 
 							- [{conditional}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-conditional.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-conditional.ipynb)
 
 							- [{CASE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-CASE.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-CASE.ipynb)
 
 					- [{stored-routine}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb)
-					&#x1F530;
+					&#x1F4CC;
 					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb)
 
-						- [{process}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-process.ipynb)
-						&#x1F530;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-process.ipynb)
+						- [{CREATE-FUNCTION}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb)
+						&#x1F4CC;
+						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb)
 
 						- [{information_schema}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-information_schema.ipynb)
-						&#x1F530;
+						&#x1F4CC;
 						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-information_schema.ipynb)
 
 						- [{command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-intentionally-blank.ipynb)
 						&#x26AA;
 
-							- [{SHOW-CREATE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-SHOW-CREATE.ipynb)
-							&#x1F530;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-SHOW-CREATE.ipynb)
+							- [{SHOW-CREATE-FUNCTION}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-SHOW-CREATE-FUNCTION.ipynb)
+							&#x1F4CC;
+							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-SHOW-CREATE-FUNCTION.ipynb)
 
 							- [{DROP}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-DROP.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-DROP.ipynb)
 
 						- [{procedures}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures.ipynb)
-						&#x1F530;
+						&#x1F4CC;
 						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures.ipynb)
 
-							- [{process}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-process.ipynb)
-							&#x1F530;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-process.ipynb)
+							- [{CREATE-PROCEDURE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-CREATE-PROCEDURE.ipynb)
+							&#x1F4CC;
+							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-CREATE-PROCEDURE.ipynb)
 
 							- [{information_schema}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-information_schema.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-information_schema.ipynb)
 
 							- [{command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-intentionally-blank.ipynb)
 							&#x26AA;
 
-								- [{SHOW-CREATE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-SHOW-CREATE.ipynb)
-								&#x1F530;
-								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-SHOW-CREATE.ipynb)
+								- [{SHOW-CREATE-PROCEDURE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-SHOW-CREATE-PROCEDURE.ipynb)
+								&#x1F4CC;
+								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-SHOW-CREATE-PROCEDURE.ipynb)
 
 								- [{DROP}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-DROP.ipynb)
-								&#x1F530;
+								&#x1F4CC;
 								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-DROP.ipynb)
 
 			- [{normalisation}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb)
