@@ -966,76 +966,76 @@
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-command-SHOW-CREATE.ipynb)
 
 		- [{non-relational}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational.ipynb)
-		&#x1F530;
+		&#x1F4CC;
 		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational.ipynb)
 
 			- [{scalability}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb)
-			&#x1F530;
+			&#x1F4CC;
 			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb)
 
 				- [{transaction}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability-transaction.ipynb)
-				&#x1F530;
+				&#x1F4CC;
 				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability-transaction.ipynb)
 
 			- [{NoSQL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-intentionally-blank.ipynb)
 			&#x26AA;
 
 				- [{MongoDB}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb)
-				&#x1F530;
+				&#x1F4CC;
 				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb)
 
 					- [{MySQL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-MySQL.ipynb)
-					&#x1F530;
+					&#x1F4CC;
 					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-MySQL.ipynb)
 
 					- [{JSON}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON.ipynb)
-					&#x1F530;
+					&#x1F4CC;
 					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON.ipynb)
 
 						- [{use}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-use.ipynb)
-						&#x1F530;
+						&#x1F4CC;
 						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-use.ipynb)
 
 						- [{data-types}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-intentionally-blank.ipynb)
 						&#x26AA;
 
 							- [{number}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-number.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-number.ipynb)
 
 							- [{string}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-string.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-string.ipynb)
 
 							- [{boolean}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-boolean.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-boolean.ipynb)
 
 							- [{array}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-array.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-array.ipynb)
 
 							- [{object}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-object.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-object.ipynb)
 
 						- [{BSON}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON.ipynb)
-						&#x1F530;
+						&#x1F4CC;
 						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON.ipynb)
 
 							- [{document}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document.ipynb)
-							&#x1F530;
+							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document.ipynb)
 
 								- [{rules}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-rules.ipynb)
-								&#x1F530;
+								&#x1F4CC;
 								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-rules.ipynb)
 
 								- [{attribute}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-intentionally-blank.ipynb)
 								&#x26AA;
 
 									- [{\_id}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb)
-									&#x1F530;
+									&#x1F4CC;
 									[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb)
 
 								- [{method}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-intentionally-blank.ipynb)
