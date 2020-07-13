@@ -1042,7 +1042,7 @@
 								&#x26AA;
 
 									- [{save}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb)
-									&#x1F530;
+									&#x1F4CC;
 									[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb)
 
 									- [{find}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb)
