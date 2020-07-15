@@ -509,7 +509,7 @@
 
 ***
 
-- [{data}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb)
+> [{data}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb)
 &#x1F530;
 [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb)
 
@@ -606,588 +606,573 @@
 	&#x1F530;
 	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types.ipynb)
 
-		- [{relational}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational.ipynb)
+> [{relational}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational.ipynb)
+&#x1F4CC;
+[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational.ipynb)
+
+- [{table}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table.ipynb)
+&#x1F4CC;
+[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table.ipynb)
+
+	- [{column}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-column.ipynb)
+	&#x1F4CC;
+	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-column.ipynb)
+
+	- [{row}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-row.ipynb)
+	&#x1F4CC;
+	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-row.ipynb)
+
+- [{spreadsheets}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb)
+&#x1F4CC;
+[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb)
+
+- [{language}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-intentionally-blank.ipynb)
+&#x26AA;
+
+	- [{SQL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb)
+	&#x1F4CC;
+	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb)
+
+		- [{MySQL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL.ipynb)
 		&#x1F4CC;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational.ipynb)
+		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL.ipynb)
 
-			- [{table}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table.ipynb)
+			- [{MongoDB}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-MongoDB.ipynb)
 			&#x1F4CC;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table.ipynb)
+			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-MongoDB.ipynb)
 
-				- [{column}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-column.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-column.ipynb)
-
-				- [{row}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-row.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-row.ipynb)
-
-			- [{spreadsheets}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb)
+			- [{data-types}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-data-types.ipynb)
 			&#x1F4CC;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb)
+			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-data-types.ipynb)
 
-			- [{language}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-intentionally-blank.ipynb)
+			- [{command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-intentionally-blank.ipynb)
 			&#x26AA;
 
-				- [{SQL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb)
+				- [{create-database}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-DATABASE.ipynb)
 				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb)
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-DATABASE.ipynb)
 
-					- [{MySQL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL.ipynb)
+				- [{show-databases}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-DATABASES.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-DATABASES.ipynb)
+
+				- [{use}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-USE.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-USE.ipynb)
+
+				- [{CREATE-TABLE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-TABLE.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-TABLE.ipynb)
+
+				- [{DESCRIBE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-DESCRIBE.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-DESCRIBE.ipynb)
+
+                 - [{SHOW-CREATE-TABLE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-CREATE-TABLE.ipynb)
+                 &#x1F4CC;
+                 [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-CREATE-TABLE.ipynb)
+
+		- [{C_R_UD-read-command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-intentionally-blank.ipynb)
+		&#x26AA;
+
+			- [{SELECT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT.ipynb)
+			&#x1F4CC;
+			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT.ipynb)
+
+                 - [{alias}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-alias.ipynb)
+                 &#x1F4CC;
+                 [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-alias.ipynb)
+
+				- [{INNER-JOIN}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb)
+
+				- [{LEFT-JOIN}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LEFT-JOIN.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LEFT-JOIN.ipynb)
+
+				- [{WHERE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb)
+
+					- [{operator}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator.ipynb)
 					&#x1F4CC;
-					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL.ipynb)
+					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator.ipynb)
 
-						- [{MongoDB}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-MongoDB.ipynb)
+						- [{AND-OR}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-AND-OR.ipynb)
 						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-MongoDB.ipynb)
+						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-AND-OR.ipynb)
 
-						- [{data-types}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-data-types.ipynb)
+						- [{BETWEEN}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-BETWEEN.ipynb)
 						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-data-types.ipynb)
+						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-BETWEEN.ipynb)
 
-						- [{command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-intentionally-blank.ipynb)
-						&#x26AA;
+						- [{LIKE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-LIKE.ipynb)
+						&#x1F4CC;
+						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-LIKE.ipynb)
 
-							- [{create-database}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-DATABASE.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-DATABASE.ipynb)
+						- [{IN}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-IN.ipynb)
+						&#x1F4CC;
+						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-IN.ipynb)
 
-							- [{show-databases}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-DATABASES.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-DATABASES.ipynb)
+				- [{LIMIT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LIMIT.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LIMIT.ipynb)
 
-							- [{use}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-USE.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-USE.ipynb)
+				- [{DISTINCT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-DISTINCT.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-DISTINCT.ipynb)
 
-							- [{CREATE-TABLE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-TABLE.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-TABLE.ipynb)
+				- [{ORDER-BY}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-ORDER-BY.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-ORDER-BY.ipynb)
 
-							- [{DESCRIBE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-DESCRIBE.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-DESCRIBE.ipynb)
+				- [{process}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process.ipynb)
 
-                            - [{SHOW-CREATE-TABLE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-CREATE-TABLE.ipynb)
+					- [{subquery}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb)
+					&#x1F4CC;
+					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb)
+
+		- [{\_C_RUD-create-command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-intentionally-blank.ipynb)
+		&#x26AA;
+
+			- [{INSERT-INTO}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb)
+			&#x1F4CC;
+			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb)
+
+		- [{CR_U_D-update-command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-intentionally-blank.ipynb)
+		&#x26AA;
+
+			- [{UPDATE-SET}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb)
+			&#x1F4CC;
+			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb)
+
+		- [{CRU_D_-delete-command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-intentionally-blank.ipynb)
+		&#x26AA;
+
+			- [{DELETE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE.ipynb)
+			&#x1F4CC;
+			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE.ipynb)
+
+				- [{foreign-key}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key.ipynb)
+				&#x1F530;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key.ipynb)
+
+					- [{ON-DELETE-RESTRICT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-RESTRICT.ipynb)
+					&#x1F530;
+					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-RESTRICT.ipynb)
+
+					- [{ON-DELETE-CASCADE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-CASCADE.ipynb)
+					&#x1F530;
+					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-CASCADE.ipynb)
+
+					- [{ON-DELETE-SET-NULL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-SET-NULL.ipynb)
+					&#x1F530;
+					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-SET-NULL.ipynb)
+
+	- [{primary-key}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-primary-key.ipynb)
+	&#x1F4CC;
+	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-primary-key.ipynb)
+
+	- [{function}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb)
+	&#x1F4CC;
+	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb)
+
+		- [{built-in}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in.ipynb)
+		&#x1F4CC;
+		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in.ipynb)
+
+			- [{string}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-intentionally-blank.ipynb)
+			&#x26AA;
+
+				- [{UPPER}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-UPPER.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-UPPER.ipynb)
+
+				- [{STRCMP}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb)
+
+				- [{ASCII}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-ASCII.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-ASCII.ipynb)
+
+				- [{REPLACE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-REPLACE.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-REPLACE.ipynb)
+
+				- [{SUBSTR}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-SUBSTR.ipynb)
+				&#x1F530;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-SUBSTR.ipynb)
+
+				- [{CONCAT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-CONCAT.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-CONCAT.ipynb)
+
+			- [{numeric}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-intentionally-blank.ipynb)
+			&#x26AA;
+
+				- [{SQRT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-SQRT.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-SQRT.ipynb)
+
+				- [{ROUND}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-ROUND.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-ROUND.ipynb)
+
+			- [{date}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-intentionally-blank.ipynb)
+			&#x26AA;
+
+				- [{DATEDIFF}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATEDIFF.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATEDIFF.ipynb)
+
+				- [{DATE_FORMAT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATE_FORMAT.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATE_FORMAT.ipynb)
+
+			- [{aggregate}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate.ipynb)
+			&#x1F4CC;
+			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate.ipynb)
+
+				- [{AVG}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-AVG.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-AVG.ipynb)
+
+				- [{COUNT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-COUNT.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-COUNT.ipynb)
+
+				- [{GROUP-BY}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-GROUP-BY.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-GROUP-BY.ipynb)
+
+					- [{HAVING}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-GROUP-BY-HAVING.ipynb)
+					&#x1F4CC;
+					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-GROUP-BY-HAVING.ipynb)
+
+			- [{information}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-intentionally-blank.ipynb)
+			&#x26AA;
+
+				- [{DATABASE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-DATABASE.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-DATABASE.ipynb)
+
+				- [{USER}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-USER.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-USER.ipynb)
+
+			- [{control-flow}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow.ipynb)
+			&#x1F4CC;
+			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow.ipynb)
+
+				- [{conditional}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-conditional.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-conditional.ipynb)
+
+				- [{CASE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-CASE.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-CASE.ipynb)
+
+		- [{stored-routine}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb)
+		&#x1F4CC;
+		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb)
+
+			- [{CREATE-FUNCTION}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb)
+			&#x1F4CC;
+			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb)
+
+			- [{information_schema}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-information_schema.ipynb)
+			&#x1F4CC;
+			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-information_schema.ipynb)
+
+			- [{command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-intentionally-blank.ipynb)
+			&#x26AA;
+
+				- [{SHOW-CREATE-FUNCTION}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-SHOW-CREATE-FUNCTION.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-SHOW-CREATE-FUNCTION.ipynb)
+
+				- [{DROP}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-DROP.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-DROP.ipynb)
+
+			- [{procedures}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures.ipynb)
+			&#x1F4CC;
+			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures.ipynb)
+
+				- [{CREATE-PROCEDURE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-CREATE-PROCEDURE.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-CREATE-PROCEDURE.ipynb)
+
+				- [{information_schema}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-information_schema.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-information_schema.ipynb)
+
+				- [{command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-intentionally-blank.ipynb)
+				&#x26AA;
+
+					- [{SHOW-CREATE-PROCEDURE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-SHOW-CREATE-PROCEDURE.ipynb)
+					&#x1F4CC;
+					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-SHOW-CREATE-PROCEDURE.ipynb)
+
+					- [{DROP}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-DROP.ipynb)
+					&#x1F4CC;
+					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-DROP.ipynb)
+
+- [{normalisation}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb)
+&#x1F530;
+[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb)
+
+	- [{anomaly}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly.ipynb)
+	&#x1F530;
+	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly.ipynb)
+
+		- [{update}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb)
+		&#x1F530;
+		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb)
+
+		- [{insertion}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb)
+		&#x1F530;
+		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb)
+
+		- [{deletion}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb)
+		&#x1F530;
+		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb)
+
+	- [{process}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb)
+	&#x1F530;
+	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb)
+
+		- [{foreign-key}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb)
+		&#x1F530;
+		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb)
+
+			- [{referential-integrity}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb)
+			&#x1F530;
+			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb)
+
+			- [{command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-command-intentionally-blank.ipynb)
+			&#x26AA;
+
+				- [{DESCRIBE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-command-DESCRIBE.ipynb)
+				&#x1F530;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-command-DESCRIBE.ipynb)
+
+				- [{SHOW-CREATE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-command-SHOW-CREATE.ipynb)
+				&#x1F530;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-command-SHOW-CREATE.ipynb)
+
+> [{non-relational}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational.ipynb)
+&#x1F4CC;
+[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational.ipynb)
+
+- [{collection}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-collection.ipynb)
+&#x1F4CC;
+[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-collection.ipynb)
+
+- [{scalability}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb)
+&#x1F4CC;
+[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb)
+
+	- [{transaction}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability-transaction.ipynb)
+	&#x1F4CC;
+	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability-transaction.ipynb)
+
+- [{NoSQL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-intentionally-blank.ipynb)
+&#x26AA;
+
+	- [{MongoDB}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb)
+	&#x1F4CC;
+	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb)
+
+		- [{MySQL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-MySQL.ipynb)
+		&#x1F4CC;
+		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-MySQL.ipynb)
+
+		- [{JSON}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON.ipynb)
+		&#x1F4CC;
+		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON.ipynb)
+
+			- [{use}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-use.ipynb)
+			&#x1F4CC;
+			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-use.ipynb)
+
+			- [{data-types}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-intentionally-blank.ipynb)
+			&#x26AA;
+
+				- [{number}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-number.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-number.ipynb)
+
+				- [{string}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-string.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-string.ipynb)
+
+				- [{boolean}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-boolean.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-boolean.ipynb)
+
+				- [{array}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-array.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-array.ipynb)
+
+				- [{object}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-object.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-object.ipynb)
+
+			- [{BSON}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON.ipynb)
+			&#x1F4CC;
+			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON.ipynb)
+
+				- [{document}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document.ipynb)
+				&#x1F4CC;
+				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document.ipynb)
+
+					- [{rules}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-rules.ipynb)
+					&#x1F4CC;
+					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-rules.ipynb)
+
+					- [{attribute}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-intentionally-blank.ipynb)
+					&#x26AA;
+
+						- [{\_id}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb)
+						&#x1F4CC;
+						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb)
+
+					- [{method}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-intentionally-blank.ipynb)
+					&#x26AA;
+
+						- [{save}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb)
+						&#x1F4CC;
+						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb)
+
+						- [{find}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb)
+						&#x1F4CC;
+						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb)
+
+                            - [{projection}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find-projection.ipynb)
                             &#x1F4CC;
-                            [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-CREATE-TABLE.ipynb)
+                            [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find-projection.ipynb)
 
-					- [{C_R_UD-read-command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-intentionally-blank.ipynb)
-					&#x26AA;
-
-						- [{SELECT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT.ipynb)
+						- [{findone}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-findone.ipynb)
 						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT.ipynb)
+						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-findone.ipynb)
 
-                            - [{alias}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-alias.ipynb)
-                            &#x1F4CC;
-                            [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-alias.ipynb)
+                        - [{pretty}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-pretty.ipynb)
+                        &#x1F4CC;
+                        [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-pretty.ipynb)
 
-							- [{INNER-JOIN}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb)
-
-							- [{LEFT-JOIN}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LEFT-JOIN.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LEFT-JOIN.ipynb)
-
-							- [{WHERE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb)
-
-								- [{operator}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator.ipynb)
-								&#x1F4CC;
-								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator.ipynb)
-
-									- [{AND-OR}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-AND-OR.ipynb)
-									&#x1F4CC;
-									[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-AND-OR.ipynb)
-
-									- [{BETWEEN}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-BETWEEN.ipynb)
-									&#x1F4CC;
-									[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-BETWEEN.ipynb)
-
-									- [{LIKE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-LIKE.ipynb)
-									&#x1F4CC;
-									[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-LIKE.ipynb)
-
-									- [{IN}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-IN.ipynb)
-									&#x1F4CC;
-									[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-IN.ipynb)
-
-							- [{LIMIT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LIMIT.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LIMIT.ipynb)
-
-							- [{DISTINCT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-DISTINCT.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-DISTINCT.ipynb)
-
-							- [{ORDER-BY}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-ORDER-BY.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-ORDER-BY.ipynb)
-
-							- [{process}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process.ipynb)
-
-								- [{subquery}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb)
-								&#x1F4CC;
-								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb)
-
-					- [{\_C_RUD-create-command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-intentionally-blank.ipynb)
-					&#x26AA;
-
-						- [{INSERT-INTO}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb)
+						- [{sort}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-sort.ipynb)
 						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb)
+						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-sort.ipynb)
 
-					- [{CR_U_D-update-command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-intentionally-blank.ipynb)
-					&#x26AA;
-
-						- [{UPDATE-SET}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb)
+						- [{insert}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-insert.ipynb)
 						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb)
+						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-insert.ipynb)
 
-					- [{CRU_D_-delete-command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-intentionally-blank.ipynb)
-					&#x26AA;
-
-						- [{DELETE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE.ipynb)
+						- [{update}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb)
 						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE.ipynb)
+						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb)
 
-							- [{foreign-key}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key.ipynb)
-							&#x1F530;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key.ipynb)
-
-								- [{ON-DELETE-RESTRICT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-RESTRICT.ipynb)
-								&#x1F530;
-								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-RESTRICT.ipynb)
-
-								- [{ON-DELETE-CASCADE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-CASCADE.ipynb)
-								&#x1F530;
-								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-CASCADE.ipynb)
-
-								- [{ON-DELETE-SET-NULL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-SET-NULL.ipynb)
-								&#x1F530;
-								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-SET-NULL.ipynb)
-
-				- [{primary-key}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-primary-key.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-primary-key.ipynb)
-
-				- [{function}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb)
-
-					- [{built-in}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in.ipynb)
-					&#x1F4CC;
-					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in.ipynb)
-
-						- [{string}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-intentionally-blank.ipynb)
-						&#x26AA;
-
-							- [{UPPER}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-UPPER.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-UPPER.ipynb)
-
-							- [{STRCMP}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb)
-
-							- [{ASCII}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-ASCII.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-ASCII.ipynb)
-
-							- [{REPLACE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-REPLACE.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-REPLACE.ipynb)
-
-							- [{SUBSTR}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-SUBSTR.ipynb)
-							&#x1F530;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-SUBSTR.ipynb)
-
-							- [{CONCAT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-CONCAT.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-CONCAT.ipynb)
-
-						- [{numeric}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-intentionally-blank.ipynb)
-						&#x26AA;
-
-							- [{SQRT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-SQRT.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-SQRT.ipynb)
-
-							- [{ROUND}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-ROUND.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-ROUND.ipynb)
-
-						- [{date}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-intentionally-blank.ipynb)
-						&#x26AA;
-
-							- [{DATEDIFF}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATEDIFF.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATEDIFF.ipynb)
-
-							- [{DATE_FORMAT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATE_FORMAT.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATE_FORMAT.ipynb)
-
-						- [{aggregate}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate.ipynb)
+						- [{deleteOne}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteOne.ipynb)
 						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate.ipynb)
+						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteOne.ipynb)
 
-							- [{AVG}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-AVG.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-AVG.ipynb)
-
-							- [{COUNT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-COUNT.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-COUNT.ipynb)
-
-							- [{GROUP-BY}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-GROUP-BY.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-GROUP-BY.ipynb)
-
-								- [{HAVING}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-GROUP-BY-HAVING.ipynb)
-								&#x1F4CC;
-								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-GROUP-BY-HAVING.ipynb)
-
-						- [{information}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-intentionally-blank.ipynb)
-						&#x26AA;
-
-							- [{DATABASE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-DATABASE.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-DATABASE.ipynb)
-
-							- [{USER}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-USER.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-USER.ipynb)
-
-						- [{control-flow}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow.ipynb)
+						- [{deleteMany}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteMany.ipynb)
 						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow.ipynb)
+						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteMany.ipynb)
 
-							- [{conditional}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-conditional.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-conditional.ipynb)
-
-							- [{CASE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-CASE.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-CASE.ipynb)
-
-					- [{stored-routine}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb)
-					&#x1F4CC;
-					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb)
-
-						- [{CREATE-FUNCTION}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb)
+						- [{aggregate}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate.ipynb)
 						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb)
+						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate.ipynb)
 
-						- [{information_schema}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-information_schema.ipynb)
-						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-information_schema.ipynb)
-
-						- [{command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-intentionally-blank.ipynb)
-						&#x26AA;
-
-							- [{SHOW-CREATE-FUNCTION}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-SHOW-CREATE-FUNCTION.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-SHOW-CREATE-FUNCTION.ipynb)
-
-							- [{DROP}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-DROP.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-DROP.ipynb)
-
-						- [{procedures}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures.ipynb)
-						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures.ipynb)
-
-							- [{CREATE-PROCEDURE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-CREATE-PROCEDURE.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-CREATE-PROCEDURE.ipynb)
-
-							- [{information_schema}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-information_schema.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-information_schema.ipynb)
-
-							- [{command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-intentionally-blank.ipynb)
+							- [{pipeline}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-intentionally-blank.ipynb)
 							&#x26AA;
 
-								- [{SHOW-CREATE-PROCEDURE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-SHOW-CREATE-PROCEDURE.ipynb)
+								- [{$group}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-group.ipynb)
 								&#x1F4CC;
-								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-SHOW-CREATE-PROCEDURE.ipynb)
+								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-group.ipynb)
 
-								- [{DROP}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-DROP.ipynb)
+								- [{$sort}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb)
 								&#x1F4CC;
-								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-DROP.ipynb)
+								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb)
 
-			- [{normalisation}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb)
-			&#x1F530;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb)
+							- [{operator}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-intentionally-blank.ipynb)
+							&#x26AA;
 
-				- [{anomaly}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly.ipynb)
-				&#x1F530;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly.ipynb)
+								- [{$avg}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-avg.ipynb)
+								&#x1F4CC;
+								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-avg.ipynb)
 
-					- [{update}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb)
-					&#x1F530;
-					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb)
+								- [{$max}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-max.ipynb)
+								&#x1F4CC;
+								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-max.ipynb)
 
-					- [{insertion}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb)
-					&#x1F530;
-					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb)
+					- [{indexing}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb)
+					&#x1F4CC;
+					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb)
 
-					- [{deletion}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb)
-					&#x1F530;
-					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb)
-
-				- [{process}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb)
-				&#x1F530;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb)
-
-					- [{foreign-key}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb)
-					&#x1F530;
-					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb)
-
-						- [{referential-integrity}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb)
-						&#x1F530;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb)
-
-						- [{command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-command-intentionally-blank.ipynb)
+						- [{method}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-intentionally-blank.ipynb)
 						&#x26AA;
 
-							- [{DESCRIBE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-command-DESCRIBE.ipynb)
-							&#x1F530;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-command-DESCRIBE.ipynb)
+							- [{createIndex}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-createIndex.ipynb)
+							&#x1F4CC;
+							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-createIndex.ipynb)
 
-							- [{SHOW-CREATE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-command-SHOW-CREATE.ipynb)
-							&#x1F530;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-command-SHOW-CREATE.ipynb)
+                            - [{getIndexes}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-getIndexes.ipynb)
+                            &#x1F4CC;
+                            [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-getIndexes.ipynb)
 
-		- [{non-relational}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational.ipynb)
-		&#x1F4CC;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational.ipynb)
+							- [{dropIndex}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-dropIndex.ipynb)
+							&#x1F4CC;
+							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-dropIndex.ipynb)
 
-			- [{scalability}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb)
-			&#x1F4CC;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb)
-
-				- [{transaction}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability-transaction.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability-transaction.ipynb)
-
-			- [{NoSQL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-intentionally-blank.ipynb)
-			&#x26AA;
-
-				- [{MongoDB}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb)
-
-					- [{MySQL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-MySQL.ipynb)
+					- [{operator}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator.ipynb)
 					&#x1F4CC;
-					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-MySQL.ipynb)
+					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator.ipynb)
 
-					- [{JSON}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON.ipynb)
-					&#x1F4CC;
-					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON.ipynb)
-
-						- [{use}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-use.ipynb)
-						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-use.ipynb)
-
-						- [{data-types}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-intentionally-blank.ipynb)
+						- [{query-logical}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-intentionally-blank.ipynb)
 						&#x26AA;
 
-							- [{number}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-number.ipynb)
+							- [{$and}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-and.ipynb)
 							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-number.ipynb)
+							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-and.ipynb)
 
-							- [{string}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-string.ipynb)
+							- [{$or}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-or.ipynb)
 							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-string.ipynb)
+							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-or.ipynb)
 
-							- [{boolean}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-boolean.ipynb)
+						- [{query-comparison}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-intentionally-blank.ipynb)
+						&#x26AA;
+
+							- [{$in}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-in.ipynb)
 							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-boolean.ipynb)
+							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-in.ipynb)
 
-							- [{array}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-array.ipynb)
+							- [{$gt}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-gt.ipynb)
 							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-array.ipynb)
+							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-gt.ipynb)
 
-							- [{object}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-object.ipynb)
+							- [{$lt}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-lt.ipynb)
 							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-object.ipynb)
+							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-lt.ipynb)
 
-						- [{BSON}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON.ipynb)
-						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON.ipynb)
+						- [{query-element}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-intentionally-blank.ipynb)
+						&#x26AA;
 
-							- [{document}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document.ipynb)
+							- [{$set}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-set.ipynb)
 							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document.ipynb)
+							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-set.ipynb)
 
-								- [{rules}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-rules.ipynb)
-								&#x1F4CC;
-								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-rules.ipynb)
-
-								- [{attribute}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-intentionally-blank.ipynb)
-								&#x26AA;
-
-									- [{\_id}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb)
-									&#x1F4CC;
-									[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb)
-
-								- [{method}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-intentionally-blank.ipynb)
-								&#x26AA;
-
-									- [{save}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb)
-									&#x1F4CC;
-									[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb)
-
-									- [{find}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb)
-									&#x1F4CC;
-									[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb)
-
-										- [{projection}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find-projection.ipynb)
-										&#x1F4CC;
-										[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find-projection.ipynb)
-
-									- [{findone}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-findone.ipynb)
-									&#x1F4CC;
-									[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-findone.ipynb)
-
-									- [{sort}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-sort.ipynb)
-									&#x1F4CC;
-									[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-sort.ipynb)
-
-									- [{insert}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-insert.ipynb)
-									&#x1F4CC;
-									[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-insert.ipynb)
-
-									- [{update}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb)
-									&#x1F4CC;
-									[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb)
-
-									- [{deleteOne}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteOne.ipynb)
-									&#x1F4CC;
-									[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteOne.ipynb)
-
-									- [{deleteMany}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteMany.ipynb)
-									&#x1F4CC;
-									[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteMany.ipynb)
-
-									- [{aggregate}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate.ipynb)
-									&#x1F4CC;
-									[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate.ipynb)
-
-										- [{pipeline}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-intentionally-blank.ipynb)
-										&#x26AA;
-
-											- [{$group}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-group.ipynb)
-											&#x1F4CC;
-											[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-group.ipynb)
-
-											- [{$sort}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb)
-											&#x1F4CC;
-											[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb)
-
-										- [{operator}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-intentionally-blank.ipynb)
-										&#x26AA;
-
-											- [{$avg}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-avg.ipynb)
-											&#x1F4CC;
-											[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-avg.ipynb)
-
-											- [{$max}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-max.ipynb)
-											&#x1F4CC;
-											[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-max.ipynb)
-
-								- [{indexing}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb)
-								&#x1F530;
-								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb)
-
-									- [{method}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-intentionally-blank.ipynb)
-									&#x26AA;
-
-										- [{getIndexes}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-getIndexes.ipynb)
-										&#x1F530;
-										[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-getIndexes.ipynb)
-
-										- [{createIndex}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-createIndex.ipynb)
-										&#x1F530;
-										[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-createIndex.ipynb)
-
-										- [{dropIndex}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-dropIndex.ipynb)
-										&#x1F530;
-										[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-dropIndex.ipynb)
-
-								- [{operator}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator.ipynb)
-								&#x1F530;
-								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator.ipynb)
-
-									- [{query-logical}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-intentionally-blank.ipynb)
-									&#x26AA;
-
-										- [{$and}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-and.ipynb)
-										&#x1F4CC;
-										[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-and.ipynb)
-
-										- [{$or}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-or.ipynb)
-										&#x1F4CC;
-										[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-or.ipynb)
-
-									- [{query-comparison}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-intentionally-blank.ipynb)
-									&#x26AA;
-
-										- [{$in}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-in.ipynb)
-										&#x1F4CC;
-										[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-in.ipynb)
-
-										- [{$gt}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-gt.ipynb)
-										&#x1F4CC;
-										[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-gt.ipynb)
-
-										- [{$lt}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-lt.ipynb)
-										&#x1F4CC;
-										[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-lt.ipynb)
-
-									- [{query-element}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-intentionally-blank.ipynb)
-									&#x26AA;
-
-										- [{$set}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-set.ipynb)
-										&#x1F4CC;
-										[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-set.ipynb)
-
-									- [{update-field}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-intentionally-blank.ipynb)
-									&#x26AA;
-                                    
-										- [{$exists}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-exists.ipynb)
-										&#x1F4CC;
-										[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-exists.ipynb)
-
-								- [{collection}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-collection.ipynb)
-								&#x1F530;
-								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-collection.ipynb)
-
-					- [{command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-command-intentionally-blank.ipynb)
-					&#x26AA;
-
-						- [{show-db}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-command-show-db.ipynb)
-						&#x1F530;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-command-show-db.ipynb)
-
-						- [{use}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-command-use.ipynb)
-						&#x1F530;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-command-use.ipynb)
-
-						- [{db}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-command-db.ipynb)
-						&#x1F530;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-command-db.ipynb)
-
-						- [{show-collections }](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-command-show-collections.ipynb)
-						&#x1F530;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-command-show-collections.ipynb)
+						- [{update-field}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-intentionally-blank.ipynb)
+						&#x26AA;
+                        
+							- [{$exists}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-exists.ipynb)
+							&#x1F4CC;
+							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-exists.ipynb)
 
 - [{lorem_ipsum}](https://github.com/E6985/E2746/blob/master/src/lorem_ipsum.ipynb)
 
