@@ -22,52 +22,76 @@
 
 ***
 
-- [{computer-science}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/computer-science.ipynb)
-&#x1F530;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/computer-science.ipynb)
+- { ["**computer-science**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/computer-science.ipynb) : &#x1F4CC;
+["study-processes-data-program"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/computer-science.ipynb) } &#x1F3C1;
 
-> [{analyse}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/analyse-intentionally-blank.ipynb)
-&#x26AA;
+> { ["**analyse**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/analyse-intentionally-blank.ipynb) :
+&#x26AA; }
 
-- [{algorithm}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm.ipynb)
-&#x1F530;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm.ipynb)
+- { ["**algorithm**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm.ipynb) : &#x1F4CC; [
+["process-rules"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm.ipynb) ,
+["recipe-instructions"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm.ipynb) ,
+["questions-criteria-compared-appropriate"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm.ipynb) ,
+["properties-speed-efficiency-readability-complexity-computability"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm.ipynb) ,
+["programming-solving-implementation"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm.ipynb) ,
+["life"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm.ipynb) ] } &#x1F3C1;
 
-    - [{features}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-features.ipynb)
-    &#x1F530;
-    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-features.ipynb)
+    - { ["**features**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-features.ipynb) : &#x1F4CC; [
+    ["input](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-features.ipynb) ,
+    ["output"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-features.ipynb) ,
+    ["finiteness"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-features.ipynb) ,
+    ["unambiguous"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-features.ipynb) ,
+    ["correctness"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-features.ipynb) ,
+    ["feasibility"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-features.ipynb) ,
+    ["efficiency"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-features.ipynb) ] } &#x1F3C1;
 
-    - [{correctness}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-correctness.ipynb)
-    &#x1F530;
-    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-correctness.ipynb)
+    - { ["**correctness**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-correctness.ipynb) : &#x1F4CC; [
+    ["solution-incorrect-acceptable-probability-controlled"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-correctness.ipynb) ,
+    ["margin-error-complete"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-correctness.ipynb) ] } &#x1F3C1;
 
-    - [{efficiency}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency.ipynb)
-    &#x1F530;
-    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency.ipynb)
+    - { ["**efficiency**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency.ipynb) : &#x1F4CC; [
+    ["resources"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency.ipynb) ,
+    ["factors"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency.ipynb) ,
+    ["time-number-operations"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency.ipynb) ,
+    ["space-memory-storage"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency.ipynb) ,
+    ["analysing"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency.ipynb) ,
+    ["a-priori-theoretical-removes-implementation-complexity"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency.ipynb) ,
+    ["a-posteriori-empirically-measurements-experimentation-performance"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency.ipynb) ] } &#x1F3C1;
 
-        - [{performance}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-performance.ipynb)
-        &#x1F530;
-        [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-performance.ipynb)
+        - { ["**performance**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-performance.ipynb) : &#x1F4CC;
+        ["a-posteriori-performance-external-not-complexity"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-performance.ipynb) } &#x1F3C1;
 
-        - [{complexity}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity.ipynb)
-        &#x1F530;
-        [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity.ipynb)
+        - { ["**complexity**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity.ipynb) : &#x1F4CC; [
+        ["a priori-complexity-internal-eliminating-platform-specific"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity.ipynb) ,
+        ["resource-scale-affect-performance"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity.ipynb) ,
+        ["platform-independent-empirical-limited-mathematically"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity.ipynb) ,
+        ["evaluating-growth-time-increasing-size"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity.ipynb) ] } &#x1F3C1;
 
-            - [{best-average-worst}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-best-average-worst.ipynb)
-            &#x1F530;
-            [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-best-average-worst.ipynb)
+            - { ["**optimal**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal.ipynb) : &#x1F4CC; [
+            ["size-input-characteristics-effect-time"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal.ipynb) ,
+            ["no-algorithm-optimal-understanding-problem-probability-distribution-behaviour"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal.ipynb) ] } &#x1F3C1;
 
-            - [{orders-of-magnitude}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude.ipynb)
-            &#x1F530;
-            [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude.ipynb)
+                - { ["**worst**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal-worst.ipynb) : &#x1F4CC; [
+                ["input-runtime-behaviour-properties-prevent-efficiently"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal-worst.ipynb) ,
+                ["operations-instances-size-maximum-execution-bound-guarantees-sample"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal-worst.ipynb) ] } &#x1F3C1;
 
-                - [{classification}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification.ipynb)
-                &#x1F530;
-                [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification.ipynb)
+                - { ["**best**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal-best.ipynb)  : &#x1F4CC;
+                ["input-runtime-behaviour-rarely"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal-best.ipynb) } &#x1F3C1;
 
-                    - [{curves}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification-curves.ipynb)
-                    &#x1F530;
-            		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification-curves.ipynb)
+                - { ["**average**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal-average.ipynb) : &#x1F4CC;
+                ["expected-random-input"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal-average.ipynb) } &#x1F3C1;
+ 
+            - { ["**orders-of-magnitude**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude.ipynb) : &#x1F4CC;
+            ["mathematical-term-classes-numbers"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude.ipynb) } &#x1F3C1;
+
+                - { ["**classification**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification.ipynb) : &#x1F4CC;
+                ["growth-size-increased-efficient-constant-logarithmic-sublinear-linear-n log(n)-polynominal-exponential"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification.ipynb) } &#x1F3C1;
+
+                    - { ["**curves**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification-curves.ipynb) : &#x1F4CC; [
+                    ["growth-functions-complexity-analysis"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification-curves.ipynb) ,
+                    ["graph-input-time"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification-curves.ipynb) ,
+                    ["magitude-growth-functions-constant-logarithmic-linear-linearithmic-polynomial-exponential"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification-curves.ipynb) ,
+                    ["complexity-expensive-determine-classification"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification-curves.ipynb) ] } &#x1F3C1;
 
             - [{asymptotic-notation}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/asymptotic-notation-intentionally-blank.ipynb)
             &#x26AA;
@@ -168,27 +192,27 @@
         [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-euclid-process-iterative.ipynb)
 
 > [{cryptography}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography.ipynb)
-&#x1F530;
+&#x1F4CC;
 [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography.ipynb)
 
 - [{statement}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-statement.ipynb)
-&#x1F530;
+&#x1F4CC;
 [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-statement.ipynb)
 
 - [{terms}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms.ipynb)
-&#x1F530;
+&#x1F4CC;
 [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms.ipynb)
 
     - [{symmetric}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric.ipynb)
-    &#x1F530;
+    &#x1F4CC;
     [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric.ipynb)
 
         - [{monoalphabetic}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb)
-        &#x1F530;
+        &#x1F4CC;
         [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb)
 
         - [{polyalphabetic}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb)
-        &#x1F530;
+        &#x1F4CC;
         [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb)
 
         - [{limitation}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation.ipynb)
