@@ -93,28 +93,45 @@
                     ["magitude-growth-functions-constant-logarithmic-linear-linearithmic-polynomial-exponential"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification-curves.ipynb) ,
                     ["complexity-expensive-determine-classification"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification-curves.ipynb) ] } &#x1F3C1;
 
-            - [{asymptotic-notation}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/asymptotic-notation-intentionally-blank.ipynb)
-            &#x26AA;
+            - { ["**asymptotic-analysis**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis.ipynb) : &#x1F4CC;
+            ["mathematical-boundary-run-time-operation-units-computation"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis.ipynb) } &#x1F3C1;
 
-                - [{big-O}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-big-O.ipynb)
-                &#x1F530;
-                [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-big-O.ipynb)
+                - { ["**big-O**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-big-O.ipynb) : &#x1F4CC; [
+                ["notation-symbolism-asymptotic-behaviours-functions-measures-growth-order"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-big-O.ipynb) ,
+                ["describe-complexity-worst-case-time-operations-measure-efficiency"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-big-O.ipynb) ,
+                ["small-size-all-efficient-input-increases-order-important"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-big-O.ipynb) ,
+                ["evaluating-complexity-notations-similar-same-notation-not-execute-time-order-operations"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-big-O.ipynb) ,
+                ["identify-tightest-upper-bound-O-term-dominate-deciding-algorithm-specific-instance"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-big-O.ipynb) ] } &#x1F3C1;
 
-                - [{omega}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-omega.ipynb)
-                &#x1F530;
-                [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-omega.ipynb)
+                - { ["**omega**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-omega.ipynb) : &#x1F4CC; [
+                ["notation-complexity-describes-best-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-omega.ipynb) ,
+                ["represents-lower-bound-operations-exhibits-linear-growth-elements-increase"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-omega.ipynb) ] } &#x1F3C1;
 
-                - [{theta}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-theta.ipynb)
-                &#x1F530;
-                [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-theta.ipynb)
+                - { ["**theta**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-theta.ipynb) : &#x1F4CC; [
+                ["notation-describes-complexity-average-case-certain-order"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-theta.ipynb) ,
+                ["theta-both-apply-big-omega"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-theta.ipynb) ,
+                ["upper-lower-limits-not-same-same-order"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-theta.ipynb) ] } &#x1F3C1;
 
-            - [{implement}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-implement.ipynb)
-            &#x1F530;
-            [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-implement.ipynb)
+           - { ["**analyse**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse.ipynb) : &#x1F4CC; [
+            ["complexity-separate-algorithm-implementation-concepts-size-elementary-operations"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse.ipynb) ,
+            ["assume-operations-same-time-ram-model"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse.ipynb) ] } &#x1F3C1;
 
-            - [{evaluate}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-evaluate.ipynb)
-            &#x1F530;
-            [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-evaluate.ipynb)
+                - { ["**evaluate**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate.ipynb) : &#x1F4CC; [
+                ["complexity-identify-expensive-computation-determine-terms-dominate"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate.ipynb) ,
+                ["equation-calculates-number-operations-complete-interested-higher-order"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate.ipynb) ,
+                ["better-asymptotic-growth-execute-faster-dominate"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate.ipynb) ,
+                ["asymptotic-analysis-fastest-growing-term"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate.ipynb) ] } &#x1F3C1;
+
+                    - { [&#x00A9; "**O-constant-n**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate-O-constant-n.ipynb) : &#x1F4CC;
+                    ["not-matter-how-many-elements-checks-first"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate-O-constant-n.ipynb) } &#x1F3C1;
+
+                    - { [&#x00A9; "**O-linear-n**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate-O-linear-n.ipynb) : &#x1F4CC; [
+                    ["linear-worst case-proportion-size-input"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate-O-linear-n.ipynb) ,
+                    ["loops-once-single-best-case-average-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate-O-linear-n.ipynb) ] } &#x1F3C1;
+
+                    - { [&#x00A9; "**O-polynomial-n**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate-O-polynomial-n.ipynb) : &#x1F4CC; [
+                    ["quadratic-time-worst-case-proportional-square-size-input"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate-O-polynomial-n.ipynb) ,
+                    ["complexity-nested-iterations-deeper-result-higher-orders"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate-O-polynomial-n.ipynb) ] } &#x1F3C1;
 
 > [{recursion}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion.ipynb)
 &#x2623;
