@@ -221,29 +221,53 @@
 
                 - [{iterative}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-euclid-iterative.ipynb)
 
-> [{cryptography}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography.ipynb)
-&#x1F4CC;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography.ipynb)
+> { ["**cryptography**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography.ipynb) : &#x1F4CC; [
+["science-secrecy-communicate-secure-private-reliable"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography.ipynb) ,
+["computational-thinking-algorithmic-perspective-problems-exist-no-good-algorithms"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography.ipynb) ,
+["problems-exist-difficult-solve-not-impossible"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography.ipynb) ] } &#x1F3C1;
 
-- [{statement}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-statement.ipynb)
-&#x1F4CC;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-statement.ipynb)
+- { ["**statement**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-statement.ipynb) : &#x1F4CC; [
+["cryptography-basic-problem-solved-encrypting-decrypting"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-statement.ipynb) ,
+["encryption-obfuscating-hiding-substance"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-statement.ipynb) ,
+["decryption-obtain-original-substance-not-eavesdropper"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-statement.ipynb) ,
+["communication-path-not-reliable-intercepted-not-know-substance-recipient-figure-out"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-statement.ipynb) ,
+["problem-signing-message-not-trick-sender-later-deny-received-signed-message-cannot-obtain-senders-signature"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-statement.ipynb) ] } &#x1F3C1;
 
-- [{terms}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms.ipynb)
-&#x1F4CC;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms.ipynb)
+- { ["**terms**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms.ipynb) : &#x1F4CC; [
+["plaintext-clear-text-not-obfuscated-input-encryption-process"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms.ipynb) ,
+["encryption-disguising-works-input-result-ciphertext"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms.ipynb) ] } &#x1F3C1;
 
-    - [{symmetric}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric.ipynb)
-    &#x1F4CC;
-    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric.ipynb)
+    - { ["**symmetric**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric.ipynb) : &#x1F4CC; [
+    ["cryptography-locking-data-cannot-accessed-later-unlock-data"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric.ipynb) ,
+    ["locks-keys-symmetric"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric.ipynb) ,
+    ["conventional-secret-key-symmetric-key-one-key-encryption-decryption"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric.ipynb) ,
+    ["DES-cryptosystem-plaintext-lock-key-ciphertext-same-key-decrypt"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric.ipynb) ] } &#x1F3C1;
 
-        - [{monoalphabetic}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb)
-        &#x1F4CC;
-        [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb)
+        - { ["**monoalphabetic**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) : &#x1F4CC; [
+        ["physical-key-encrypt-locking-door"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) ,
+        ["mental-key-send-obfuscate-hiding-substance"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) ,
+        ["symmetric-same-key-lock-unlock-substitution-cipher-caesar-cipher"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) ,
+        ["decryption-recipient-copy-key-shift-characters-original-message"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) ,
+        ["caesar-cipher-substitution-cipher-one-to-one-mapping-monoalphabetic-substitution"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) ,
+        ["cryptanalysis-statistical-properties-english-language-obtain-substance"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) ,
+        ["frequency-analysis-calculate-number-occurances"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) ,
+        ["hypothesis-shift-produces-valid-message"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) ,
+        ["symmetic-key-kept-secret-problem-algorithm-not-strong"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) ,
+        ["items-cryptographic-system-strong-locks-keys-secret"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) ,
+        ["caesar-monoalphabetic-substitutions-not-strong-lock"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) ] } &#x1F3C1;
 
-        - [{polyalphabetic}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb)
-        &#x1F4CC;
-        [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb)
+        - { ["**polyalphabetic**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) : &#x1F4CC; [
+        ["sophisticated-not-single-letter-shift-multiple-poly"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ,
+        ["key-phrase-fixed-length"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ,
+        ["assign-numeric-values-letters-not-secret-known-everyone"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ,
+        ["assign-numeric-values-numbers-item-code-list"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ,
+        ["secret-polyalphabetic-substitution-cipher-encryption-algorithm"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ,
+        ["choose-key-phrase-shorter-plaintext-repeat-key-phrase"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ,
+        ["add-value-letter-key-letter-plaintext-same-position-ciphertext"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ,
+        ["algorithm-each-position-plaintext-numeric-value-corresponding-letter-same-position-key-phrase"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ,
+        ["multiple-caesar-ciphers-advantage-same-plaintext-mapped-different-ciphertext"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ,
+        ["same-plaintext-mapped-different-ciphertext-frequency-analysis-no-use"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ,
+        ["decryption-algorithm-reverse-encryption-algorithm-symmetry"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ] } &#x1F3C1;
 
         - [{limitation}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation.ipynb)
         &#x1F530;
