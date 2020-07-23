@@ -170,8 +170,8 @@
         - { ["**exponential**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-exponential.ipynb) : &#x1F4CC;
         ["multiple-calls-avoid-exponential-growth-inefficient"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-exponential.ipynb) } &#x1F3C1;
 
-    - [{error}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-intentionally-blank.ipynb)
-    &#x26AA;
+    - { ["**error**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-intentionally-blank.ipynb) :
+    &#x26AA; }
 
         - { [&#x00A9; "**infinite**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite.ipynb) : &#x1F4CC; [
         ["recursive-method-not-base-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite.ipynb) ,
@@ -256,7 +256,7 @@
         ["items-cryptographic-system-strong-locks-keys-secret"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) ,
         ["caesar-monoalphabetic-substitutions-not-strong-lock"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) ] } &#x1F3C1;
 
-        - { ["**polyalphabetic**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) : &#x1F4CC; [
+        - { [&#x00A9; "**polyalphabetic**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) : &#x1F4CC; [
         ["sophisticated-not-single-letter-shift-multiple-poly"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ,
         ["key-phrase-fixed-length"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ,
         ["assign-numeric-values-letters-not-secret-known-everyone"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ,
@@ -269,21 +269,30 @@
         ["same-plaintext-mapped-different-ciphertext-frequency-analysis-no-use"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ,
         ["decryption-algorithm-reverse-encryption-algorithm-symmetry"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ] } &#x1F3C1;
 
-        - [{limitation}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation.ipynb)
-        &#x1F530;
-        [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation.ipynb)
+        - { ["**limitation**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation.ipynb) : &#x1F4CC; [
+        ["desired-cryptography-system-encrypting-decrypting-message-signed"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation.ipynb) ,
+        ["encrypting-decrypting-solved-symmetric-size-key-space-important"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation.ipynb) ,
+        ["message-signed-sender-not-solved-symmetric"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation.ipynb) ,
+        ["no-signuture-recipient-cannot-be-sure-sender-be-sure-decrypt"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation.ipynb) ,
+        ["major-limitation-symmetric-signing-message"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation.ipynb) ,
+        ["major-drawback-symmetric-key-distribution-management-distributed-parties-copy-key"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation.ipynb) ,
+        ["symmetric-parties-cooperate-generation-distribution-key-pairs-culturally-feasible-not-scalable"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation.ipynb) ] } &#x1F3C1;
 
-            - [{key}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation-key.ipynb)
-            &#x1F530;
-            [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation-key.ipynb)
+            - { ["**key**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation-key.ipynb) : &#x1F4CC; [
+            ["symmetric-key-management-transferring-keys"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation-key.ipynb) ,
+            ["sender-recipient-agree-same-key-other-better-cryptosystem"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation-key.ipynb) ] } &#x1F3C1;
 
-    - [{cryptosystem}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem.ipynb)
-    &#x1F530;
-    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-cryptosystem.ipynb)
+    - { ["**cryptosystem**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem.ipynb) : &#x1F4CC; [
+    ["strength-function-algorithm-key-longer"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem.ipynb) ,
+    ["assumption-method-encryption-known-security-lies-secrecy-key-paramount"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem.ipynb) ,
+    ["larger-key-higher-work-cryptanalyst"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem.ipynb) ,
+    ["brute-force-all-possible-key-values"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem.ipynb) ] } &#x1F3C1;
 
-        - [{key}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem-key.ipynb)
-        &#x1F530;
-        [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem-key.ipynb)
+        - { [&#x00A9; "**key**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem-key.ipynb) : &#x1F4CC; [
+        ["polyalphabetic-substitution-simple-key"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem-key.ipynb) ,
+        ["key-number-potential-space-number-hard-difficult-reasonable-time"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem-key.ipynb) ,
+        ["power-of-exponentiation-adding-just-one-bit-doubles-space"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem-key.ipynb) ,
+        ["brute-force-consider-number-keys-speed-each-test-naive"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem-key.ipynb) ] } &#x1F3C1;
 
     - [{asymmetric}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric.ipynb)
     &#x1F530;
@@ -1000,48 +1009,51 @@
 					&#x1F4CC;
 					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-DROP.ipynb)
 
-- [{normalisation}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb)
-&#x1F530;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb)
+- { ["**normalisation**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) : &#x1F4CC; [
+["organising-columns-tables-relational-database-minimise-data-redundancy"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
+["breaking-table-smaller-related-data-easier-update-less-prone-anomalies"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
+["normalisation-large-table-large-number-columns"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
+["table-broken-down"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
+["reason-interlinked-tables-less-columns-definition-database"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
+["process-done-defining-schema"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
+["stages-normal-forms-rules"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ] } &#x1F3C1;
 
-	- [{anomaly}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly.ipynb)
-	&#x1F530;
-	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly.ipynb)
+    - { ["**anomaly**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-intentionally-blank.ipynb) :
+    &#x26AA; }
 
-		- [{update}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb)
-		&#x1F530;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb)
+        - { ["**update**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb) : &#x1F4CC; [
+        ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb) ,
+        ["real-world-table-thousands-rows-update-time"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb) ,
+        ["design-rows-overlooked-reviewing-incorrect-update-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb) ] } &#x1F3C1;
 
-		- [{insertion}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb)
-		&#x1F530;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb)
+        - { ["**insertion**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb) : &#x1F4CC; [
+        ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb) ,
+        ["columns-values-NULL-primary-key"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb) ,
+        ["design-not-allow-new-added-insertion-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb) ] } &#x1F3C1;
 
-		- [{deletion}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb)
-		&#x1F530;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb)
+        - { ["**deletion**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb) : &#x1F4CC; [
+        ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb) ,
+        ["data-protection-remove-all-relating-lose-information"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb) ,
+        ["design-deleting-all-related-references-deletion-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb) ] } &#x1F3C1;
 
-	- [{process}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb)
-	&#x1F530;
-	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb)
+    - { ["**process**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) : &#x1F4CC; [
+    ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
+    ["normalised-version-table-Hospital-splitting-link-both"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
+    ["reference-rather-than-duplicating"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
+    ["check-update-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
+    ["check-insertion-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
+    ["check-deletion-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ] } &#x1F3C1;
 
-		- [{foreign-key}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb)
-		&#x1F530;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb)
+        - { ["**foreign-key**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) : &#x1F4CC; [
+        ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) ,
+        ["reference-between-tables-creatingt-table-define-link-foreign-key"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) ,
+        ["clause-foreign-key-relation-between-column-table-to-another-column-another-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) ] } &#x1F3C1;
 
-			- [{referential-integrity}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb)
-			&#x1F530;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb)
-
-			- [{command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-command-intentionally-blank.ipynb)
-			&#x26AA;
-
-				- [{DESCRIBE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-command-DESCRIBE.ipynb)
-				&#x1F530;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-command-DESCRIBE.ipynb)
-
-				- [{SHOW-CREATE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-command-SHOW-CREATE.ipynb)
-				&#x1F530;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-command-SHOW-CREATE.ipynb)
+            - { ["**referential-integrity**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) : &#x1F4CC; [
+            ["referential-integrity-ensures-database-consistent"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) ,
+            ["values-inserted-column-foreign-key-must-exist-column-table-referenced"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) ,
+            ["referential-integrity-compromised-row-referencing-row-table-not-exist"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) ,
+            ["mysql-definition-foreign-key-statement-nothing-mentioned-not-delete-row-table-referenced"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) ] } &#x1F3C1;
 
 > [{non-relational}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational.ipynb)
 &#x1F4CC;
