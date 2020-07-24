@@ -256,6 +256,11 @@
         ["items-cryptographic-system-strong-locks-keys-secret"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) ,
         ["caesar-monoalphabetic-substitutions-not-strong-lock"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) ] } &#x1F3C1;
 
+            - { [&#x00A9; "**caesar**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic-caesar.ipynb) : &#x1F4CC; [
+            ["offset-displace-character-encrypted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic-caesar.ipynb) ,
+            ["input-plaintext-offset-processing-algorithm-output-ciphertext"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic-caesar.ipynb) ,
+            ["encryption-plaintext-plus-offset-divided-remainder"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic-caesar.ipynb) ] } &#x1F3C1;
+
         - { [&#x00A9; "**polyalphabetic**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) : &#x1F4CC; [
         ["sophisticated-not-single-letter-shift-multiple-poly"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ,
         ["key-phrase-fixed-length"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ,
@@ -294,17 +299,35 @@
         ["power-of-exponentiation-adding-just-one-bit-doubles-space"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem-key.ipynb) ,
         ["brute-force-consider-number-keys-speed-each-test-naive"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem-key.ipynb) ] } &#x1F3C1;
 
-    - [{asymmetric}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric.ipynb)
-    &#x1F530;
-    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric.ipynb)
+    - { ["**asymmetric**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric.ipynb) : &#x1F4CC; [
+    ["key-distribution-solved-public-key-cryptography-asymmetric-key-encrypting-not-same-decrypting"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric.ipynb) ,
+    ["public-key-publish-world-private-key-secret"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric.ipynb) ,
+    ["copy-public-key-encrypt-information-holder-private-key-read"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric.ipynb) ,
+    ["model-send-securely-public-key-secure-box-padlock-data-into-close-padlock-key-open"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric.ipynb) ,
+    ["knowledge-public-key-computationally-infeasible-deduce-private-key"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric.ipynb) ,
+    ["public-key-allows-party-no-pre-existing-security-exchange-securely"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric.ipynb) ,
+    ["sharing-secret-keys-secure-channel-eliminated-no-private-key-ever-shared"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric.ipynb) ] } &#x1F3C1;
 
-        - [{prime}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-prime.ipynb)
-        &#x1F530;
-        [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-prime.ipynb)
+        - { ["**prime**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-prime.ipynb) : &#x1F4CC; [
+        ["asymmetric-algorithms-mathematical-prime-greater-one-factors-itself-one"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-prime.ipynb) ,
+        ["composite-not-prime"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-prime.ipynb) ,
+        ["properties-mathematical-interactions-numbers-used-implement-asymmetric-cryptosystems"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-prime.ipynb) ] } &#x1F3C1;
 
-        - [{RSA}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb)
-        &#x1F530;
-        [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb)
+        - { [&#x00A9; "**RSA**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) : &#x1F4CC; [
+        ["RSA-asymmetric-cryptosystem-implemented-public-key-encryption-private-key-decryption"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) ,
+        ["block-ciphering-scheme-plaintext-chunks-represented-integers-range"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) ,
+        ["underpinned-number-theory-Eulers-Fermats-Theorem"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) ,
+        ["block-plaintext-message-transformed-block-ciphertext"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) ,
+        ["enciphering-transformation-ciphertext"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) ,
+        ["deciphering-transformation-plaintext"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) ,
+        ["signatures-property-plaintext"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) ,
+        ["algorithm-RSA-properties-publicly-known-recipient-only-decryption-key"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) ,
+        ["requirements-values-exist"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) ,
+        ["challenge-agree-advance-key-sending-unsecure-symmetric"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) ,
+        ["RSA-solves-key-publicly-known"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) ,
+        ["adversary-not-able-obtain-plaintext-reasonable-amount-time"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) ,
+        ["knowledge-RSA-encryption-key-ciphertext-not-back-plaintext-reasonable-time"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) ,
+        ["process-RSA-plus-encryption-key-made-public-solves-key-distribution"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) ] } &#x1F3C1;
 
 > [{sorting}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb)
 &#x1F530;
@@ -1423,6 +1446,8 @@
             &#x1F530;
             [{bin}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-bin.ipynb)
             &#x1F530;
+            [{chr}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-chr.ipynb)
+            &#x1F530;
             [{format}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-format.ipynb)
             &#x1F530;
             [{id}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-id.ipynb)
@@ -1432,6 +1457,8 @@
             [{iter}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iter.ipynb)
             &#x1F530;
             [{len}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-len.ipynb)
+            &#x1F530;
+            [{ord}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-ord.ipynb)
             &#x1F530;
             [{next}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-next.ipynb)
             &#x1F530;
@@ -1481,6 +1508,8 @@
                             - [{method}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-str-method-intentionally-blank.ipynb)
                             &#x26AA; 
                             [{.format}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-str-method-format.ipynb)
+                            &#x1F530;
+                            [{.isupper}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-str-method-isupper.ipynb)
                             &#x1F530;
 
                         - [{bool}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-bool.ipynb)
