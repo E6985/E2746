@@ -329,25 +329,64 @@
         ["knowledge-RSA-encryption-key-ciphertext-not-back-plaintext-reasonable-time"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) ,
         ["process-RSA-plus-encryption-key-made-public-solves-key-distribution"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) ] } &#x1F3C1;
 
-> [{sorting}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb)
-&#x1F530;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb)
+> { ["**sorting**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) : &#x1F4CC; [
+["term-arrange-collection-items-pre-defined-ordering-rules"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ,
+["problem-ordered-correct"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ,
+["claim-cpu-cycles-spent-sorting-incentive-study-optimise-sorting-algorithms"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ,
+["time-consider-correct-appropriate-algorithm-strenghts-weaknesses-situation-class-input"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ,
+["tasks-simplified-properly-sorting-information-in-advance"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ,
+["searching-assume-sorted-searching-algorithms-find-quicker"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ,
+["duplicate-exist-appear-contiguous-block-sorted-order-magnitute"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ,
+["frequency-distinct-element-histogram"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ,
+["order-statistics-numbers-data-aggregate-range-maximum-minimum-median-quartiles"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ,
+["comparison-sorting-algorithms"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ,
+["non-comparison-sorting-algorithms"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ,
+["hyrid-sorting-algorithms"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ,
+["sorting-precursor-completion-other-operations-efficient-way-computer-graphics"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ,
+["sorting-useful-other-broader-task-not-just-pre-processing"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ,
+["real-world-phone-book"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ,
+["real-world-transactions-bank-account-statements"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ,
+["real-world-web-search-engine"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ] } &#x1F3C1;
 
-- [{conditions}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-conditions.ipynb)
-&#x1F530;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-conditions.ipynb)
+- { ["**conditions**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-conditions.ipynb) : &#x1F4CC; [
+["term-conceptually-grasp-array-being-sorted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-conditions.ipynb) ,
+["mathematical-definition-term-array-elements-in-order-deemed-sorted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-conditions.ipynb) ,
+["definition-sorted-array-elements-reorganised"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-conditions.ipynb) ,
+["definition-sorted-duplicate-elements-contiguous-resulting-order-array"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-conditions.ipynb) ,
+["contiguous-block-same-value-sorted-array-no-other-valued-elements-interspersed"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-conditions.ipynb) ,
+["sorted-version-array-must-be-permutation-elements-originally-formed-relative-ordering-allowed-change"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-conditions.ipynb) ,
+["definition-comparing-array-sorted-depend-elements-in-array-types-application-domain"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-conditions.ipynb) ,
+["definition-less-than-equal-greater-than-numbers-numerical-ordering"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-conditions.ipynb) ,
+["definition-less-than-equal-greater-than-characters-lexicographical-ordering"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-conditions.ipynb) ,
+["definition-less-than-equal-greater-than-custom-ordering-schemes-coloured-objects"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-conditions.ipynb) ] } &#x1F3C1;
 
-- [{properties}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties.ipynb)
-&#x1F530;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties.ipynb)
+- { ["**properties**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties.ipynb) : &#x1F4CC; [
+["criteria-judge-suitability-particular-problem"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties.ipynb) ,
+["stability-preserving-order-already-sorted-input"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties.ipynb) ,
+["runtime-efficiency-sorting-run-acceptable-time"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties.ipynb) ,
+["in-place-sorting-algorithm-memory-concern"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties.ipynb) ,
+["suitability-properties-well-matched-class-input-instances-type-input-data-strengths-weaknesses"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties.ipynb) ] } &#x1F3C1;
 
-    - [{stability}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-stability.ipynb)
-    &#x1F530;
-    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-stability.ipynb)
+    - { ["**stability**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-stability.ipynb) : &#x1F4CC; [
+    ["comparator-determines-relationship-equal-maintain-relative-ordering"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-stability.ipynb) ,
+    ["stability-sorting-occurs-relative-ordering-considered-equal-input-preserved"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-stability.ipynb) ,
+    ["algorithms-maintain-property-referred-stable"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-stability.ipynb) ,
+    ["unstable-algorithm-not-preserve-property"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-stability.ipynb) ,
+    ["unstable-algorithm-array-already-sorted-ordering-elements-equivalent-altered"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-stability.ipynb) ,
+    ["stable-sort-key-satellite-data"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-stability.ipynb) ,
+    ["unstable-algorithms-no-attention-relationships-between-elements-original-array-may-or-not-maintain-relative-ordering"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-stability.ipynb) ] } &#x1F3C1;
 
-    - [{efficiency}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-efficiency.ipynb)
-    &#x1F530;
-    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-efficiency.ipynb)
+    - { ["**efficiency**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-efficiency.ipynb) : &#x1F4CC; [
+    ["efficient-algorithm-in-practice-best-worst-average-case-time-complexity"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-efficiency.ipynb) ,
+    ["average-case-hardest-quantify-advanced-mathematical-techniques-estimation"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-efficiency.ipynb) ,
+    ["knowing-algorithm-desirable-performance-efficiency-time-implementation-impractical"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-efficiency.ipynb) ,
+    ["no-algorithm-best-all-situations-understand-strengths-weaknesses-arsenal"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-efficiency.ipynb) ,
+    ["orders-growth-running-time-number-operations-complete-proportional-growth-functions"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-efficiency.ipynb) ,
+    ["factors-running-time-best-average-worst-case-time-complexity"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-efficiency.ipynb) ,
+    ["number-elements-sorted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-efficiency.ipynb) ,
+    ["how-elements-related-properties"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-efficiency.ipynb) ,
+    ["number-inversions-pre-sorted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-efficiency.ipynb) ,
+    ["elements-placed-internal-memory-external-memory"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-efficiency.ipynb) ] } &#x1F3C1;
 
     - [{in-place}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-in-place.ipynb)
     &#x1F530;
