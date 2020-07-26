@@ -22,13 +22,16 @@
 
 ***
 
-- { ["**computer-science**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/computer-science.ipynb) : &#x1F4CC;
+> { ["**computer-science**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/computer-science.ipynb) : &#x1F4CC;<br />
 ["study-processes-data-program"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/computer-science.ipynb) } &#x1F3C1;
+
+<details close>
+    <summary>analyse</summary>
 
 > { ["**analyse**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/analyse-intentionally-blank.ipynb) :
 &#x26AA; }
 
-- { ["**algorithm**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm.ipynb) : &#x1F4CC; [
+- { ["**algorithm**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm.ipynb) : &#x1F4CC;<br /> [
 ["process-rules"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm.ipynb) ,
 ["recipe-instructions"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm.ipynb) ,
 ["questions-criteria-compared-appropriate"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm.ipynb) ,
@@ -36,7 +39,7 @@
 ["programming-solving-implementation"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm.ipynb) ,
 ["life"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm.ipynb) ] } &#x1F3C1;
 
-    - { ["**features**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-features.ipynb) : &#x1F4CC; [
+    - { ["**features**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-features.ipynb) : &#x1F4CC;<br /> [
     ["input](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-features.ipynb) ,
     ["output"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-features.ipynb) ,
     ["finiteness"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-features.ipynb) ,
@@ -45,11 +48,11 @@
     ["feasibility"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-features.ipynb) ,
     ["efficiency"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-features.ipynb) ] } &#x1F3C1;
 
-    - { ["**correctness**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-correctness.ipynb) : &#x1F4CC; [
+    - { ["**correctness**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-correctness.ipynb) : &#x1F4CC;<br /> [
     ["solution-incorrect-acceptable-probability-controlled"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-correctness.ipynb) ,
     ["margin-error-complete"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-correctness.ipynb) ] } &#x1F3C1;
 
-    - { ["**efficiency**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency.ipynb) : &#x1F4CC; [
+    - { ["**efficiency**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency.ipynb) : &#x1F4CC;<br /> [
     ["resources"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency.ipynb) ,
     ["factors"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency.ipynb) ,
     ["time-number-operations"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency.ipynb) ,
@@ -58,82 +61,87 @@
     ["a-priori-theoretical-removes-implementation-complexity"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency.ipynb) ,
     ["a-posteriori-empirically-measurements-experimentation-performance"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency.ipynb) ] } &#x1F3C1;
 
-        - { ["**performance**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-performance.ipynb) : &#x1F4CC;
+        - { ["**performance**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-performance.ipynb) : &#x1F4CC;<br />
         ["a-posteriori-performance-external-not-complexity"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-performance.ipynb) } &#x1F3C1;
 
-        - { ["**complexity**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity.ipynb) : &#x1F4CC; [
+        - { ["**complexity**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity.ipynb) : &#x1F4CC;<br /> [
         ["a priori-complexity-internal-eliminating-platform-specific"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity.ipynb) ,
         ["resource-scale-affect-performance"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity.ipynb) ,
         ["platform-independent-empirical-limited-mathematically"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity.ipynb) ,
         ["evaluating-growth-time-increasing-size"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity.ipynb) ] } &#x1F3C1;
 
-            - { ["**optimal**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal.ipynb) : &#x1F4CC; [
+            - { ["**optimal**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal.ipynb) : &#x1F4CC;<br /> [
             ["size-input-characteristics-effect-time"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal.ipynb) ,
             ["no-algorithm-optimal-understanding-problem-probability-distribution-behaviour"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal.ipynb) ] } &#x1F3C1;
 
-                - { ["**worst**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal-worst.ipynb) : &#x1F4CC; [
+                - { ["**worst**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal-worst.ipynb) : &#x1F4CC;<br /> [
                 ["input-runtime-behaviour-properties-prevent-efficiently"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal-worst.ipynb) ,
                 ["operations-instances-size-maximum-execution-bound-guarantees-sample"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal-worst.ipynb) ] } &#x1F3C1;
 
-                - { ["**best**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal-best.ipynb)  : &#x1F4CC;
+                - { ["**best**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal-best.ipynb)  : &#x1F4CC;<br />
                 ["input-runtime-behaviour-rarely"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal-best.ipynb) } &#x1F3C1;
 
-                - { ["**average**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal-average.ipynb) : &#x1F4CC;
+                - { ["**average**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal-average.ipynb) : &#x1F4CC;<br />
                 ["expected-random-input"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-optimal-average.ipynb) } &#x1F3C1;
  
-            - { ["**orders-of-magnitude**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude.ipynb) : &#x1F4CC;
+            - { ["**orders-of-magnitude**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude.ipynb) : &#x1F4CC;<br />
             ["mathematical-term-classes-numbers"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude.ipynb) } &#x1F3C1;
 
-                - { ["**classification**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification.ipynb) : &#x1F4CC;
+                - { ["**classification**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification.ipynb) : &#x1F4CC;<br />
                 ["growth-size-increased-efficient-constant-logarithmic-sublinear-linear-n log(n)-polynominal-exponential"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification.ipynb) } &#x1F3C1;
 
-                    - { ["**curves**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification-curves.ipynb) : &#x1F4CC; [
+                    - { ["**curves**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification-curves.ipynb) : &#x1F4CC;<br /> [
                     ["growth-functions-complexity-analysis"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification-curves.ipynb) ,
                     ["graph-input-time"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification-curves.ipynb) ,
                     ["magitude-growth-functions-constant-logarithmic-linear-linearithmic-polynomial-exponential"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification-curves.ipynb) ,
                     ["complexity-expensive-determine-classification"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-orders-of-magnitude-classification-curves.ipynb) ] } &#x1F3C1;
 
-            - { ["**asymptotic-analysis**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis.ipynb) : &#x1F4CC;
+            - { ["**asymptotic-analysis**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis.ipynb) : &#x1F4CC;<br />
             ["mathematical-boundary-run-time-operation-units-computation"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis.ipynb) } &#x1F3C1;
 
-                - { ["**big-O**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-big-O.ipynb) : &#x1F4CC; [
+                - { ["**big-O**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-big-O.ipynb) : &#x1F4CC;<br /> [
                 ["notation-symbolism-asymptotic-behaviours-functions-measures-growth-order"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-big-O.ipynb) ,
                 ["describe-complexity-worst-case-time-operations-measure-efficiency"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-big-O.ipynb) ,
                 ["small-size-all-efficient-input-increases-order-important"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-big-O.ipynb) ,
                 ["evaluating-complexity-notations-similar-same-notation-not-execute-time-order-operations"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-big-O.ipynb) ,
                 ["identify-tightest-upper-bound-O-term-dominate-deciding-algorithm-specific-instance"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-big-O.ipynb) ] } &#x1F3C1;
 
-                - { ["**omega**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-omega.ipynb) : &#x1F4CC; [
+                - { ["**omega**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-omega.ipynb) : &#x1F4CC;<br /> [
                 ["notation-complexity-describes-best-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-omega.ipynb) ,
                 ["represents-lower-bound-operations-exhibits-linear-growth-elements-increase"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-omega.ipynb) ] } &#x1F3C1;
 
-                - { ["**theta**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-theta.ipynb) : &#x1F4CC; [
+                - { ["**theta**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-theta.ipynb) : &#x1F4CC;<br /> [
                 ["notation-describes-complexity-average-case-certain-order"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-theta.ipynb) ,
                 ["theta-both-apply-big-omega"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-theta.ipynb) ,
                 ["upper-lower-limits-not-same-same-order"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-asymptotic-analysis-theta.ipynb) ] } &#x1F3C1;
 
-           - { ["**analyse**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse.ipynb) : &#x1F4CC; [
+           - { ["**analyse**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse.ipynb) : &#x1F4CC;<br /> [
             ["complexity-separate-algorithm-implementation-concepts-size-elementary-operations"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse.ipynb) ,
             ["assume-operations-same-time-ram-model"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse.ipynb) ] } &#x1F3C1;
 
-                - { ["**evaluate**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate.ipynb) : &#x1F4CC; [
+                - { ["**evaluate**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate.ipynb) : &#x1F4CC;<br /> [
                 ["complexity-identify-expensive-computation-determine-terms-dominate"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate.ipynb) ,
                 ["equation-calculates-number-operations-complete-interested-higher-order"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate.ipynb) ,
                 ["better-asymptotic-growth-execute-faster-dominate"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate.ipynb) ,
                 ["asymptotic-analysis-fastest-growing-term"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate.ipynb) ] } &#x1F3C1;
 
-                    - { [&#x00A9; "**O-constant-n**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate-O-constant-n.ipynb) : &#x1F4CC;
+                    - { [&#x00A9; "**O-constant-n**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate-O-constant-n.ipynb) : &#x1F4CC;<br />
                     ["not-matter-how-many-elements-checks-first"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate-O-constant-n.ipynb) } &#x1F3C1;
 
-                    - { [&#x00A9; "**O-linear-n**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate-O-linear-n.ipynb) : &#x1F4CC; [
+                    - { [&#x00A9; "**O-linear-n**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate-O-linear-n.ipynb) : &#x1F4CC;<br /> [
                     ["linear-worst case-proportion-size-input"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate-O-linear-n.ipynb) ,
                     ["loops-once-single-best-case-average-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate-O-linear-n.ipynb) ] } &#x1F3C1;
 
-                    - { [&#x00A9; "**O-polynomial-n**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate-O-polynomial-n.ipynb) : &#x1F4CC; [
+                    - { [&#x00A9; "**O-polynomial-n**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate-O-polynomial-n.ipynb) : &#x1F4CC;<br /> [
                     ["quadratic-time-worst-case-proportional-square-size-input"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate-O-polynomial-n.ipynb) ,
                     ["complexity-nested-iterations-deeper-result-higher-orders"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/algorithm-efficiency-complexity-analyse-evaluate-O-polynomial-n.ipynb) ] } &#x1F3C1;
 
-> { ["**recursion**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion.ipynb) : &#x1F4CC; [
+</details>
+
+<details close>
+    <summary>recursion</summary>
+
+> { ["**recursion**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion.ipynb) : &#x1F4CC;<br /> [
 ["tasks-repeated-procedures-call-other"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion.ipynb) ,
 ["procedure-calls-itself"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion.ipynb) ,
 ["technique-solving-larger-problem-smaller-instances-same"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion.ipynb) ,
@@ -144,7 +152,7 @@
 ["breaking-smaller-instances-same-cleaner-concise-code-easier-understand-maintain"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion.ipynb) ,
 ["principle-works-succinctly-iterative-approach-less-code-cleaner"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion.ipynb) ] } &#x1F3C1;
 
-- { ["**iteration**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration.ipynb) : &#x1F4CC; [
+- { ["**iteration**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration.ipynb) : &#x1F4CC;<br /> [
 ["sequence-steps-executed-recursion-technique-repetitive-nature-alternative"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration.ipynb) ,
 ["recursion-expensive-multiple-activation-frames-active-method-call"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration.ipynb) ,
 ["use-case-recursion-expense-complexity-outweighed-cleaner-easier-code"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration.ipynb) ,
@@ -155,35 +163,35 @@
     - { ["**types**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-intentionally-blank.ipynb) :
     &#x26AA; }
 
-        - { ["**linear**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-linear.ipynb) : &#x1F4CC;
+        - { ["**linear**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-linear.ipynb) : &#x1F4CC;<br />
         ["simple-activation-frames-grow-linear-single-call"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-linear.ipynb) } &#x1F3C1;
 
-            - { ["**tail**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-linear-tail.ipynb) : &#x1F4CC; [
+            - { ["**tail**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-linear-tail.ipynb) : &#x1F4CC;<br /> [
             ["type-linear"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-linear-tail.ipynb) ,
             ["single-call-last-operation-top-stack"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-linear-tail.ipynb) ,
             ["avoid-multiple-active-stack-frames-finished-work-expensive-inefficient"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-linear-tail.ipynb) ] } &#x1F3C1;
 
-        - { ["**binary**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary.ipynb) : &#x1F4CC; [
+        - { ["**binary**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary.ipynb) : &#x1F4CC;<br /> [
         ["two-calls-larger-growth-nested"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary.ipynb) ,
         ["avoid-nested-exponential-growth-inefficient"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary.ipynb) ] } &#x1F3C1;
 
-        - { ["**exponential**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-exponential.ipynb) : &#x1F4CC;
+        - { ["**exponential**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-exponential.ipynb) : &#x1F4CC;<br />
         ["multiple-calls-avoid-exponential-growth-inefficient"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-exponential.ipynb) } &#x1F3C1;
 
     - { ["**error**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-intentionally-blank.ipynb) :
     &#x26AA; }
 
-        - { [&#x00A9; "**infinite**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite.ipynb) : &#x1F4CC; [
+        - { [&#x00A9; "**infinite**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite.ipynb) : &#x1F4CC;<br /> [
         ["recursive-method-not-base-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite.ipynb) ,
         ["different-infinite-loop-infinite-recursion-similar-informative"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite.ipynb) ,
         ["python-limit-recursion-depth-1000"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite.ipynb) ,
         ["protect-against-base-case-parameters-solved-recursion"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite.ipynb) ] } &#x1F3C1;
 
-            - { [&#x00A9; "**circular**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite-circular.ipynb) : &#x1F4CC; [
+            - { [&#x00A9; "**circular**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite-circular.ipynb) : &#x1F4CC;<br /> [
             ["type-infinite-calls-stops-progress-base-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite-circular.ipynb) ,
             ["python-maximum-recursion-depth-exceeded-comparison"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite-circular.ipynb) ] } &#x1F3C1;
 
-    - { [&#x00A9; "**rules**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-rules.ipynb) : &#x1F4CC; [
+    - { [&#x00A9; "**rules**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-rules.ipynb) : &#x1F4CC;<br /> [
     ["avoid-infinite-circular-errors-rules"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-rules.ipynb) ,
     ["one-have-base-case-solved-without-recursion"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-rules.ipynb) ,
     ["without-base-case-or-instance-solved-without-recursion-infinite"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-rules.ipynb) ,
@@ -191,13 +199,13 @@
     ["three-design-rule-assume-all-calls-work-eventually-nested-return-one-by-one"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-rules.ipynb) ,
     ["four-compound-interest-efficient-computational-resources-never-duplicate"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-rules.ipynb) ] } &#x1F3C1;
 
-        - { ["**design**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-rules-design.ipynb) : &#x1F4CC; [
+        - { ["**design**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-rules-design.ipynb) : &#x1F4CC;<br /> [
         ["task-identify-recurring-patterns-presented-later-similar-operations"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-rules-design.ipynb) ,
         ["identify-solved-without-recursion-base-cases"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-rules-design.ipynb) ,
         ["well-designed-not-end-multitude-special-cases-goal-identify-simple-base-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-rules-design.ipynb) ,
         ["invoke-new-copy-modifying-parameters-call-different-initialisation-input"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-rules-design.ipynb) ] } &#x1F3C1;
 
-    - { [&#x00A9; "**stack**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack.ipynb) : &#x1F4CC; [
+    - { ["**stack**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack.ipynb) : &#x1F4CC;<br /> [
     ["operate-container-trays-cafeteria-add-top-remove-top"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack.ipynb) ,
     ["push-onto-top-stack"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack.ipynb) ,
     ["pop-off-top-stack-last-added"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack.ipynb) ,
@@ -208,7 +216,7 @@
         - { [&#x00A9; "**process**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process.ipynb) : &#x1F4CC; 
         ["&#x00A9;"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process.ipynb) } &#x1F3C1;
 
-            - { ["**factorial**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial.ipynb) : &#x1F4CC; [
+            - { ["**factorial**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial.ipynb) : &#x1F4CC;<br /> [
             ["non-negative-input-computed-product-all-positive-less-equal"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial.ipynb) ,
             ["factorial-two-base-cases-empty-product-convention-one-zero-base-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial.ipynb) ] } &#x1F3C1;
 
@@ -221,29 +229,34 @@
 
                 - [{iterative}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-euclid-iterative.ipynb)
 
-> { ["**cryptography**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography.ipynb) : &#x1F4CC; [
+</details>
+
+<details close>
+    <summary>cryptography</summary>
+
+> { ["**cryptography**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography.ipynb) : &#x1F4CC;<br /> [
 ["science-secrecy-communicate-secure-private-reliable"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography.ipynb) ,
 ["computational-thinking-algorithmic-perspective-problems-exist-no-good-algorithms"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography.ipynb) ,
 ["problems-exist-difficult-solve-not-impossible"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography.ipynb) ] } &#x1F3C1;
 
-- { ["**statement**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-statement.ipynb) : &#x1F4CC; [
+- { ["**statement**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-statement.ipynb) : &#x1F4CC;<br /> [
 ["cryptography-basic-problem-solved-encrypting-decrypting"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-statement.ipynb) ,
 ["encryption-obfuscating-hiding-substance"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-statement.ipynb) ,
 ["decryption-obtain-original-substance-not-eavesdropper"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-statement.ipynb) ,
 ["communication-path-not-reliable-intercepted-not-know-substance-recipient-figure-out"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-statement.ipynb) ,
 ["problem-signing-message-not-trick-sender-later-deny-received-signed-message-cannot-obtain-senders-signature"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-statement.ipynb) ] } &#x1F3C1;
 
-- { ["**terms**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms.ipynb) : &#x1F4CC; [
+- { ["**terms**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms.ipynb) : &#x1F4CC;<br /> [
 ["plaintext-clear-text-not-obfuscated-input-encryption-process"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms.ipynb) ,
 ["encryption-disguising-works-input-result-ciphertext"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms.ipynb) ] } &#x1F3C1;
 
-    - { ["**symmetric**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric.ipynb) : &#x1F4CC; [
+    - { ["**symmetric**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric.ipynb) : &#x1F4CC;<br /> [
     ["cryptography-locking-data-cannot-accessed-later-unlock-data"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric.ipynb) ,
     ["locks-keys-symmetric"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric.ipynb) ,
     ["conventional-secret-key-symmetric-key-one-key-encryption-decryption"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric.ipynb) ,
     ["DES-cryptosystem-plaintext-lock-key-ciphertext-same-key-decrypt"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric.ipynb) ] } &#x1F3C1;
 
-        - { ["**monoalphabetic**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) : &#x1F4CC; [
+        - { ["**monoalphabetic**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) : &#x1F4CC;<br /> [
         ["physical-key-encrypt-locking-door"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) ,
         ["mental-key-send-obfuscate-hiding-substance"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) ,
         ["symmetric-same-key-lock-unlock-substitution-cipher-caesar-cipher"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) ,
@@ -256,12 +269,12 @@
         ["items-cryptographic-system-strong-locks-keys-secret"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) ,
         ["caesar-monoalphabetic-substitutions-not-strong-lock"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic.ipynb) ] } &#x1F3C1;
 
-            - { [&#x00A9; "**caesar**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic-caesar.ipynb) : &#x1F4CC; [
+            - { [&#x00A9; "**caesar**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic-caesar.ipynb) : &#x1F4CC;<br /> [
             ["offset-displace-character-encrypted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic-caesar.ipynb) ,
             ["input-plaintext-offset-processing-algorithm-output-ciphertext"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic-caesar.ipynb) ,
             ["encryption-plaintext-plus-offset-divided-remainder"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-monoalphabetic-caesar.ipynb) ] } &#x1F3C1;
 
-        - { [&#x00A9; "**polyalphabetic**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) : &#x1F4CC; [
+        - { [&#x00A9; "**polyalphabetic**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) : &#x1F4CC;<br /> [
         ["sophisticated-not-single-letter-shift-multiple-poly"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ,
         ["key-phrase-fixed-length"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ,
         ["assign-numeric-values-letters-not-secret-known-everyone"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ,
@@ -274,7 +287,7 @@
         ["same-plaintext-mapped-different-ciphertext-frequency-analysis-no-use"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ,
         ["decryption-algorithm-reverse-encryption-algorithm-symmetry"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-polyalphabetic.ipynb) ] } &#x1F3C1;
 
-        - { ["**limitation**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation.ipynb) : &#x1F4CC; [
+        - { ["**limitation**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation.ipynb) : &#x1F4CC;<br /> [
         ["desired-cryptography-system-encrypting-decrypting-message-signed"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation.ipynb) ,
         ["encrypting-decrypting-solved-symmetric-size-key-space-important"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation.ipynb) ,
         ["message-signed-sender-not-solved-symmetric"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation.ipynb) ,
@@ -283,23 +296,23 @@
         ["major-drawback-symmetric-key-distribution-management-distributed-parties-copy-key"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation.ipynb) ,
         ["symmetric-parties-cooperate-generation-distribution-key-pairs-culturally-feasible-not-scalable"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation.ipynb) ] } &#x1F3C1;
 
-            - { ["**key**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation-key.ipynb) : &#x1F4CC; [
+            - { ["**key**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation-key.ipynb) : &#x1F4CC;<br /> [
             ["symmetric-key-management-transferring-keys"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation-key.ipynb) ,
             ["sender-recipient-agree-same-key-other-better-cryptosystem"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-symmetric-limitation-key.ipynb) ] } &#x1F3C1;
 
-    - { ["**cryptosystem**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem.ipynb) : &#x1F4CC; [
+    - { ["**cryptosystem**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem.ipynb) : &#x1F4CC;<br /> [
     ["strength-function-algorithm-key-longer"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem.ipynb) ,
     ["assumption-method-encryption-known-security-lies-secrecy-key-paramount"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem.ipynb) ,
     ["larger-key-higher-work-cryptanalyst"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem.ipynb) ,
     ["brute-force-all-possible-key-values"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem.ipynb) ] } &#x1F3C1;
 
-        - { [&#x00A9; "**key**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem-key.ipynb) : &#x1F4CC; [
+        - { [&#x00A9; "**key**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem-key.ipynb) : &#x1F4CC;<br /> [
         ["polyalphabetic-substitution-simple-key"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem-key.ipynb) ,
         ["key-number-potential-space-number-hard-difficult-reasonable-time"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem-key.ipynb) ,
         ["power-of-exponentiation-adding-just-one-bit-doubles-space"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem-key.ipynb) ,
         ["brute-force-consider-number-keys-speed-each-test-naive"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-cryptosystem-key.ipynb) ] } &#x1F3C1;
 
-    - { ["**asymmetric**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric.ipynb) : &#x1F4CC; [
+    - { ["**asymmetric**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric.ipynb) : &#x1F4CC;<br /> [
     ["key-distribution-solved-public-key-cryptography-asymmetric-key-encrypting-not-same-decrypting"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric.ipynb) ,
     ["public-key-publish-world-private-key-secret"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric.ipynb) ,
     ["copy-public-key-encrypt-information-holder-private-key-read"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric.ipynb) ,
@@ -308,12 +321,12 @@
     ["public-key-allows-party-no-pre-existing-security-exchange-securely"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric.ipynb) ,
     ["sharing-secret-keys-secure-channel-eliminated-no-private-key-ever-shared"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric.ipynb) ] } &#x1F3C1;
 
-        - { ["**prime**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-prime.ipynb) : &#x1F4CC; [
+        - { ["**prime**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-prime.ipynb) : &#x1F4CC;<br /> [
         ["asymmetric-algorithms-mathematical-prime-greater-one-factors-itself-one"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-prime.ipynb) ,
         ["composite-not-prime"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-prime.ipynb) ,
         ["properties-mathematical-interactions-numbers-used-implement-asymmetric-cryptosystems"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-prime.ipynb) ] } &#x1F3C1;
 
-        - { [&#x00A9; "**RSA**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) : &#x1F4CC; [
+        - { [&#x00A9; "**RSA**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) : &#x1F4CC;<br /> [
         ["RSA-asymmetric-cryptosystem-implemented-public-key-encryption-private-key-decryption"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) ,
         ["block-ciphering-scheme-plaintext-chunks-represented-integers-range"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) ,
         ["underpinned-number-theory-Eulers-Fermats-Theorem"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) ,
@@ -329,7 +342,12 @@
         ["knowledge-RSA-encryption-key-ciphertext-not-back-plaintext-reasonable-time"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) ,
         ["process-RSA-plus-encryption-key-made-public-solves-key-distribution"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/cryptography-terms-asymmetric-RSA.ipynb) ] } &#x1F3C1;
 
-> { ["**sorting**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) : &#x1F4CC; [
+</details>
+
+<details open>
+    <summary>sorting</summary>
+
+> { ["**sorting**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) : &#x1F4CC;<br /> [
 ["term-arrange-collection-items-pre-defined-ordering-rules"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ,
 ["problem-ordered-correct"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ,
 ["claim-cpu-cycles-spent-sorting-incentive-study-optimise-sorting-algorithms"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ,
@@ -348,7 +366,7 @@
 ["real-world-transactions-bank-account-statements"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ,
 ["real-world-web-search-engine"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) ] } &#x1F3C1;
 
-- { ["**conditions**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-conditions.ipynb) : &#x1F4CC; [
+- { ["**conditions**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-conditions.ipynb) : &#x1F4CC;<br /> [
 ["term-conceptually-grasp-array-being-sorted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-conditions.ipynb) ,
 ["mathematical-definition-term-array-elements-in-order-deemed-sorted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-conditions.ipynb) ,
 ["definition-sorted-array-elements-reorganised"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-conditions.ipynb) ,
@@ -360,14 +378,14 @@
 ["definition-less-than-equal-greater-than-characters-lexicographical-ordering"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-conditions.ipynb) ,
 ["definition-less-than-equal-greater-than-custom-ordering-schemes-coloured-objects"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-conditions.ipynb) ] } &#x1F3C1;
 
-- { ["**properties**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties.ipynb) : &#x1F4CC; [
+- { ["**properties**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties.ipynb) : &#x1F4CC;<br /> [
 ["criteria-judge-suitability-particular-problem"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties.ipynb) ,
 ["stability-preserving-order-already-sorted-input"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties.ipynb) ,
 ["runtime-efficiency-sorting-run-acceptable-time"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties.ipynb) ,
 ["in-place-sorting-algorithm-memory-concern"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties.ipynb) ,
 ["suitability-properties-well-matched-class-input-instances-type-input-data-strengths-weaknesses"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties.ipynb) ] } &#x1F3C1;
 
-    - { ["**stability**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-stability.ipynb) : &#x1F4CC; [
+    - { ["**stability**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-stability.ipynb) : &#x1F4CC;<br /> [
     ["comparator-determines-relationship-equal-maintain-relative-ordering"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-stability.ipynb) ,
     ["stability-sorting-occurs-relative-ordering-considered-equal-input-preserved"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-stability.ipynb) ,
     ["algorithms-maintain-property-referred-stable"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-stability.ipynb) ,
@@ -376,7 +394,7 @@
     ["stable-sort-key-satellite-data"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-stability.ipynb) ,
     ["unstable-algorithms-no-attention-relationships-between-elements-original-array-may-or-not-maintain-relative-ordering"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-stability.ipynb) ] } &#x1F3C1;
 
-    - { ["**efficiency**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-efficiency.ipynb) : &#x1F4CC; [
+    - { ["**efficiency**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-efficiency.ipynb) : &#x1F4CC;<br /> [
     ["efficient-algorithm-in-practice-best-worst-average-case-time-complexity"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-efficiency.ipynb) ,
     ["average-case-hardest-quantify-advanced-mathematical-techniques-estimation"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-efficiency.ipynb) ,
     ["knowing-algorithm-desirable-performance-efficiency-time-implementation-impractical"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-efficiency.ipynb) ,
@@ -388,37 +406,61 @@
     ["number-inversions-pre-sorted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-efficiency.ipynb) ,
     ["elements-placed-internal-memory-external-memory"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-efficiency.ipynb) ] } &#x1F3C1;
 
-    - [{in-place}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-in-place.ipynb)
-    &#x1F530;
-    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-in-place.ipynb)
+    - { ["**in-place**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-in-place.ipynb) : &#x1F4CC;<br /> [
+    ["memory-efficiently-sorting-function-how-algorithm-works"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-in-place.ipynb) ,
+    ["property-in-place-uses-fixed-additional-amount-working-space-classification-space-complexity"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-in-place.ipynb) ,
+    ["other-working-memory-beyond-fixed-amount-related-size-input-order-growth"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-in-place.ipynb) ,
+    ["availability-memory-concern-in-place-desirable-property"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-in-place.ipynb) ] } &#x1F3C1;
 
-    - [{suitability}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-suitability.ipynb)
-    &#x1F530;
-    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-properties-suitability.ipynb)
+- { ["**suitability**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-suitability.ipynb) : &#x1F4CC;<br /> [
+["sorting-according-predefined-rules"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-suitability.ipynb) ,
+["stability-preserve-order-already-sorted-input"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-suitability.ipynb) ,
+["runtime-efficiency-best-average-worst-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-suitability.ipynb) ,
+["internal-memory-external-memory-in-place-fixed-amount-additional-working-space"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-suitability.ipynb) ,
+["suitability-comparator-based-suitable-any-class-problem-certain-algorithms-certain-types-data-input-specific-cases-small-sets-almost-sorted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-suitability.ipynb) ,
+["inversions-element-greater-value-lower-index-out-of-order"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-suitability.ipynb) ,
+["consider-strengths-weaknesses-choosing-algorithm-stability-runtime-efficiency-in-place"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-suitability.ipynb) ] } &#x1F3C1;
 
-- [{algorithm}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm.ipynb)
-&#x1F530;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm.ipynb)
+- { ["**algorithm**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm.ipynb) : &#x1F4CC;<br /> [ 
+["comparison-based-algorithms-fundamental-known"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm.ipynb) ,
+["non-comparison-based-algorithms"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm.ipynb) ,
+["hybrid-algorithms-combine-properties-two-more-other-algorithms"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm.ipynb) ] } &#x1F3C1;
 
-    - [{criteria}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-criteria.ipynb)
-    &#x1F530;
-    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-criteria.ipynb)
+    - { ["**criteria**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-criteria.ipynb) : &#x1F4CC;<br /> [ 
+    ["insertion-sort-small-number-elements-elements-mostly-sorted-inversions"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-criteria.ipynb) ,
+    ["heap-concern-performance-worst-case-good-guarantees"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-criteria.ipynb) ,
+    ["quicksort-average-case-without-assuming-classes-input-instances"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-criteria.ipynb) ,
+    ["bucket-sort-advance-input-very-uniform-dense-universe"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-criteria.ipynb) ,
+    ["insertion-sort-compact-small-little-code"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-criteria.ipynb) ,
+    ["merge-sort-guaranteed-stable-preserves-around-efficiency"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-criteria.ipynb) ] } &#x1F3C1;
 
-    - [{inversions}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-inversions.ipynb)
-    &#x1F530;
-    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-inversions.ipynb)
+    - { ["**inversions**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-inversions.ipynb) : &#x1F4CC;<br /> [ 
+    ["inversion-solving-problems-within-algorithms-running-time-insertion-sort-related-occur-input"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-inversions.ipynb) ,
+    ["number-inversions-array-elements-one-measure-being-sorted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-inversions.ipynb) ,
+    ["inversion-definition-comparator-function-out-of-order"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-inversions.ipynb) ,
+    ["inversion-applied-collections-arrays-any-arbitrary-size"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-inversions.ipynb) ] } &#x1F3C1;
 
-    - [{comparator}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator.ipynb)
-    &#x1F530;
-    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator.ipynb)
+    - { ["**comparator**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator.ipynb) : &#x1F4CC;<br /> [
+    ["function-pass-two-elements-tell-one-element-less-than-another"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator.ipynb) ,
+    ["sorting-algorithms-independent-definition-less-than-custom-ordering-schemes"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator.ipynb) ,
+    ["user-defined-comparator-functions-independent-definition-less-than-can-have-arbitrary-definition"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator.ipynb) ] } &#x1F3C1;
 
-        - [{comparison}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison.ipynb)
-        &#x1F530;
-        [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison.ipynb)
+        - { ["**comparison**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison.ipynb) : &#x1F4CC;<br /> [ 
+        ["comparator-function-sorting-elements-comparing-relative-values"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison.ipynb) ,
+        ["comparison-sort-specific-class-algorithm-comparison-operations-determine-two-elements-appear-first-sorted-array"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison.ipynb) ,
+        ["comparison-based-algorithm-comparison-type-operation-elements-appear-array-gain-information-order-elements-order-relation"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison.ipynb) ,
+        ["class-comparison-based-bubble-selection-insertion-merge-quicksort-heapsort"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison.ipynb) ,
+        ["comparison-based-most-widely-applicable-diverse-input"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison.ipynb) ,
+        ["fundamental-comparison-based-no-algorithm-sorts-comparing-elements-linearithmic"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison.ipynb) ,
+        ["comparison-based-limiting-logarithmic-running-time-best-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison.ipynb) ,
+        ["exception-non-comparison-based-special-conditions-types-values-sorted-classes-input-used"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison.ipynb) ,
+        ["possible-design-non-comparison-based-better-worst-case-times-linearithmic-upper-bound-for-comparison-based-algorithms"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison.ipynb) ,
+        ["non-comparison-based-better-worst-case-times-less-flexible-comparison-based"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison.ipynb) ] } &#x1F3C1;
 
-            - [{key}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-key.ipynb)
-            &#x1F530;
-            [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-key.ipynb)
+            - { ["**key**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-key.ipynb) : &#x1F4CC;<br /> [ 
+            ["sort-key-sort-data-in-order-satellite-extra-data-related-specific-key"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-key.ipynb) ,
+            ["library-authors-name-sort-key-book-itself-contents-satellite-data"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-key.ipynb) ,
+            ["search-engine-sort-key-score-satellite-data-everything-search-engine-stored-specific-webpage"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-key.ipynb) ] } &#x1F3C1;
 
             - [{algorithms}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-intentionally-blank.ipynb)
             &#x26AA;
@@ -573,6 +615,11 @@
                 &#x1F530;
                 [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-tim.ipynb)
 
+</details>
+
+<details close>
+    <summary>search</summary>
+
 > [{search}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search.ipynb)
 &#x1F530;
 [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search.ipynb)
@@ -637,6 +684,8 @@
             &#x1F530;
             [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-code-analyse.ipynb)
 
+</details>
+
 - [{lorem_ipsum}](https://github.com/E6985/E2746/blob/master/src/lorem_ipsum.ipynb)
 
     &#x23F9;
@@ -662,98 +711,152 @@
 &#x1F530;
 [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb)
 
-- [{database}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database.ipynb)
+<details close>
+    <summary>data</summary>
+
+> [{database}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database.ipynb)
 &#x1F530;
 [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database.ipynb)
 
-	- [{schema}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema.ipynb)
+- [{schema}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema.ipynb)
+&#x1F530;
+[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema.ipynb)
+
+	- [{types}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types.ipynb)
 	&#x1F530;
-	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema.ipynb)
+	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types.ipynb)
 
-		- [{types}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types.ipynb)
+		- [{physical}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types-physical.ipynb)
 		&#x1F530;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types.ipynb)
+		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types-physical.ipynb)
 
-			- [{physical}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types-physical.ipynb)
-			&#x1F530;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types-physical.ipynb)
+		- [{logical}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types-logical.ipynb)
+		&#x1F530;
+		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types-logical.ipynb)
 
-			- [{logical}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types-logical.ipynb)
-			&#x1F530;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types-logical.ipynb)
+- [{DBMS}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS.ipynb)
+&#x1F530;
+[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS.ipynb)
 
-	- [{DBMS}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS.ipynb)
+	- [{MySQL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-MySQL.ipynb)
 	&#x1F530;
-	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS.ipynb)
+	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-MySQL.ipynb)
 
-		- [{MySQL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-MySQL.ipynb)
+	- [{functions}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-intentionally-blank.ipynb)
+	&#x26AA;
+
+		- [{CRUD}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-CRUD.ipynb)
 		&#x1F530;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-MySQL.ipynb)
+		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-CRUD.ipynb)
 
-		- [{functions}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-intentionally-blank.ipynb)
+		- [{storage}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-storage.ipynb)
+		&#x1F530;
+		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-storage.ipynb)
+
+		- [{security}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-security.ipynb)
+		&#x1F530;
+		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-security.ipynb)
+
+		- [{backup}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-backup.ipynb)
+		&#x1F530;
+		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-backup.ipynb)
+
+		- [{transactions}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-transactions.ipynb)
+		&#x1F530;
+		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-transactions.ipynb)
+
+		- [{integrity}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-integrity.ipynb)
+		&#x1F530;
+		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-integrity.ipynb)
+
+		- [{concurrency}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-concurrency.ipynb)
+		&#x1F530;
+		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-concurrency.ipynb)
+
+		- [{advantages}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-intentionally-blank.ipynb)
 		&#x26AA;
 
-			- [{CRUD}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-CRUD.ipynb)
+			- [{redundancy}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-redundancy.ipynb)
 			&#x1F530;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-CRUD.ipynb)
+			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-redundancy.ipynb)
 
-			- [{storage}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-storage.ipynb)
+			- [{standards}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-standards.ipynb)
 			&#x1F530;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-storage.ipynb)
+			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-standards.ipynb)
 
-			- [{security}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-security.ipynb)
+		- [{disadvantages}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-intentionally-blank.ipynb)
+		&#x26AA;
+
+			- [{complexity}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-complexity.ipynb)
 			&#x1F530;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-security.ipynb)
+			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-complexity.ipynb)
 
-			- [{backup}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-backup.ipynb)
+			- [{size}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-size.ipynb)
 			&#x1F530;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-backup.ipynb)
+			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-size.ipynb)
 
-			- [{transactions}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-transactions.ipynb)
+			- [{performance}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-performance.ipynb)
 			&#x1F530;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-transactions.ipynb)
+			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-performance.ipynb)
 
-			- [{integrity}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-integrity.ipynb)
+			- [{failure}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-failure.ipynb)
 			&#x1F530;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-integrity.ipynb)
+			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-failure.ipynb)
 
-			- [{concurrency}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-concurrency.ipynb)
-			&#x1F530;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-concurrency.ipynb)
-
-			- [{advantages}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-intentionally-blank.ipynb)
-			&#x26AA;
-
-				- [{redundancy}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-redundancy.ipynb)
-				&#x1F530;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-redundancy.ipynb)
-
-				- [{standards}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-standards.ipynb)
-				&#x1F530;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-standards.ipynb)
-
-			- [{disadvantages}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-intentionally-blank.ipynb)
-			&#x26AA;
-
-				- [{complexity}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-complexity.ipynb)
-				&#x1F530;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-complexity.ipynb)
-
-				- [{size}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-size.ipynb)
-				&#x1F530;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-size.ipynb)
-
-				- [{performance}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-performance.ipynb)
-				&#x1F530;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-performance.ipynb)
-
-				- [{failure}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-failure.ipynb)
-				&#x1F530;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-failure.ipynb)
-
-	- [{types}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types.ipynb)
+- [{types}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types.ipynb)
 	&#x1F530;
 	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types.ipynb)
+
+- { ["**normalisation**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) : &#x1F4CC;<br /> [
+["organising-columns-tables-relational-database-minimise-data-redundancy"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
+["breaking-table-smaller-related-data-easier-update-less-prone-anomalies"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
+["normalisation-large-table-large-number-columns"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
+["table-broken-down"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
+["reason-interlinked-tables-less-columns-definition-database"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
+["process-done-defining-schema"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
+["stages-normal-forms-rules"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ] } &#x1F3C1;
+
+    - { ["**anomaly**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-intentionally-blank.ipynb) :
+    &#x26AA; }
+
+        - { ["**update**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb) : &#x1F4CC;<br /> [
+        ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb) ,
+        ["real-world-table-thousands-rows-update-time"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb) ,
+        ["design-rows-overlooked-reviewing-incorrect-update-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb) ] } &#x1F3C1;
+
+        - { ["**insertion**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb) : &#x1F4CC;<br /> [
+        ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb) ,
+        ["columns-values-NULL-primary-key"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb) ,
+        ["design-not-allow-new-added-insertion-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb) ] } &#x1F3C1;
+
+        - { ["**deletion**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb) : &#x1F4CC;<br /> [
+        ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb) ,
+        ["data-protection-remove-all-relating-lose-information"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb) ,
+        ["design-deleting-all-related-references-deletion-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb) ] } &#x1F3C1;
+
+    - { ["**process**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) : &#x1F4CC;<br /> [
+    ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
+    ["normalised-version-table-Hospital-splitting-link-both"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
+    ["reference-rather-than-duplicating"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
+    ["check-update-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
+    ["check-insertion-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
+    ["check-deletion-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ] } &#x1F3C1;
+
+        - { ["**foreign-key**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) : &#x1F4CC;<br /> [
+        ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) ,
+        ["reference-between-tables-creatingt-table-define-link-foreign-key"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) ,
+        ["clause-foreign-key-relation-between-column-table-to-another-column-another-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) ] } &#x1F3C1;
+
+            - { ["**referential-integrity**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) : &#x1F4CC;<br /> [
+            ["referential-integrity-ensures-database-consistent"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) ,
+            ["values-inserted-column-foreign-key-must-exist-column-table-referenced"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) ,
+            ["referential-integrity-compromised-row-referencing-row-table-not-exist"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) ,
+            ["mysql-definition-foreign-key-statement-nothing-mentioned-not-delete-row-table-referenced"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) ] } &#x1F3C1;
+
+</details>
+
+<details close>
+    <summary>relational</summary>
 
 > [{relational}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational.ipynb)
 &#x1F4CC;
@@ -1071,51 +1174,10 @@
 					&#x1F4CC;
 					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-DROP.ipynb)
 
-- { ["**normalisation**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) : &#x1F4CC; [
-["organising-columns-tables-relational-database-minimise-data-redundancy"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
-["breaking-table-smaller-related-data-easier-update-less-prone-anomalies"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
-["normalisation-large-table-large-number-columns"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
-["table-broken-down"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
-["reason-interlinked-tables-less-columns-definition-database"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
-["process-done-defining-schema"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
-["stages-normal-forms-rules"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ] } &#x1F3C1;
+</details>
 
-    - { ["**anomaly**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-intentionally-blank.ipynb) :
-    &#x26AA; }
-
-        - { ["**update**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb) : &#x1F4CC; [
-        ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb) ,
-        ["real-world-table-thousands-rows-update-time"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb) ,
-        ["design-rows-overlooked-reviewing-incorrect-update-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb) ] } &#x1F3C1;
-
-        - { ["**insertion**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb) : &#x1F4CC; [
-        ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb) ,
-        ["columns-values-NULL-primary-key"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb) ,
-        ["design-not-allow-new-added-insertion-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb) ] } &#x1F3C1;
-
-        - { ["**deletion**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb) : &#x1F4CC; [
-        ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb) ,
-        ["data-protection-remove-all-relating-lose-information"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb) ,
-        ["design-deleting-all-related-references-deletion-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb) ] } &#x1F3C1;
-
-    - { ["**process**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) : &#x1F4CC; [
-    ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
-    ["normalised-version-table-Hospital-splitting-link-both"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
-    ["reference-rather-than-duplicating"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
-    ["check-update-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
-    ["check-insertion-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
-    ["check-deletion-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ] } &#x1F3C1;
-
-        - { ["**foreign-key**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) : &#x1F4CC; [
-        ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) ,
-        ["reference-between-tables-creatingt-table-define-link-foreign-key"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) ,
-        ["clause-foreign-key-relation-between-column-table-to-another-column-another-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) ] } &#x1F3C1;
-
-            - { ["**referential-integrity**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) : &#x1F4CC; [
-            ["referential-integrity-ensures-database-consistent"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) ,
-            ["values-inserted-column-foreign-key-must-exist-column-table-referenced"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) ,
-            ["referential-integrity-compromised-row-referencing-row-table-not-exist"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) ,
-            ["mysql-definition-foreign-key-statement-nothing-mentioned-not-delete-row-table-referenced"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) ] } &#x1F3C1;
+<details close>
+    <summary>non-relational</summary>
 
 > [{non-relational}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational.ipynb)
 &#x1F4CC;
@@ -1325,6 +1387,8 @@
 							- [{$exists}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-exists.ipynb)
 							&#x1F4CC;
 							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-exists.ipynb)
+
+</details>
 
 - [{lorem_ipsum}](https://github.com/E6985/E2746/blob/master/src/lorem_ipsum.ipynb)
 
