@@ -138,7 +138,7 @@
 
 </details>
 
-<details close>
+<details open>
     <summary>recursion</summary>
 
 > { ["**recursion**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion.ipynb) : &#x1F4CC;<br /> [
@@ -184,12 +184,13 @@
         - { [&#x00A9; "**infinite**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite.ipynb) : &#x1F4CC;<br /> [
         ["recursive-method-not-base-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite.ipynb) ,
         ["different-infinite-loop-infinite-recursion-similar-informative"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite.ipynb) ,
-        ["python-limit-recursion-depth-1000"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite.ipynb) ,
+        ["python-limit-recursion-depth-3000"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite.ipynb) ,
         ["protect-against-base-case-parameters-solved-recursion"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite.ipynb) ] } &#x1F3C1;
 
             - { [&#x00A9; "**circular**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite-circular.ipynb) : &#x1F4CC;<br /> [
             ["type-infinite-calls-stops-progress-base-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite-circular.ipynb) ,
             ["python-maximum-recursion-depth-exceeded-comparison"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite-circular.ipynb) ] } &#x1F3C1;
+            ["protect-against-progress-towards-base-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-error-infinite-circular.ipynb) ] } &#x1F3C1;
 
     - { [&#x00A9; "**rules**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-rules.ipynb) : &#x1F4CC;<br /> [
     ["avoid-infinite-circular-errors-rules"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-rules.ipynb) ,
@@ -210,7 +211,7 @@
     ["push-onto-top-stack"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack.ipynb) ,
     ["pop-off-top-stack-last-added"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack.ipynb) ,
     ["function-invoked-push-activation-frame-top"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack.ipynb) ,
-    ["function-exits-activation-frame-off"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack.ipynb) ,
+    ["function-exits-pop-activation-frame-off"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack.ipynb) ,
     ["visualise-activation-frames-active-record-called-parameters-flow-control"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack.ipynb) ] } &#x1F3C1;
 
         - { [&#x00A9; "**process**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process.ipynb) : &#x1F4CC; 
@@ -221,13 +222,16 @@
             ["factorial-two-base-cases-empty-product-convention-one-zero-base-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial.ipynb) ] } &#x1F3C1;
 
                 - { [&#x00A9; "**iterative**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial-iterative.ipynb) : &#x1F4CC;
-                ["&#x00A9;"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial-iterative.ipynb) } &#x1F3C1;
+                ["problem-solved-recursion-implementation-also-solved-iterative-implementation"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial-iterative.ipynb) } &#x1F3C1;
 
-                - [{recursive}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial-recursive.ipynb)
+                - { [&#x00A9; "**recursive**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial-recursive.ipynb) : &#x1F4CC;
+                ["&#x00A9;"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial-recursive.ipynb) } &#x1F3C1;
 
-            - [{euclid}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-euclid.ipynb)
+            - [{&#x00A9; "**euclid**" &#x00A9;}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-euclid.ipynb) : &#x1F4CC;
+            ["greatest-common-divisor-two-postive-integers-largest-divides-both-without-remainder;"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial-recursive.ipynb) ,
+            ["find-largest-square-cover-floor"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial-recursive.ipynb) } &#x1F3C1;
 
-                - [{iterative}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-euclid-iterative.ipynb)
+                - [{&#x00A9; "**iterative**" &#x00A9;}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-euclid-iterative.ipynb)
 
 </details>
 
@@ -344,7 +348,7 @@
 
 </details>
 
-<details open>
+<details close>
     <summary>sorting</summary>
 
 > { ["**sorting**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) : &#x1F4CC;<br /> [
