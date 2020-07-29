@@ -711,9 +711,13 @@
 
 ***
 
-> [{data}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb)
-&#x1F530;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb)
+> { ["**data**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb) : &#x1F4CC; [
+["single-piece-information-series-facts-statistics"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb) ,
+["datum-singular-data-plural-nowadays-both"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb) ,
+["generate-use-data-everyday-life"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb) ,
+["online-generate-vast-amounts-digital-footprint-active"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb) ,
+["passive-digital-footprint-ip-address-computer-identified-logged-server"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb) ,
+["amount-data-generated-exponentially-stored-databases"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb) ] } &#x1F3C1;
 
 <details close>
     <summary>data</summary>
