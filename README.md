@@ -171,9 +171,34 @@
             ["single-call-last-operation-top-stack"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-linear-tail.ipynb) ,
             ["avoid-multiple-active-stack-frames-finished-work-expensive-inefficient"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-linear-tail.ipynb) ] } &#x1F3C1;
 
+                - { [&#x00A9; "**euclid**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-linear-tail-euclid.ipynb) : &#x1F4CC;</br >
+                ["greatest-common-divisor-two-postive-integers-largest-divides-both-without-remainder;"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-linear-tail-euclid.ipynb) ,
+                ["find-largest-square-cover-floor"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-linear-tail-euclid.ipynb) } &#x1F3C1;
+
+                    - { [&#x00A9; "**iterative**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-linear-tail-euclid-iterative.ipynb) :
+                    [&#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-linear-tail-euclid-iterative.ipynb) } &#x1F3C1;
+
+                    - { [&#x00A9; "**recursion**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-linear-tail-euclid-recursion.ipynb) : &#x1F4CC;<br />
+                    ["tail-recursion-last-operation"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-linear-tail-euclid-recursion.ipynb) } &#x1F3C1;
+
         - { ["**binary**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary.ipynb) : &#x1F4CC;<br /> [
         ["two-calls-larger-growth-nested"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary.ipynb) ,
         ["avoid-nested-exponential-growth-inefficient"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary.ipynb) ] } &#x1F3C1;
+
+            - { ["**fibonacci**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary-fibonacci.ipynb) : &#x1F4CC;<br /> [ 
+            ["sequence-appear-random-sum-previous-two-first-two-special-cases"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary-fibonacci.ipynb) ,
+            ["series-nature-model-growth-rate-organisms-any-living-thing-conform-fibonacci-series"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary-fibonacci.ipynb) ,
+            ["plotted-grid-growth-model-shells-grow-branches-tree"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary-fibonacci.ipynb) ,
+            ["Liber-Abaci"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary-fibonacci.ipynb) ,
+            ["convention-zero-included-series-index-one"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary-fibonacci.ipynb) ,
+            ["numbers-one-two-not-conform-rule-serve-base-cases-recursive-implementation"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary-fibonacci.ipynb) ] } &#x1F3C1;
+
+                - { [&#x00A9; "**iterative**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary-fibonacci-iterative.ipynb) : &#x00A9;
+                [&#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary-fibonacci-iterative.ipynb) } &#x1F3C1;
+
+                - { [&#x00A9; "**recursion**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary-fibonacci-recursive.ipynb) : &#x1F4CC;<br /> [
+                ["binary-recursion"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary-fibonacci-recursive.ipynb) ,
+                ["technically-not-tail-last-operation-addition"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary-fibonacci-recursive.ipynb) ] } &#x1F3C1;
 
         - { ["**exponential**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-exponential.ipynb) : &#x1F4CC;<br />
         ["multiple-calls-avoid-exponential-growth-inefficient"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-exponential.ipynb) } &#x1F3C1;
@@ -214,24 +239,18 @@
     ["function-exits-pop-activation-frame-off"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack.ipynb) ,
     ["visualise-activation-frames-active-record-called-parameters-flow-control"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack.ipynb) ] } &#x1F3C1;
 
-        - { [&#x00A9; "**process**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process.ipynb) : &#x1F4CC; 
+        - { [&#x00A9; "**process**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process.ipynb) :
         ["&#x00A9;"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process.ipynb) } &#x1F3C1;
 
             - { ["**factorial**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial.ipynb) : &#x1F4CC;<br /> [
             ["non-negative-input-computed-product-all-positive-less-equal"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial.ipynb) ,
             ["factorial-two-base-cases-empty-product-convention-one-zero-base-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial.ipynb) ] } &#x1F3C1;
 
-                - { [&#x00A9; "**iterative**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial-iterative.ipynb) : &#x1F4CC;
+                - { [&#x00A9; "**iterative**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial-iterative.ipynb) : &#x1F4CC;<br />
                 ["problem-solved-recursion-implementation-also-solved-iterative-implementation"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial-iterative.ipynb) } &#x1F3C1;
 
-                - { [&#x00A9; "**recursive**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial-recursive.ipynb) : &#x1F4CC;
+                - { [&#x00A9; "**recursive**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial-recursive.ipynb) :
                 ["&#x00A9;"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial-recursive.ipynb) } &#x1F3C1;
-
-            - [{&#x00A9; "**euclid**" &#x00A9;}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-euclid.ipynb) : &#x1F4CC;
-            ["greatest-common-divisor-two-postive-integers-largest-divides-both-without-remainder;"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial-recursive.ipynb) ,
-            ["find-largest-square-cover-floor"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial-recursive.ipynb) } &#x1F3C1;
-
-                - [{&#x00A9; "**iterative**" &#x00A9;}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-stack-process-euclid-iterative.ipynb)
 
 </details>
 
