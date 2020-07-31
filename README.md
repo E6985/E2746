@@ -138,7 +138,7 @@
 
 </details>
 
-<details open>
+<details close>
     <summary>recursion</summary>
 
 > { ["**recursion**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion.ipynb) : &#x1F4CC;<br /> [
@@ -730,7 +730,7 @@
 
 ***
 
-> { ["**data**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb) : &#x1F4CC; [
+> { ["**data**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb) : &#x1F4CC;<br /> [
 ["single-piece-information-series-facts-statistics"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb) ,
 ["datum-singular-data-plural-nowadays-both"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb) ,
 ["generate-use-data-everyday-life"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb) ,
@@ -738,101 +738,120 @@
 ["passive-digital-footprint-ip-address-computer-identified-logged-server"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb) ,
 ["amount-data-generated-exponentially-stored-databases"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb) ] } &#x1F3C1;
 
-<details close>
+<details open>
     <summary>data</summary>
 
-> [{database}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database.ipynb)
-&#x1F530;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database.ipynb)
+- { ["**database**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database.ipynb) : &#x1F4CC;<br /> [
+["never-used-database-store-information-accessed-updated-used-future"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database.ipynb) ,
+["files-backups-two-versions-can-revert-roll-back-quickly-complicated-duplication"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database.ipynb) ,
+["database-collection-related-data-accessed-managed-updated"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database.ipynb) ] } &#x1F3C1;
 
-- [{schema}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema.ipynb)
-&#x1F530;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema.ipynb)
+- { [&#x00A9; "**schema**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema.ipynb) : &#x1F4CC;<br /> [
+["database-consists-schemas-tables-views-objects"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema.ipynb) ,
+["schema-drawing-represents-idea-easier-understand"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema.ipynb) ,
+["schematic-diagram-showing-abstract-level-everything-works"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema.ipynb) ,
+["database-schema-defines-data-relationships-between-stored"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema.ipynb) ,
+["databases-consist-more-one-table-schema-shows-tables-associated-one-another"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema.ipynb) ,
+["represents-logical-configuration-all-part-database-defines-how-data-relationships-between-data-stored"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema.ipynb) ,
+["table-schema-command-DESCRIBE-not-inform-foreign-keys"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema.ipynb) ,
+["relational-1970s-types-information-kept-straightforward-logical-schema-defined-before-data-added"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema.ipynb) ,
+["schema-updated-add-new-column-slow-process-downtime-scaled-horizontally-take-longer"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema.ipynb) ,
+["schema-changed-again-less-structured-different-customers-different-details"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema.ipynb) ,
+["relational-model-store-same-data-each-customer-store-NULL"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema.ipynb) ,
+["constantly-changing-world-new-information-created-relational-cannot-cope"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema.ipynb) ] } &#x1F3C1;
 
-	- [{types}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types.ipynb)
-	&#x1F530;
-	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types.ipynb)
+    - { ["**types**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types-intentionally-blank.ipynb) :
+    [&#x26AA;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types-intentionally-blank.ipynb) } 
 
-		- [{physical}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types-physical.ipynb)
-		&#x1F530;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types-physical.ipynb)
+        - { ["**physical**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types-physical.ipynb) : &#x1F4CC;<br />
+        ["defines-data-stored-physically-consideration-database-size-spread-multiple-computers"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types-physical.ipynb)] } &#x1F3C1;
 
-		- [{logical}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types-logical.ipynb)
-		&#x1F530;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types-logical.ipynb)
+        - { ["**logical**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types-logical.ipynb) : &#x1F4CC;<br /> [
+        ["designed-database-created-no-data-define-logical-constraints-relationships"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types-logical.ipynb) ,
+        ["database-hospital-not-need-know-individual-need-know-characteristics"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types-logical.ipynb) ,
+        ["definition-logical-schema-defines-relationships-tables"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types-logical.ipynb) ,
+        ["logical-schema-rules-defining-database"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-schema-types-logical.ipynb) ] } &#x1F3C1;
 
-- [{DBMS}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS.ipynb)
-&#x1F530;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS.ipynb)
+- { ["**DBMS**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS.ipynb) : &#x1F4CC;<br /> [
+["software-creating-managing-databases"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS.ipynb) ,
+["interacts-user-database-sometimes-other-systems-store-retrieve-update"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS.ipynb) ,
+["centralised-view-data-accessed-multiple-users-multiple-locations-controlled-concurrency"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS.ipynb) ,
+["limit-end-user-sees-how-view"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS.ipynb) ,
+["manage-types-user-see-different-aspects"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS.ipynb) ,
+["DBMS-provides-different-views-data-independence"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS.ipynb) ] } &#x1F3C1;
 
-	- [{MySQL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-MySQL.ipynb)
-	&#x1F530;
-	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-MySQL.ipynb)
+    - { ["**mysql**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-MySQL.ipynb) : &#x1F4CC;<br /> [
+    ["sql-language-syntax-rules"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-MySQL.ipynb) ,
+    ["mysql-relational-database-management-system-uses-sql-manipulate"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-MySQL.ipynb) ] } &#x1F3C1;
 
-	- [{functions}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-intentionally-blank.ipynb)
-	&#x26AA;
+    - { ["**functions**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-intentionally-blank.ipynb) :
+    &#x26AA; }
 
-		- [{CRUD}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-CRUD.ipynb)
-		&#x1F530;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-CRUD.ipynb)
+        - { ["**CRUD**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-CRUD.ipynb) : &#x1F4CC;<br /> [
+        ["insert-actual-data-SQL-populates-tables"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-CRUD.ipynb) ,
+        ["read-getting-useful-information-important-part-SQL"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-CRUD.ipynb) ,
+        ["update-employee-salary-increased"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-CRUD.ipynb) ,
+        ["delete-GDPR-require-data-removed"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-CRUD.ipynb) ,
+        ["create-read-update-deleting-CRUD-core-functions"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-CRUD.ipynb) ] } &#x1F3C1;
 
-		- [{storage}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-storage.ipynb)
-		&#x1F530;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-storage.ipynb)
+        - { ["**storage**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-storage.ipynb) : &#x1F4CC;
+        ["tables-physically-stored-retrieved-from-disk"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-storage.ipynb) } &#x1F3C1;
 
-		- [{security}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-security.ipynb)
-		&#x1F530;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-security.ipynb)
+        - { ["**security**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-security.ipynb) : &#x1F4CC;<br /> [
+        ["central-storage-data-protected-better-than-spread"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-security.ipynb) ,
+        ["sql-create-users-privileges"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-security.ipynb) ] } &#x1F3C1;
 
-		- [{backup}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-backup.ipynb)
-		&#x1F530;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-backup.ipynb)
+        - { ["**backup**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-backup.ipynb) : &#x1F4CC;<br /> [
+        ["restored-once-written-data-guaranteed-never-lost"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-backup.ipynb) ,
+        ["stored-centrally-backed-up-rather-individual-users-backup"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-backup.ipynb) ,
+        ["sql-commands-backup-can-restore"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-backup.ipynb) ] } &#x1F3C1;
 
-		- [{transactions}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-transactions.ipynb)
-		&#x1F530;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-transactions.ipynb)
+        - { ["**transactions**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-transactions.ipynb) : &#x1F4CC;<br /> [
+        ["purchasing-online-transaction-background"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-transactions.ipynb) ,
+        ["server-hit-lightning-transaction-management-group-operations-belong-together-within"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-transactions.ipynb) ,
+        ["completes-entirely-fails-totally-DBMS-ensure-undone-restored-consistent-state"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-transactions.ipynb) ,
+        ["sql-grouping-individual-operations-transactions"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-transactions.ipynb) ] } &#x1F3C1;
 
-		- [{integrity}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-integrity.ipynb)
-		&#x1F530;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-integrity.ipynb)
+        - { ["**integrity**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-integrity.ipynb) : &#x1F4CC;<br /> [
+        ["valid-data-entered"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-integrity.ipynb) ,
+        ["data-integrity"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-integrity.ipynb) ,
+        ["sure-valid-types-stored-relationships-tables-always-correct"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-integrity.ipynb) ] } &#x1F3C1;
 
-		- [{concurrency}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-concurrency.ipynb)
-		&#x1F530;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-concurrency.ipynb)
+        - { ["**concurrency**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-concurrency.ipynb) : &#x1F4CC;<br /> [
+        ["two-more-users-access-same-data-same-time"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-concurrency.ipynb) ,
+        ["levels-concurrency-management-set-administrator-managed-DBMS"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-concurrency.ipynb)
+        ["sql-managed-different-ways"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-concurrency.ipynb) ] } &#x1F3C1;
 
-		- [{advantages}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-intentionally-blank.ipynb)
-		&#x26AA;
+        - { ["**advantages**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-intentionally-blank.ipynb) :
+        &#x26AA; }
 
-			- [{redundancy}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-redundancy.ipynb)
-			&#x1F530;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-redundancy.ipynb)
+            - { ["**redundancy**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-redundancy.ipynb) : &#x1F4CC;<br /> [
+            ["spreadsheet-some-data-stored-multiple-times"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-redundancy.ipynb) ,
+            ["good-schema-design-avoid-redundant-data-references-rather-duplicating"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-redundancy.ipynb) ] } &#x1F3C1;
 
-			- [{standards}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-standards.ipynb)
-			&#x1F530;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-standards.ipynb)
+            - { ["**standards**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-standards.ipynb) : &#x1F4CC;
+            ["data-stored-centrally-DBMS-enforce-standards-naming-conventions-formats"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-standards.ipynb) } &#x1F3C1;
 
-		- [{disadvantages}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-intentionally-blank.ipynb)
-		&#x26AA;
+        - { ["**disadvantages**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-intentionally-blank.ipynb) :
+        &#x26AA; }
 
-			- [{complexity}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-complexity.ipynb)
-			&#x1F530;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-complexity.ipynb)
+            - { ["**complexity**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-complexity.ipynb) : &#x1F4CC;<br /> [
+            ["nothing-perfect-always-trade-offs-features-dbms-additional-complexity"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-complexity.ipynb) ,
+            ["not-store-redundant-data-design-good-schema-learn-rules"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-complexity.ipynb) ,
+            ["data-integrity-ensure-relationships-tables-valid"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-complexity.ipynb) ,
+            ["complicated-than-spreadsheet-advantages-decide-trade-off-learning-worth-benefits"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-complexity.ipynb) ] } &#x1F3C1;
 
-			- [{size}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-size.ipynb)
-			&#x1F530;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-size.ipynb)
+                - { ["**size**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-complexity-size.ipynb) : &#x1F4CC;
+                ["complexity-dbms-large-piece-software-memory-disk-space"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-complexity-size.ipynb) } &#x1F3C1;
 
-			- [{performance}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-performance.ipynb)
-			&#x1F530;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-performance.ipynb)
+            - { ["**performance**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-performance.ipynb) : &#x1F4CC;
+            ["application-written-own-payroll-system-likely-faster-general-purpose-dbms"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-performance.ipynb) } &#x1F3C1;
 
-			- [{failure}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-failure.ipynb)
-			&#x1F530;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-failure.ipynb)
+            - { ["**failure**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-failure.ipynb) : &#x1F4CC;
+            ["backup-recovery-security-enabled-centralised-nature-centralisation-data-disadvantage-downtime-costly-time-money"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-failure.ipynb) } &#x1F3C1;
 
-- [{types}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types.ipynb)
-	&#x1F530;
-	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types.ipynb)
+- { ["**types**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types.ipynb) : &#x1F4CC;
+["main-categories-relational-non-relational"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types.ipynb) } &#x1F3C1;
 
 - { ["**normalisation**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) : &#x1F4CC;<br /> [
 ["organising-columns-tables-relational-database-minimise-data-redundancy"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
