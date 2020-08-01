@@ -738,7 +738,7 @@
 ["passive-digital-footprint-ip-address-computer-identified-logged-server"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb) ,
 ["amount-data-generated-exponentially-stored-databases"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb) ] } &#x1F3C1;
 
-<details open>
+<details close>
     <summary>data</summary>
 
 - { ["**database**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database.ipynb) : &#x1F4CC;<br /> [
@@ -901,74 +901,98 @@
 
 </details>
 
-<details close>
+<details open>
     <summary>relational</summary>
 
-> [{relational}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational.ipynb)
-&#x1F4CC;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational.ipynb)
+> { ["**relational**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational.ipynb) : &#x1F4CC;<br /> [
+["database-collection-organised-data"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational.ipynb) ,
+["store-data-relational-microsoft-sql-server-oracle-mysql-ibm-db2"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational.ipynb) ,
+["data-stored-tables-made-up-columns-each-store-data-type"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational.ipynb) ] } &#x1F3C1;
 
-- [{table}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table.ipynb)
-&#x1F4CC;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table.ipynb)
+- { ["**table**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table.ipynb) : &#x1F4CC;<br /> [
+["relational-set-tables-storing-collection-related-data"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table.ipynb) ,
+["unique-name-may-relate-one-more-other-tables-through-common-values"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table.ipynb) ,
+["table-collection-columns-with-rows"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table.ipynb) ] } &#x1F3C1;
 
-	- [{column}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-column.ipynb)
-	&#x1F4CC;
-	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-column.ipynb)
+    - { ["**column**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-column.ipynb) : &#x1F4CC;
+    ["column-data-representing-specific-characteristic-rows-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-column.ipynb) } &#x1F3C1;
 
-	- [{row}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-row.ipynb)
-	&#x1F4CC;
-	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-row.ipynb)
+    - { ["**row**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-row.ipynb) : &#x1F4CC;
+    ["row-data-pertaining-single-item-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-row.ipynb) } &#x1F3C1;
 
-- [{spreadsheets}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb)
-&#x1F4CC;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb)
+- { ["**spreadsheets**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb) : &#x1F4CC;<br /> [
+["row-spreadsheet-data-pertaining-relating-single-item"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb) ,
+["rows-spreadsheet-same-rows-table-relational"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb) ,
+["columns-spreadsheet-same-columns-table-relational"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb) ,
+["individual-sheets-spreadsheet-correspond-tables-relational"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb) ,
+["spreadsheet-duplication-information-re-entered-error-prone"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb) ,
+["well-designed-database-duplication-not-happen-features-transaction-user-management-storage-indexing-provided-database-not-spreadsheets"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb) ,
+["comparing-storage-information-spreadsheet-opposed-relational-similarities-exist-both-columnns-rows-more-efficiently-organised-database"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb) ,
+["responsibility-managing-efficiently-consistently-dbms"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb) ] } &#x1F3C1;
 
 - [{language}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-intentionally-blank.ipynb)
 &#x26AA;
 
-	- [{SQL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb)
-	&#x1F4CC;
-	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb)
+    - { ["**SQL**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb) : &#x1F4CC;<br /> [
+    ["structured-query-language-standard-relational-language-different-databases-use-propreitary-extensions-top-standard"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb) ,
+    ["create-access-manipulate-databases"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb) ,
+    ["store-data-sql-creation-databases-relational-data-stored-tables-created-by-sql-have-properties-columns"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb) ,
+    ["sql-allows-populating-tables"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb) ,
+    ["getting-useful-information-stored-data-sometimes-needs-updated"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb) ,
+    ["CRUD-core-functions-create-read-update-delete"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb) ,
+    ["transaction-completed-entirely-fails-sql-allows-grouping-individual-operations-transactions"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb) ,
+    ["concurrency-two-more-users-access-same-data-same-time-managed-different-ways"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb) ,
+    ["commands-backup-database-failure-backed-up-version-restored"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb) ,
+    ["creation-different-users-different-privileges"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb) ,
+    ["offers-range-tools-manipulate-relational"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb) ] } &#x1F3C1;
 
-		- [{MySQL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL.ipynb)
-		&#x1F4CC;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL.ipynb)
+        - { ["**MySQL**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL.ipynb) : &#x1F4CC;<br /> [
+        ["sql-lanaguage-syntax-rules"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL.ipynb) ,
+        ["mysql-relational-database-management-system-uses-sql-language"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL.ipynb) ] } &#x1F3C1;
 
-			- [{MongoDB}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-MongoDB.ipynb)
-			&#x1F4CC;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-MongoDB.ipynb)
+            - { ["**MongoDB**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-MongoDB.ipynb) : &#x1F4CC;<br /> [
+            ["mongdb-use-amount-data-stored-enormous-data-increase-relatively-short-time"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-MongoDB.ipynb) ,
+            ["data-stored-not-consistent-structure-consistently-changing-mongodb-preferable-mysql"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-MongoDB.ipynb) ,
+            ["mongodb-use-document-referencing-embedding-not-strict-foreign-key-constraints-available-mysql"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-MongoDB.ipynb) ,
+            ["mysql-very-stable-data-very-structured-controlled-mysql-better-option"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-MongoDB.ipynb) ,
+            ["data-types-foreign-keys-ensure-data-integrity"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-MongoDB.ipynb), 
+            ["data-security-integrity-important-mysql-better-option"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-MongoDB.ipynb) ] } &#x1F3C1;
 
-			- [{data-types}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-data-types.ipynb)
-			&#x1F4CC;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-data-types.ipynb)
+            - { ["**data-types**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-data-types.ipynb) : &#x1F4CC;<br /> [
+            ["data-stored-tables-made-up-columns-each-store-different-data-type"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-data-types.ipynb) ,
+            ["determine-data-type-each-column-should-hold"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-data-types.ipynb) ] } &#x1F3C1;
 
 			- [{command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-intentionally-blank.ipynb)
 			&#x26AA;
 
-				- [{create-database}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-DATABASE.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-DATABASE.ipynb)
+                - { [&#x00A9; "**create-database**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-DATABASE.ipynb) :
+                ["&#x00A9;"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-DATABASE.ipynb) } &#x1F3C1;
 
-				- [{show-databases}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-DATABASES.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-DATABASES.ipynb)
+                - { [&#x00A9; "**show-databases**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-DATABASES.ipynb) : &#x1F4CC;
+                ["mysql-manages-many-databases-not-single-one-see-mysql-currently-managing"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-DATABASES.ipynb) } &#x1F3C1;
 
-				- [{use}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-USE.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-USE.ipynb)
+                - { [&#x00A9; "**use**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-USE.ipynb) : &#x1F4CC;<br />
+                ["tell-mysql-which-database-work-with"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-USE.ipynb) } &#x1F3C1;
 
-				- [{CREATE-TABLE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-TABLE.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-TABLE.ipynb)
+                - { [&#x00A9; "**CREATE-TABLE**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-TABLE.ipynb) : &#x1F4CC;<br /> [
+                ["knowing-characteristics-columns-type-data-each-column-should-store-issue-create-command"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-TABLE.ipynb) ,
+                ["characteristics-column-define-string-cannot-NULL-blank"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-TABLE.ipynb) ,
+                ["column-define-integer"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-TABLE.ipynb) ,
+                ["column-define-enumerate-default"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-TABLE.ipynb) ,
+                ["column-define-date"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-TABLE.ipynb) ,
+                ["if-column-defined-boolean-TINYINT"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-TABLE.ipynb) ,
+                ["auto-incrementing-primary-key"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-TABLE.ipynb) ] } &#x1F3C1;
 
-				- [{DESCRIBE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-DESCRIBE.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-DESCRIBE.ipynb)
+                - { [&#x00A9; "**DESCRIBE**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-DESCRIBE.ipynb) : &#x1F4CC;<br /> [
+                ["table-already-created-already-know-structure"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-DESCRIBE.ipynb) ,
+                ["reverting-back-after-period-unlikely-remember-structure-encountering-new-need-know-sort-data"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-DESCRIBE.ipynb) ,
+                ["command-DESCRIBE-shows-names-columns-data-type"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-DESCRIBE.ipynb) ,
+                ["addition-shows-blank-NULL"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-DESCRIBE.ipynb) ,
+                ["addition-not-allowed-default-value"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-DESCRIBE.ipynb) ] } &#x1F3C1;
 
-                 - [{SHOW-CREATE-TABLE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-CREATE-TABLE.ipynb)
-                 &#x1F4CC;
-                 [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-CREATE-TABLE.ipynb)
+                - { [&#x00A9; "**SHOW-CREATE-TABLE**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-CREATE-TABLE.ipynb) : &#x1F4CC;<br /> [
+                ["command-DESCRIBE-not-specify-within-table-column-foreign-key-referencing-another-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-CREATE-TABLE.ipynb) ,
+                ["command-SHOW-CREATE-TABLE-same-information-command-DESCRIBE-different-format-plus-foreign-key"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-CREATE-TABLE.ipynb) ] } &#x1F3C1;
 
 		- [{C_R_UD-read-command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-intentionally-blank.ipynb)
 		&#x26AA;
