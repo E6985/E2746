@@ -367,7 +367,7 @@
 
 </details>
 
-<details close>
+<details open>
     <summary>sorting</summary>
 
 > { ["**sorting**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) : &#x1F4CC;<br /> [
@@ -488,17 +488,39 @@
             - [{algorithms}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-intentionally-blank.ipynb)
             &#x26AA;
 
-                - [{bubble}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble.ipynb)
-                &#x1F530;
-                [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble.ipynb)
+                - { ["**bubble**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble.ipynb) : &#x1F4CC;<br /> [ 
+                ["comparison-based-named-larger-values-array-bubble-end-sorting-takes-place"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble.ipynb) ,
+                ["in-place-space-complexity-constant-1"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble.ipynb) ,
+                ["average-worst-case-performance-runtime-quadratic"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble.ipynb) ,
+                ["best-performance-linear"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble.ipynb) ,
+                ["stable-preserve-relative-ordering-elements-already-sorted-same-value-comparator-function"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble.ipynb) ,
+                ["simple-understand-implement-explain-conceptually"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble.ipynb) ,
+                ["slow-impractical-use-case-data-nearly-sorted-small-input"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble.ipynb) ] } &#x1F3C1;
 
-                    - [{procedure}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-procedure.ipynb)
-                    &#x1F530;
-                    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-procedure.ipynb)
+                    - { ["**procedure**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-procedure.ipynb) : &#x1F4CC;<br /> [ 
+                    ["comparing-element-left-neighbour-right-out-order-swap"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-procedure.ipynb) ,
+                    ["end-first-largest-element"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-procedure.ipynb) ,
+                    ["next-compare-element-except-last-one"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-procedure.ipynb) ,
+                    ["end-second-largest-element-first-largest-element"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-procedure.ipynb) ,
+                    ["next-compare-element-last-two"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-procedure.ipynb) ,
+                    ["end-third-largest-element-second-largest-element"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-procedure.ipynb) ,
+                    ["continue-no-unsorted-elements-left"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-procedure.ipynb) ,
+                    ["input-assumes-everything-left-unsorted-right-sorted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-procedure.ipynb) ,
+                    ["array-partitioned-large-values-bubbled-top"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-procedure.ipynb) ] } &#x1F3C1;
 
-                    - [{process}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-process.ipynb)
-                    &#x1F530;
-                    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-process.ipynb)
+                    - { ["**process**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-process.ipynb) : &#x1F4CC;<br /> [ 
+                    ["unsorted-some-out-of-order-elements"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-process.ipynb) ,
+                    ["comparing-element-neighbour-right-out-of-order-swap-elements-otherwise-leave-same-index"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-process.ipynb) ,
+                    ["next-compare-element"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-process.ipynb) ,
+                    ["sorted-partition-right-one-element-sorted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-process.ipynb) ,
+                    ["comparing-element-neighbour-right-out-of-order-swap-otherwise"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-process.ipynb) ,
+                    ["next-compare-element"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-process.ipynb) ,
+                    ["sorted-partition-right-two-elements-sorted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-process.ipynb) ,
+                    ["comparing-element-neighbour-right-out-of-order-swap-elements-otherwise-leave-same-index"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-process.ipynb) ,
+                    ["comparing-element-neighbour-right"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-process.ipynb) ,
+                    ["sorted-partition-right-three-elements-sorted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-process.ipynb) ,
+                    ["comparing-element-neighbour-right-out-of-order-swap-elements-otherwise-leave-same-index"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-process.ipynb) ,
+                    ["sorted-partition-right-four-elements-sorted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-process.ipynb) ] } &#x1F3C1;
 
                     - [{code}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-code.ipynb)
                     &#x1F530;
@@ -508,17 +530,33 @@
                         &#x1F530;
                         [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-code-analyse.ipynb)
 
-                - [{selection}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection.ipynb)
-                &#x1F530;
-                [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection.ipynb)
+                - { ["**selection**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection.ipynb) : &#x1F4CC;<br /> [ 
+                ["comparison-based"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection.ipynb) ,
+                ["in-place-space-complexity-constant-1"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection.ipynb) ,
+                ["best-average-worst-case-performance-runtime-quadratic"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection.ipynb) ,
+                ["unstable-no-guarantee-elements-same-value-comparator-function-appear-same-sequence"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection.ipynb) ,
+                ["simple-understand-implement-explain-conceptually"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection.ipynb) ,
+                ["slow-impractical-average-worst-case-performance-runtime-quadratic"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection.ipynb) ,
+                ["iteration-minimum-element-unsorted-subarray-right-moved-sorted-subarray-left"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection.ipynb) ] } &#x1F3C1;
 
-                    - [{procedure}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-procedure.ipynb)
-                    &#x1F530;
-                    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-procedure.ipynb)
+                    - { ["**procedure**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-procedure.ipynb) : &#x1F4CC;<br /> [ 
+                    ["search-every-element-index-zero-through-index-minus-one"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-procedure.ipynb) ,
+                    ["select-smallest-element-found-swap-element-zero"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-procedure.ipynb) ,
+                    ["search-every-element-index-one-through-index-minus-one"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-procedure.ipynb) ,
+                    ["select-smallest-element-found-swap-element-one"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-procedure.ipynb) ,
+                    ["search-every-element-index-two-through-index-minus-one"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-procedure.ipynb) ,
+                    ["select-smallest-element-found-swap-element-two"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-procedure.ipynb) ,
+                    ["search-every-element-index-three-through-index-minus-one"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-procedure.ipynb) ,
+                    ["select-smallest-element-found-swap-element-three"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-procedure.ipynb) ,
+                    ["continue-until-nothing-left-search-until-sorted-subarray-left-grown-size-full-array"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-procedure.ipynb) ] } &#x1F3C1;
 
-                    - [{process}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-process.ipynb)
-                    &#x1F530;
-                    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-process.ipynb)
+                    - { ["**process**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-process.ipynb) : &#x1F4CC;<br /> [ 
+                    ["unsorted-input-some-out-of-order-elements"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-process.ipynb) ,
+                    ["sorted-subarray-left"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-process.ipynb) ,
+                    ["search-full-array-first-index-0-swap-smallest-element"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-process.ipynb) ,
+                    ["search-position-index-1-through-full-array-second-index-1-swap-smallest-element"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-process.ipynb) ,
+                    ["search-position-index-2-through-full-array-third-index-2-swap-smallest-element"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-process.ipynb) ,
+                    ["search-position-index-3-through-full-array-fourth-index-3-swap-smallest-element"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-process.ipynb) ] } &#x1F3C1;
 
                     - [{code}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-code.ipynb)
                     &#x1F530;
