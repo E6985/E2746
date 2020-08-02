@@ -566,17 +566,44 @@
                         &#x1F530;
                         [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-code-analyse.ipynb)
 
-                - [{insertion}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion.ipynb)
-                &#x1F530;
-                [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion.ipynb)
+                - { ["**insertion**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion.ipynb) : &#x1F4CC;<br /> [ 
+                ["comparison-based-similar-method-used-card-players-sorting-cards-intuitive"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion.ipynb) ,
+                ["in-place-space-complexity-constant-1"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion.ipynb) ,
+                ["average-worst-case-performance-runtime-quadratic"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion.ipynb) ,
+                ["best-performance-linear"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion.ipynb) ,
+                ["runs-n-plus-d-time-number-inversions-input"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion.ipynb) ,
+                ["stable-preserve-relative-ordering-already-sorted-same-value-comparator-function"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion.ipynb) ,
+                ["inefficient-large-random-lists"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion.ipynb) ,
+                ["use-case-small-input-already-substantially-sorted-low-degree-inversions"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion.ipynb) ,
+                ["simple-understand-implement-explain-conceptually"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion.ipynb) ,
+                ["works-splitting-list-into-head-sorted-sublist-tail-unsorted-sublist"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion.ipynb) ,
+                ["insertion-in-tandem-other-algorithm-recursive"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion.ipynb) ,
+                ["writing-something-neat-succinct-decent-performance-insertion-good-option"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion.ipynb) ] } &#x1F3C1;
 
-                    - [{procedure}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-procedure.ipynb)
-                    &#x1F530;
-                    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-procedure.ipynb)
+                    - { ["**procedure**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-procedure.ipynb) : &#x1F4CC;<br /> [ 
+                    ["key-value-insert"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-procedure.ipynb) ,
+                    ["start-left-index-array"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-procedure.ipynb) ,
+                    ["set-key-element-index-one"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-procedure.ipynb) ,
+                    ["move-elements-left-greater-key-right-one-index-insert-key"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-procedure.ipynb) ,
+                    ["next-set-key-element-index-two"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-procedure.ipynb) ,
+                    ["move-elements-left-greater-key-right-one-index-insert-key"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-procedure.ipynb) ,
+                    ["next-set-key-element-index-three"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-procedure.ipynb) ,
+                    ["move-elements-left-greater-key-right-one-index-insert-key"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-procedure.ipynb) ,
+                    ["continue-process-until-reaching-index-n-minus-one-last-index-array"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-procedure.ipynb) ,
+                    ["set-key-element-last-index"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-procedure.ipynb) ,
+                    ["move-elements-left-greater-key-right-one-index-insert-key"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-procedure.ipynb) ] } &#x1F3C1;
 
-                    - [{process}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-process.ipynb)
-                    &#x1F530;
-                    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-process.ipynb)
+                    - { ["**process**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-process.ipynb) : &#x1F4CC;<br /> [ 
+                    ["unsorted-input-some-out-of-order-elements"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-process.ipynb) ,
+                    ["first-element-index-one-value-key"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-process.ipynb) ,
+                    ["all-elements-left-greater-key-value-move-right-one-index-insert-key"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-process.ipynb) ,
+                    ["next-element-index-two-value-key"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-process.ipynb) ,
+                    ["all-elements-left-greater-key-value-move-right-one-index-insert-key"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-process.ipynb) ,
+                    ["next-element-index-three-value-key"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-process.ipynb) ,
+                    ["all-elements-left-greater-key-value-move-right-one-index-insert-key"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-process.ipynb) ,
+                    ["next-element-index-four-value-key"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-process.ipynb) ,
+                    ["all-elements-left-greater-key-value-move-right-one-index-insert-key"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-process.ipynb) ,
+                    ["array-sorted-each-step-head-sorted-subarray-left-tail-unsorted-subarray-right"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-process.ipynb) ] } &#x1F3C1;
 
                     - [{code}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-code.ipynb)
                     &#x1F530;
@@ -586,9 +613,15 @@
                         &#x1F530;
                         [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-code-analyse.ipynb)
 
-                - [{merge}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge.ipynb)
-                &#x1F530;
-                [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge.ipynb)
+                - { ["**merge**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge.ipynb) : &#x1F4CC;<br /> [ 
+                ["efficient-comparison-based-von-Neumann-merge-sort-recursive-algorithm-divide-conquer-approach"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge.ipynb) ,
+                ["divide-conquer-approach-divide-step-divide-smaller-subproblems-same-problem-type"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge.ipynb) ,
+                ["divide-conquer-approach-conquer-step-keep-break-down-until-base-case-propagate-solution-recursion-trace"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge.ipynb) ,
+                ["best-average-worst-case-performance-runtime-linearithmic"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge.ipynb) ,
+                ["worst-case-running-time-comparing-bubble-selection-insertion-better-asymptotic-behaviour"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge.ipynb) ,
+                ["good-choice-need-predictable-runtime-performance-not-concerned-getting-absolute-best-every-instance"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge.ipynb) ,
+                ["stable-preserve-relative-ordering-already-sorted-same-value-comparator-function"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge.ipynb) ,
+                ["versions-merge-good-sorting-data-slow-access-times-external-sorting-data-too-large-hold-ram-sort-disk-good-for-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge.ipynb) ] } &#x1F3C1;
 
                     - [{procedure}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-procedure.ipynb)
                     &#x1F530;
@@ -1035,53 +1068,74 @@
 		- [{C_R_UD-read-command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-intentionally-blank.ipynb)
 		&#x26AA;
 
-			- [{SELECT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT.ipynb)
-			&#x1F4CC;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT.ipynb)
+            - { [&#x00A9; "**SELECT**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT.ipynb) : &#x1F4CC;<br /> [
+            ["command-workhorse-sql"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT.ipynb) ,
+            ["used-adding-updating-deleting-almost-all-information-obtained-via-SELECT"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT.ipynb) ,
+            ["select-columns-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT.ipynb) ] } &#x1F3C1;
 
-                 - [{alias}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-alias.ipynb)
-                 &#x1F4CC;
-                 [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-alias.ipynb)
+                - { [&#x00A9; "**alias**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-alias.ipynb) : &#x1F4CC;<br /> 
+                ["make-query-less-verbose-alias-column-printing-different-name-what-it-had-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-alias.ipynb) } &#x1F3C1;
 
-				- [{INNER-JOIN}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb)
+                - { [&#x00A9; "**INNER-JOIN**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb) : &#x1F4CC;<br /> [
+                ["obtain-information-whereby-all-not-stored-single-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb) ,
+                ["joining-sql-joins-rows-tables-based-foreign-key"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb) ,
+                ["SELECT-first-line-query-usually-last-thing-done-prints-information-returned"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb) ,
+                ["FROM-query-starts-read-every-row-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb) ,
+                ["INNER-JOIN-obtaining-information-more-than-one-table-must-join"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb) ,
+                ["specify-what-join-on-should-only-ever-join-two-tables-on-foreign-key-otherwise-unpredictable"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb) ,
+                ["join-each-row-table-to-each-row-other-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb) ,
+                ["table-column-foreign-key-referencing-other-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb) ,
+                ["only-way-join-when-value-column-both-tables-same-value"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb) ] } &#x1F3C1;
 
-				- [{LEFT-JOIN}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LEFT-JOIN.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LEFT-JOIN.ipynb)
+                - { [&#x00A9; "**LEFT-JOIN**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LEFT-JOIN.ipynb) : &#x1F4CC;<br /> [
+                ["LEFT-JOIN-all-rows-table-returned-regardless-join-condition-satisfied"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LEFT-JOIN.ipynb) ,
+                ["table-obtain-columns-plus-other-table-obtain-columns-joining-rows-all"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LEFT-JOIN.ipynb) ,
+                ["table-row-value-column-does-not-match-other-table-column-NULL"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LEFT-JOIN.ipynb) ,
+                ["join-LEFT-JOIN-join-condition-from-first-LEFT-table-returned-NULL-instead-rows-other-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LEFT-JOIN.ipynb) ] } &#x1F3C1;
 
-				- [{WHERE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb)
+                - { [&#x00A9; "**WHERE**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb) : &#x1F4CC;<br /> [
+                ["SELECT-column-table-limits-columns-returned-but-always-returns-all-rows-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb) ,
+                ["specify-certain-columns-given-tables-stores-enormous-amounts-data-interested-subset-rows-table-satisfying-conditions"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb) ,
+                ["returns-rows-column-clause-WHERE-column-condition"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb) ,
+                ["returns-rows-column-clause-WHERE-column-condition"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb) ] } &#x1F3C1;
 
-					- [{operator}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator.ipynb)
-					&#x1F4CC;
-					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator.ipynb)
+                    - { [&#x00A9; "**operator**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator.ipynb) : &#x1F4CC;<br /> [
+                    ["precedence-true-mysql-order-of-precedence-each-operator"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator.ipynb) ,
+                    ["operator-precedence-highest-precedence-lowest"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator.ipynb) ] } &#x1F3C1;
 
-						- [{AND-OR}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-AND-OR.ipynb)
-						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-AND-OR.ipynb)
+                        - { [&#x00A9; "**AND-OR**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-AND-OR.ipynb) : &#x1F4CC;<br /> [
+                        ["operator-precedence-order-execution-AND-higher-precedence-OR"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-AND-OR.ipynb) ,
+                        ["parentheses"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-AND-OR.ipynb) ] } &#x1F3C1;
 
-						- [{BETWEEN}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-BETWEEN.ipynb)
-						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-BETWEEN.ipynb)
+                        - { [&#x00A9; "**BETWEEN**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-BETWEEN.ipynb) : &#x1F4CC;<br /> [
+                        ["same-greater-than-equal-less-than-equal"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-BETWEEN.ipynb) ,
+                        ["operator-BETWEEN-less-verbose-easier-read"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-BETWEEN.ipynb) ,
+                        ["mysql-optimises-queries-based-on-physical-schema-database"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-BETWEEN.ipynb) ] } &#x1F3C1;
 
-						- [{LIKE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-LIKE.ipynb)
-						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-LIKE.ipynb)
+                        - { [&#x00A9; "**LIKE**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-LIKE.ipynb) : &#x1F4CC;<br /> [
+                        ["search-specified-pattern-string"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-LIKE.ipynb) ,
+                        ["partially-match-string-or-subset"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-LIKE.ipynb) ,
+                        ["clause-WHERE-search-specified-pattern-column-operator-LIKE"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-LIKE.ipynb) ,
+                        ["percentage-character-represents-zero-or-more-characters"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-LIKE.ipynb) ,
+                        ["sql-case-insensitive"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-LIKE.ipynb) ,
+                        ["operator-LIKE-underscore-symbol-represents-single-character"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-LIKE.ipynb) ] } &#x1F3C1;
 
-						- [{IN}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-IN.ipynb)
-						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-IN.ipynb)
+                        - { [&#x00A9; "**IN**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-IN.ipynb) : &#x1F4CC;<br /> [
+                        ["determine-specified-value-matches-any-value-in-set-values"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-IN.ipynb) ,
+                        ["operator-OR-verbose-operator-IN-better-readability"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-IN.ipynb) ] } &#x1F3C1;
 
-				- [{LIMIT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LIMIT.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LIMIT.ipynb)
+                - { [&#x00A9; "**LIMIT**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LIMIT.ipynb) : &#x1F4CC;<br /> [
+                ["clause-LIMIT-used-constrain-number-rows-returned-by-SELECT"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LIMIT.ipynb) ,
+                ["obtain-sample-rows-clause-LIMIT-curb-output"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LIMIT.ipynb) ,
+                ["facebook-infinite-scroll"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LIMIT.ipynb) ,
+                ["better-only-fetch-few-rows"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LIMIT.ipynb) ,
+                ["operator-LIMIT-specifying-two-parameters-one-first-offset-first-row"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LIMIT.ipynb) ,
+                ["offset-zero-start-first-row"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LIMIT.ipynb) ,
+                ["operator-LIMIT-specifying-two-parameters-second-count-max-number-rows"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LIMIT.ipynb) ] } &#x1F3C1;
 
-				- [{DISTINCT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-DISTINCT.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-DISTINCT.ipynb)
+                - { [&#x00A9; "**DISTINCT**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-DISTINCT.ipynb) : &#x1F4CC;<br /> [
+                ["DISTINCT-returns-only-distinct-unique-values-columns"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-DISTINCT.ipynb) ,
+                ["returned-rows-SELECT-DISTINCT-followed-column-unique"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-DISTINCT.ipynb) ] } &#x1F3C1;
 
 				- [{ORDER-BY}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-ORDER-BY.ipynb)
 				&#x1F4CC;
