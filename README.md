@@ -964,11 +964,8 @@
         ["reference-between-tables-creatingt-table-define-link-foreign-key"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) ,
         ["clause-foreign-key-relation-between-column-table-to-another-column-another-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) ] } &#x1F3C1;
 
-            - { ["**referential-integrity**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) : &#x1F4CC;<br /> [
-            ["referential-integrity-ensures-database-consistent"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) ,
-            ["values-inserted-column-foreign-key-must-exist-column-table-referenced"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) ,
-            ["referential-integrity-compromised-row-referencing-row-table-not-exist"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) ,
-            ["mysql-definition-foreign-key-statement-nothing-mentioned-not-delete-row-table-referenced"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) ] } &#x1F3C1;
+            - { ["**referential-integrity**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) : &#x1F4CC;
+            ["referential-integrity-ensures-database-consistent"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) } &#x1F3C1;
 
 </details>
 
@@ -1134,88 +1131,146 @@
                 ["operator-LIMIT-specifying-two-parameters-second-count-max-number-rows"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LIMIT.ipynb) ] } &#x1F3C1;
 
                 - { [&#x00A9; "**DISTINCT**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-DISTINCT.ipynb) : &#x1F4CC;<br /> [
-                ["DISTINCT-returns-only-distinct-unique-values-columns"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-DISTINCT.ipynb) ,
+                ["SELECT-DISTINCT-returns-only-distinct-unique-values-columns"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-DISTINCT.ipynb) ,
                 ["returned-rows-SELECT-DISTINCT-followed-column-unique"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-DISTINCT.ipynb) ] } &#x1F3C1;
 
-				- [{ORDER-BY}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-ORDER-BY.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-ORDER-BY.ipynb)
+                - { [&#x00A9; "**ORDER-BY**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-ORDER-BY.ipynb) : &#x1F4CC;<br /> [
+                ["return-information-sorted-particular-order"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-ORDER-BY.ipynb) ,
+                ["table-appears-ordered-by-way-rows-were-added"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-ORDER-BY.ipynb) ,
+                ["dependent-internal-mysql-stores-physical-tables-possible-SELECT-all-return-rows-any-order"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-ORDER-BY.ipynb) ,
+                ["clause-ORDER-BY-column-value-alphabetical-order-ascending-default"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-ORDER-BY.ipynb) ,
+                ["clause-ORDER-BY-column-value-reverse-alphabetical-order-keyword-DESC"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-ORDER-BY.ipynb) ,
+                ["column-function-YEAR-parameter-date-type-obtains-year-MONTH-obtain-month-DAY-day-date"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-ORDER-BY.ipynb) ] } &#x1F3C1;
 
-				- [{process}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process.ipynb)
+                - { [&#x00A9; "**process**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process.ipynb) : &#x1F4CC;<br /> [
+                ["mysql-sql-tools-manipulating-databases-combined-powerful-data-analyse-tool"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process.ipynb) ,
+                ["column-function-MONTHNAME-parameter-column-obtains-name-of-month"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process.ipynb) ,
+                ["clause-WHERE-function-DAY-operator-BETWEEN-operator-AND"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process.ipynb) ,
+                ["operator-AND-column-operator-NOT-operator-LIKE-starts-with-letter"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process.ipynb) ,
+                ["clause-ORDER-BY-column-keyword-DESC-reverse-alphabetical-order
+                "](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process.ipynb) ] } &#x1F3C1;
 
-					- [{subquery}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb)
-					&#x1F4CC;
-					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb)
+                    - { [&#x00A9; "**subquery**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb) : &#x1F4CC;<br /> [
+                    ["table-foreign-key-references-other-table-constraint"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb) ,
+                    ["join-INNER-JOIN-must-be-on-foreign-key"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb) ,
+                    ["clause-WHERE-operator-BETWEEN-operator-AND"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb) ,
+                    ["query-within-query-join-INNER-JOIN-written-subquery-parentheses-indicate-precedence"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb) ,
+                    ["inner-query"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb) ,
+                    ["outermost-query-operator-IN-subquery-replaced-result-subquery"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb) ,
+                    ["query-containing-a-query-again-containing-another-query"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb) ,
+                    ["result-query-fed-into-another-query"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb) ,
+                    ["inner-query-column-parameter-function-MAX-returns-single-value"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb) ,
+                    ["subquery-replaced-result-subquery"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb) ,
+                    ["next-query-column-clause-WHERE-column-equal-result-inner-subquery"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb) ,
+                    ["subquery-replaced-result-subquery"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb) ,
+                    ["outermost-query-columns-clause-WHERE-column-operator-IN-result-previous-subquery"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb) ] } &#x1F3C1;
 
 		- [{\_C_RUD-create-command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-intentionally-blank.ipynb)
 		&#x26AA;
 
-			- [{INSERT-INTO}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb)
-			&#x1F4CC;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb)
+            - { [&#x00A9; "**INSERT-INTO**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb) : &#x1F4CC;<br /> [
+            ["add-information-databases"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb) ,
+            ["command-DESCRIBE-schema-Field-columns-schema-Type-data-type"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb) ,
+            ["command-INSERT-INTO-table-keyword-VALUES-list-values-be-inserted"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb) ,
+            ["order-values-inserted-same-order-columns-returned-command-DESCRIBE"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb) ,
+            ["schema-Key-primary-key-uniquely-identifies-row-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb) ,
+            ["schema-NULL-must-unqiue-not-null"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb) ,
+            ["schema-Extra-auto_increment-not-need-specify-value-mysql-uniqueness"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb) ,
+            ["table-five-columns-command-INSERT-INTO-specifying-four-columns-mysql-not-know-where-insert"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb) ,
+            ["must-specify-columns-values-relate-to"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb) ,
+            ["no-value-specified-column-primary-key-auto_increment"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb) ,
+            ["schema-Default-no-values-specified-during-insert-column-defaults-to-value"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb) ,
+            ["adding-row-not-provide-all-data-want-add-update-later"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb) ] } &#x1F3C1;
 
 		- [{CR_U_D-update-command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-intentionally-blank.ipynb)
 		&#x26AA;
 
-			- [{UPDATE-SET}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb)
-			&#x1F4CC;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb)
+            - { [&#x00A9; "**UPDATE-SET**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb) : &#x1F4CC;<br /> [
+            ["update-existing-rows-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb) ,
+            ["inserting-row-not-all-data-command-UPDATE-table-keyword-SET-column-value-updated"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb) ,
+            ["important-apply-constraint-otherwise-all-rows-table-updated"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb) ,
+            ["existing-values-column-increase-age-given-no-constraint-clause-WHERE-apply-each-row-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb) ,
+            ["function-IF-three-expressions-first-test-True-False-second-value-return-first-True-third-value-return-first-False"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb) ,
+            ["function-CONCAT-joins-two-strings-two-parameters-first-result-IF-second-original-column"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb) ] } &#x1F3C1;
 
 		- [{CRU_D_-delete-command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-intentionally-blank.ipynb)
 		&#x26AA;
 
-			- [{DELETE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE.ipynb)
-			&#x1F4CC;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE.ipynb)
+            - { [&#x00A9; "**DELETE**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE.ipynb) : &#x1F4CC;<br /> [
+            ["remove-existing-rows-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE.ipynb) ,
+            ["remove-important-apply-constraint-otherwise-all-rows-table-deleted"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE.ipynb) ] } &#x1F3C1;
 
-				- [{foreign-key}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key.ipynb)
-				&#x1F530;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key.ipynb)
+                - { ["**foreign-key**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-intentionally-blank.ipynb) :
+                &#x26AA; }
 
-					- [{ON-DELETE-RESTRICT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-RESTRICT.ipynb)
-					&#x1F530;
-					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-RESTRICT.ipynb)
+                    - { [&#x00A9; "**ON-DELETE-RESTRICT**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-RESTRICT.ipynb) : &#x1F4CC;<br /> [
+                    ["referential-integrity-ensures-database-consistent"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-RESTRICT.ipynb) ,
+                    ["values-inserted-column-foreign-key-must-exist-column-table-referenced"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-RESTRICT.ipynb) ,
+                    ["referential-integrity-compromised-row-referencing-row-table-not-exist"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-RESTRICT.ipynb) ,
+                    ["mysql-definition-foreign-key-statement-nothing-mentioned-not-delete-row-table-referenced"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-RESTRICT.ipynb) ,
+                    ["explicitly-enforce-default-behaviour-creating-table-ON-DELETE-RESTRICT"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-RESTRICT.ipynb)
+                    ["deletion-referenced-foreign-key-not-allowed"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-RESTRICT.ipynb) ] } &#x1F3C1;
 
-					- [{ON-DELETE-CASCADE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-CASCADE.ipynb)
-					&#x1F530;
-					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-CASCADE.ipynb)
+                    - { [&#x00A9; "**ON-DELETE-CASCADE**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-CASCADE.ipynb) : &#x1F4CC;<br /> [
+                    ["enforce-behaviour-ON-DELETE-CASCADE-deleting-row-referenced-foreign-key"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-CASCADE.ipynb) ,
+                    ["flow-over-table-row-deleted-to-table-referencing-foreign-key-associated-row-deleted"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-CASCADE.ipynb) ,
+                    ["behaviour-ON-DELETE-CASCADE-enforced-row-referenced-table-also-deleted"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-CASCADE.ipynb) ,
+                    ["mysql-not-indicate-row-referenced-table-deleted"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-CASCADE.ipynb) ] } &#x1F3C1;
 
-					- [{ON-DELETE-SET-NULL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-SET-NULL.ipynb)
-					&#x1F530;
-					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-SET-NULL.ipynb)
+                    - { [&#x00A9; "**ON-DELETE-SET-NULL**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-SET-NULL.ipynb) : &#x1F4CC;<br /> [
+                    ["enforce-behaviour-ON-DELETE-SET-NULL-deleting-row-referenced-foreign-key"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-SET-NULL.ipynb) ,
+                    ["flow-over-table-row-deleted-to-table-referencing-foreign-key-associated-row-set-NULL"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-SET-NULL.ipynb) ,
+                    ["behaviour-ON-DELETE-SET-NULL-enforced-row-referenced-table-set-NULL"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-SET-NULL.ipynb) ,
+                    ["mysql-not-indicate-row-referenced-table-set-NULL"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-SET-NULL.ipynb) ] } &#x1F3C1;
 
-	- [{primary-key}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-primary-key.ipynb)
-	&#x1F4CC;
-	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-primary-key.ipynb)
+    - { [&#x00A9; "**primary-key**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-primary-key.ipynb) : &#x1F4CC;<br /> [
+    ["distinguish-rows-possible-one-more-share-all-characteristics"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-primary-key.ipynb) ,
+    ["uniquely-identifying-rows-characteristics"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-primary-key.ipynb) ,
+    ["column-serve-primary-key-must-contain-unique-values-cannot-NULL"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-primary-key.ipynb) ,
+    ["table-only-one-primary-key"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-primary-key.ipynb) ,
+    ["storing-information-employees-id-primary-key-every-employee-company-unique-id"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-primary-key.ipynb) ,
+    ["schema-Extra-auto_increment-column-value-one-number-higher-previous-highest"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-primary-key.ipynb) ] } &#x1F3C1;
 
-	- [{function}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb)
-	&#x1F4CC;
-	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb)
+    - { ["**function**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) : &#x1F4CC;<br /> [
+    ["mysql-do-more-data-than-just-store-retrieve-can-manipulate-before-storing-retrieving"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) ,
+    ["function-piece-code-performs-some-operation-returns-result"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) ,
+    ["company-storing-information-database"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) ,
+    ["software-company-develop-website-staff-access-information-any-web-browser"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) ,
+    ["give-specification-software-company-how-data-presented-levels-security"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) ,
+    ["software-company-implements-programming-language-website-interact-underlying-database"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) ,
+    ["company-decides-staff-should-access-database-mobile-devices"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) ,
+    ["hire-different-software-company-specialises-mobile-development-specification-given"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) ,
+    ["software-company-implements-programming-language-mobile-app-interact-underlying-database"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) ,
+    ["same-business-logic-implemented-two-locations-inconsistencies-possible"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) ,
+    ["placing-some-business-logic-directly-database-form-functions"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) ,
+    ["information-easily-accessed-both-applications-opposed-rewritten-each"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) ,
+    ["may-not-want-business-logic-stored-database"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) ,
+    ["developing-web-interface-database-usa-europe-different-logic-each-region"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) ,
+    ["best-not-business-logic-directly-applied-database-instead-business-logic-layer-each-location"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) ,
+    ["no-one-size-fits-all-rules-stored"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) ] } &#x1F3C1;
 
-		- [{built-in}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in.ipynb)
-		&#x1F4CC;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in.ipynb)
+        - { ["**built-in**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in.ipynb) : &#x1F4CC;
+        ["mysql-built-in-functions-different-types-manipulations-categorised"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in.ipynb) } &#x1F3C1;
 
 			- [{string}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-intentionally-blank.ipynb)
 			&#x26AA;
 
-				- [{UPPER}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-UPPER.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-UPPER.ipynb)
+                - { [&#x00A9; "**UPPER**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-UPPER.ipynb) : &#x1F4CC;
+                ["returns-uppercase-version-string"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-UPPER.ipynb) } &#x1F3C1;
 
-				- [{STRCMP}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb)
+                - { [&#x00A9; "**STRCMP**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb) : &#x1F4CC;<br /> [
+                ["compares-two-strings-returns-zero-string-1-string-2"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb) ,
+                ["returns-minus-1-string-1-less-string-2"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb) ,
+                ["returns-positive-1-string-1-greater-string-2"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb) ,
+                ["character-value-stored-ASCII"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb) ,
+                ["ASCII-table-starts-uppercase"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb) ] } &#x1F3C1;
 
-				- [{ASCII}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-ASCII.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-ASCII.ipynb)
+                - { [&#x00A9; "**ASCII**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-ASCII.ipynb) : &#x1F4CC; ["returns-ASCII-value-first-character-string"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-ASCII.ipynb) } &#x1F3C1;
 
-				- [{REPLACE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-REPLACE.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-REPLACE.ipynb)
+                - { [&#x00A9; "**REPLACE**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-REPLACE.ipynb) : &#x1F4CC;<br /> [
+                ["replaces-occurrences-substring-within-string-result-new-substring"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-REPLACE.ipynb) ,
+                ["pararmeters-original-string-substring-replaced-new-replacement-string"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-REPLACE.ipynb) ,
+                ["table-not-updated-just-returns-new-string-original-string-unaffected"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-REPLACE.ipynb) ] } &#x1F3C1;
 
 				- [{SUBSTR}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-SUBSTR.ipynb)
 				&#x1F530;
