@@ -193,7 +193,7 @@
             ["convention-zero-included-series-index-one"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary-fibonacci.ipynb) ,
             ["numbers-one-two-not-conform-rule-serve-base-cases-recursive-implementation"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary-fibonacci.ipynb) ] } &#x1F3C1;
 
-                - { [&#x00A9; "**iterative**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary-fibonacci-iterative.ipynb) : &#x00A9;
+                - { [&#x00A9; "**iterative**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary-fibonacci-iterative.ipynb) :
                 [&#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary-fibonacci-iterative.ipynb) } &#x1F3C1;
 
                 - { [&#x00A9; "**recursion**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/recursion-iteration-types-binary-fibonacci-recursive.ipynb) : &#x1F4CC;<br /> [
@@ -865,7 +865,7 @@
         ["delete-GDPR-require-data-removed"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-CRUD.ipynb) ,
         ["create-read-update-deleting-CRUD-core-functions"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-CRUD.ipynb) ] } &#x1F3C1;
 
-        - { ["**storage**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-storage.ipynb) : &#x1F4CC;
+        - { ["**storage**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-storage.ipynb) : &#x1F4CC;<br />
         ["tables-physically-stored-retrieved-from-disk"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-storage.ipynb) } &#x1F3C1;
 
         - { ["**security**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-security.ipynb) : &#x1F4CC;<br /> [
@@ -900,7 +900,7 @@
             ["spreadsheet-some-data-stored-multiple-times"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-redundancy.ipynb) ,
             ["good-schema-design-avoid-redundant-data-references-rather-duplicating"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-redundancy.ipynb) ] } &#x1F3C1;
 
-            - { ["**standards**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-standards.ipynb) : &#x1F4CC;
+            - { ["**standards**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-standards.ipynb) : &#x1F4CC;<br />
             ["data-stored-centrally-DBMS-enforce-standards-naming-conventions-formats"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-advantages-standards.ipynb) } &#x1F3C1;
 
         - { ["**disadvantages**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-intentionally-blank.ipynb) :
@@ -912,16 +912,16 @@
             ["data-integrity-ensure-relationships-tables-valid"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-complexity.ipynb) ,
             ["complicated-than-spreadsheet-advantages-decide-trade-off-learning-worth-benefits"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-complexity.ipynb) ] } &#x1F3C1;
 
-                - { ["**size**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-complexity-size.ipynb) : &#x1F4CC;
+                - { ["**size**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-complexity-size.ipynb) : &#x1F4CC;<br />
                 ["complexity-dbms-large-piece-software-memory-disk-space"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-complexity-size.ipynb) } &#x1F3C1;
 
-            - { ["**performance**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-performance.ipynb) : &#x1F4CC;
+            - { ["**performance**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-performance.ipynb) : &#x1F4CC;<br />
             ["application-written-own-payroll-system-likely-faster-general-purpose-dbms"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-performance.ipynb) } &#x1F3C1;
 
-            - { ["**failure**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-failure.ipynb) : &#x1F4CC;
+            - { ["**failure**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-failure.ipynb) : &#x1F4CC;<br />
             ["backup-recovery-security-enabled-centralised-nature-centralisation-data-disadvantage-downtime-costly-time-money"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-failure.ipynb) } &#x1F3C1;
 
-- { ["**types**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types.ipynb) : &#x1F4CC;
+- { ["**types**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types.ipynb) : &#x1F4CC;<br />
 ["main-categories-relational-non-relational"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types.ipynb) } &#x1F3C1;
 
 - { ["**normalisation**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) : &#x1F4CC;<br /> [
@@ -964,7 +964,7 @@
         ["reference-between-tables-creatingt-table-define-link-foreign-key"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) ,
         ["clause-foreign-key-relation-between-column-table-to-another-column-another-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) ] } &#x1F3C1;
 
-            - { ["**referential-integrity**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) : &#x1F4CC;
+            - { ["**referential-integrity**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) : &#x1F4CC;<br />
             ["referential-integrity-ensures-database-consistent"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) } &#x1F3C1;
 
 </details>
@@ -982,10 +982,10 @@
 ["unique-name-may-relate-one-more-other-tables-through-common-values"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table.ipynb) ,
 ["table-collection-columns-with-rows"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table.ipynb) ] } &#x1F3C1;
 
-    - { ["**column**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-column.ipynb) : &#x1F4CC;
+    - { ["**column**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-column.ipynb) : &#x1F4CC;<br />
     ["column-data-representing-specific-characteristic-rows-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-column.ipynb) } &#x1F3C1;
 
-    - { ["**row**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-row.ipynb) : &#x1F4CC;
+    - { ["**row**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-row.ipynb) : &#x1F4CC;<br />
     ["row-data-pertaining-single-item-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-table-row.ipynb) } &#x1F3C1;
 
 - { ["**spreadsheets**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb) : &#x1F4CC;<br /> [
@@ -1036,7 +1036,7 @@
                 - { [&#x00A9; "**create-database**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-DATABASE.ipynb) :
                 ["&#x00A9;"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-DATABASE.ipynb) } &#x1F3C1;
 
-                - { [&#x00A9; "**show-databases**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-DATABASES.ipynb) : &#x1F4CC;
+                - { [&#x00A9; "**show-databases**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-DATABASES.ipynb) : &#x1F4CC;<br />
                 ["mysql-manages-many-databases-not-single-one-see-mysql-currently-managing"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-DATABASES.ipynb) } &#x1F3C1;
 
                 - { [&#x00A9; "**use**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-USE.ipynb) : &#x1F4CC;<br />
@@ -1249,13 +1249,13 @@
     ["best-not-business-logic-directly-applied-database-instead-business-logic-layer-each-location"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) ,
     ["no-one-size-fits-all-rules-stored"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) ] } &#x1F3C1;
 
-        - { ["**built-in**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in.ipynb) : &#x1F4CC;
+        - { ["**built-in**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in.ipynb) : &#x1F4CC;<br />
         ["mysql-built-in-functions-different-types-manipulations-categorised"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in.ipynb) } &#x1F3C1;
 
 			- [{string}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-intentionally-blank.ipynb)
 			&#x26AA;
 
-                - { [&#x00A9; "**UPPER**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-UPPER.ipynb) : &#x1F4CC;
+                - { [&#x00A9; "**UPPER**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-UPPER.ipynb) : &#x1F4CC;<br />
                 ["returns-uppercase-version-string"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-UPPER.ipynb) } &#x1F3C1;
 
                 - { [&#x00A9; "**STRCMP**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb) : &#x1F4CC;<br /> [
@@ -1265,131 +1265,157 @@
                 ["character-value-stored-ASCII"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb) ,
                 ["ASCII-table-starts-uppercase"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb) ] } &#x1F3C1;
 
-                - { [&#x00A9; "**ASCII**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-ASCII.ipynb) : &#x1F4CC; ["returns-ASCII-value-first-character-string"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-ASCII.ipynb) } &#x1F3C1;
+                - { [&#x00A9; "**ASCII**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-ASCII.ipynb) : &#x1F4CC;<br /> ["returns-ASCII-value-first-character-string"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-ASCII.ipynb) } &#x1F3C1;
 
                 - { [&#x00A9; "**REPLACE**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-REPLACE.ipynb) : &#x1F4CC;<br /> [
                 ["replaces-occurrences-substring-within-string-result-new-substring"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-REPLACE.ipynb) ,
                 ["pararmeters-original-string-substring-replaced-new-replacement-string"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-REPLACE.ipynb) ,
                 ["table-not-updated-just-returns-new-string-original-string-unaffected"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-REPLACE.ipynb) ] } &#x1F3C1;
 
-				- [{SUBSTR}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-SUBSTR.ipynb)
-				&#x1F530;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-SUBSTR.ipynb)
+                - { [&#x00A9; "**SUBSTR**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-SUBSTR.ipynb) : &#x1F4CC;<br /> [
+                ["extract-substring-from-string"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-SUBSTR.ipynb) ,
+                ["pararmeters-string-extract-from-start-position-length-characters-extracted"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-SUBSTR.ipynb) ] } &#x1F3C1;
 
-				- [{CONCAT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-CONCAT.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-CONCAT.ipynb)
+                - { [&#x00A9; "**CONCAT**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-CONCAT.ipynb) : &#x1F4CC;<br /> [
+                ["joins-two-strings-together"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-CONCAT.ipynb) ,
+                ["update-table-include-each-row-column"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-CONCAT.ipynb) ,
+                ["function-IF-three-expressions-first-test-True-False-second-value-return-first-True-third-value-return-first-False"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-CONCAT.ipynb) ,
+                ["function-CONCAT-joins-two-strings-parameters-first-result-function-IF-second-original-column"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-CONCAT.ipynb) ] } &#x1F3C1;
 
 			- [{numeric}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-intentionally-blank.ipynb)
 			&#x26AA;
 
-				- [{SQRT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-SQRT.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-SQRT.ipynb)
+                - { [&#x00A9; "**SQRT**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-SQRT.ipynb) : &#x1F4CC;<br />
+                ["returns-square-root-number"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-SQRT.ipynb) } &#x1F3C1;
 
-				- [{ROUND}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-ROUND.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-ROUND.ipynb)
+                - { [&#x00A9; "**ROUND**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-ROUND.ipynb) : &#x1F4CC;<br /> [
+                ["rounds-number"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-ROUND.ipynb) ,
+                ["specified-parameter-number-specified-number-decimal-places"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-ROUND.ipynb) ,
+                ["no-decimal-places-specified-default-nearest-integer"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-ROUND.ipynb) ] } &#x1F3C1;
 
 			- [{date}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-intentionally-blank.ipynb)
 			&#x26AA;
 
-				- [{DATEDIFF}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATEDIFF.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATEDIFF.ipynb)
+                - { [&#x00A9; "**DATEDIFF**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATEDIFF.ipynb) : &#x1F4CC;<br />
+                ["returns-number-days-between-two-dates"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATEDIFF.ipynb) } &#x1F3C1;
 
-				- [{DATE_FORMAT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATE_FORMAT.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATE_FORMAT.ipynb)
+                - { [&#x00A9; "**DATE_FORMAT**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATE_FORMAT.ipynb) : &#x1F4CC;<br /> [
+                ["formats-date"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATE_FORMAT.ipynb) ,
+                ["countries-different-ways-showing-dates-default-mysql-yyyy-mm-dd"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATE_FORMAT.ipynb) ,
+                ["alias-remove-DATE_FORMAT-printed"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATE_FORMAT.ipynb) ] } &#x1F3C1;
 
-			- [{aggregate}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate.ipynb)
-			&#x1F4CC;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate.ipynb)
+            - { [&#x00A9; "**aggregate**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate.ipynb) : &#x1F4CC;<br /> [
+            ["information-not-stored-database-tables-may-need-perform-calculations-data"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate.ipynb) ,
+            ["aggregate-functions-perform-calculations-set-values-returns-single-value"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate.ipynb) ] } &#x1F3C1;
 
-				- [{AVG}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-AVG.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-AVG.ipynb)
+                - { [&#x00A9; "**AVG**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-AVG.ipynb) : &#x1F4CC;<br />
+                ["aggregate-function-AVG-perform-calculation-set-column-values"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-AVG.ipynb) } &#x1F3C1;
 
-				- [{COUNT}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-COUNT.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-COUNT.ipynb)
+                - { [&#x00A9; "**COUNT**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-COUNT.ipynb) : &#x1F4CC;<br />
+                ["aggregate-function-COUNT-counts-number-rows-resulting-query"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-COUNT.ipynb) } &#x1F3C1;
 
-				- [{GROUP-BY}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-GROUP-BY.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-GROUP-BY.ipynb)
+            - { ["**clause**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-intentionally-blank.ipynb) :
+            &#x26AA; }
 
-					- [{HAVING}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-GROUP-BY-HAVING.ipynb)
-					&#x1F4CC;
-					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-GROUP-BY-HAVING.ipynb)
+                - { [&#x00A9; "**GROUP-BY**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-GROUP-BY.ipynb) : &#x1F4CC;<br />
+                ["often-used-with-aggregate-functions-COUNT-MAX-MIN-SUM-AVG-group-result-set-one-more-columns"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-GROUP-BY.ipynb) } &#x1F3C1;
+
+                    - { [&#x00A9; "**HAVING**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-GROUP-BY-HAVING.ipynb) : &#x1F4CC;<br /> [
+                    ["clause-HAVING-often-used-with-clause-GROUP-BY-filter-groups-specified-condition"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-GROUP-BY-HAVING.ipynb) ,
+                    ["clause-GROUP-BY-omitted-clause-HAVING-behaves-clause-WHERE"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-GROUP-BY-HAVING.ipynb) ,
+                    ["clause-HAVING-applies-filter-condition-each-group-rows"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-GROUP-BY-HAVING.ipynb) ,
+                    ["clause-WHERE-applies-filter-condition-each-individual-row"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-GROUP-BY-HAVING.ipynb) ,
+                    ["clause-WHERE-apply-filter-columnn-clause-GROUP-BY-column"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-GROUP-BY-HAVING.ipynb) ,
+                    ["applying-extra-condition-interested-grouping-column"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-GROUP-BY-HAVING.ipynb) ,
+                    ["clause-HAVING-filter-condition-each-group-rows-defined-by-clause-GROUP-BY"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-GROUP-BY-HAVING.ipynb) ] } &#x1F3C1;
 
 			- [{information}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-intentionally-blank.ipynb)
 			&#x26AA;
 
-				- [{DATABASE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-DATABASE.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-DATABASE.ipynb)
+                - { [&#x00A9; "**DATABASE**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-DATABASE.ipynb) : &#x1F4CC;<br />
+                ["mysql-information-function-DATABASE-returns-name-current-database"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-DATABASE.ipynb) } &#x1F3C1;
 
-				- [{USER}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-USER.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-USER.ipynb)
+                - { [&#x00A9; "**USER**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-USER.ipynb) : &#x1F4CC;<br />
+                ["mysql-information-function-USER-returns-name-current-user"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-USER.ipynb) } &#x1F3C1;
 
-			- [{control-flow}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow.ipynb)
-			&#x1F4CC;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow.ipynb)
+            - { ["**control-flow**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow.ipynb) : &#x1F4CC;<br />
+            ["mysql-control-flow-functions-logic-to-queries-without-using-procedural-code"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow.ipynb) } &#x1F3C1;
 
-				- [{conditional}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-conditional.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-conditional.ipynb)
+                - { [&#x00A9; "**conditional**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-conditional.ipynb) : &#x1F4CC;<br />
+                ["function-IF-tests-condition-condition-True-value_if_true-returned-condition-False-value_if_false-returned"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-conditional.ipynb) } &#x1F3C1;
 
-				- [{CASE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-CASE.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-CASE.ipynb)
+                - { [&#x00A9; "**CASE**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-CASE.ipynb) : &#x1F4CC;<br /> [
+                ["function-IF-useful-checking-veracity-statement-return-one-value-true-another-value-false"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-CASE.ipynb) ,
+                ["check-number-conditions-function-CASE-WHEN"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-CASE.ipynb) ,
+                ["clause-ELSE"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-CASE.ipynb) ] } &#x1F3C1;
 
-		- [{stored-routine}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb)
-		&#x1F4CC;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb)
+        - { [&#x00A9; "**stored-routine**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb) : &#x1F4CC;<br /> [
+        ["stored-routine-user-written-code-extends-functionality-mysql"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb) ,
+        ["make-business-rules-consistent-website-mobile-app-accessing-same-database"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb) ,
+        ["business-logic-either-written-separately-website-again-mobile-app-or-written-once-database-stored-routines"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb) ,
+        ["minimising-duplication-effort-multiple-client-applicatins-written-different-languages-work-different-platforms-need-same-database-operations"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb) ,
+        ["ensure-security-instead-applications-directly-accessing-tables-force-access-tables-through-stored-routines"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb) ,
+        ["advantages-besides-reduction-duplication-security-given-stored-procedures-compiled-stored-faster-than-queries"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb) ,
+        ["speed-instead-sending-multiple-lengthy-statements-send-only-name-parameters-stored-routine"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb) ,
+        ["disadvantages-complexity-not-designed-complex-business-logic-programming-language-java"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb) ,
+        ["use-holding-business-logic-limited-difficult-debug-few-dbms-allow-debugging-stored-procedures-mysql-not-one"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb) ,
+        ["performance-can-increase-performance-application-accessing-database-moving-too-much-business-logic-impact-performance"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb) ,
+        ["stored-routines-used-store-some-business-logic-common-tasks-consideration-database-size-frequency-user-access-amount-data-requested-per-query-security-considerations"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb) ,
+        ["stored-function-special-kind-stored-routine-returns-single-value"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb) ,
+        ["encapsulate-common-formulas-business-rules-reusable-among-sql-statements-stored-routines"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb) ,
+        ["take-zero-more-input-parameters-return-single-value"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb) ] } &#x1F3C1;
 
-			- [{CREATE-FUNCTION}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb)
-			&#x1F4CC;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb)
+            - { [&#x00A9; "**CREATE-FUNCTION**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb) : &#x1F4CC;<br /> [
+            ["mysql-statements-run-over-many-lines-semi-colon-terminate-statement"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb) ,
+            ["run-function-include-semi-colon-change-delimiter"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb) ,
+            ["mysql-encounters-delimiter-executes-runs-statement"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb) ,
+            ["always-RETURNS-value-specify-data-type"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb) ,
+            ["specify-characteristics-deterministic-non-deterministic"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb) ,
+            ["non-deterministic-modifies-data-statements-UPDATE-DELETE-INSERT"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb) ,
+            ["code-written-statements-BEGIN-END"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb) ,
+            ["RETURN-result"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb) ,
+            ["change-delimiter-default-semi-colon"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb) ,
+            ["stored-function-Discount"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb) ,
+            ["DROP-FUNCTION"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb) ,
+            ["SHOW-FUNCTION-STATUS"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb) ] } &#x1F3C1;
 
-			- [{information_schema}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-information_schema.ipynb)
-			&#x1F4CC;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-information_schema.ipynb)
+            - { [&#x00A9; "**information_schema**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-information_schema.ipynb) : &#x1F4CC;<br />
+            ["functions-procedures-found-table-routines-database-information_schema"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-information_schema.ipynb) } &#x1F3C1;
 
 			- [{command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-intentionally-blank.ipynb)
 			&#x26AA;
 
-				- [{SHOW-CREATE-FUNCTION}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-SHOW-CREATE-FUNCTION.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-SHOW-CREATE-FUNCTION.ipynb)
+                - { [&#x00A9; "**SHOW-CREATE-FUNCTION**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-SHOW-CREATE-FUNCTION.ipynb) : &#x1F4CC;<br />
+                ["review-code-function-procedure-SHOW-CREATE-FUNCTION-SHOW-CREATE-PROCEDURE"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-SHOW-CREATE-FUNCTION.ipynb) } &#x1F3C1;
 
-				- [{DROP}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-DROP.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-DROP.ipynb)
+                - { [&#x00A9; "**DROP**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-DROP.ipynb) : &#x1F4CC;<br /> [
+                ["delete-function-procedure-DROP"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-DROP.ipynb), 
+                ["make-changes-function-procedure-DROP-create-again"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-DROP.ipynb) ] } &#x1F3C1;
 
-			- [{procedures}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures.ipynb)
-			&#x1F4CC;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures.ipynb)
+            - { ["**stored-procedure**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedure.ipynb) : &#x1F4CC;<br /> [
+            ["another-type-stored-routine-stored-procedure"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedure.ipynb) ,
+            ["both-allow-reuse-code-both-implement-business-logic"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedure.ipynb) ,
+            ["something-business-logic-changed-update-code-one-place"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedure.ipynb) ,
+            ["differences-do-exist"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedure.ipynb) ] } &#x1F3C1;
 
-				- [{CREATE-PROCEDURE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-CREATE-PROCEDURE.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-CREATE-PROCEDURE.ipynb)
+                - { [&#x00A9; "**CREATE-PROCEDURE**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-CREATE-PROCEDURE.ipynb) : &#x1F4CC;<br /> [
+                ["functions-procedures-store-logic-repeatedly-used-avoids-repetition-inconsistencies"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-CREATE-PROCEDURE.ipynb) ,
+                ["procedure-created-similar-function-except-keyword-PROCEDURE"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-CREATE-PROCEDURE.ipynb) ,
+                ["call-procedure-keyword-CALL-instead-writing-potentially-complex-query-call-procedure"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-CREATE-PROCEDURE.ipynb) ,
+                ["well-designed-procedure-improve-use-obtain-all"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-CREATE-PROCEDURE.ipynb) ] } &#x1F3C1;
 
-				- [{information_schema}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-information_schema.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-information_schema.ipynb)
+                - { [&#x00A9; "**information_schema**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-information_schema.ipynb) : &#x1F4CC;<br />
+                ["procedures-functions-found-table-routines-database-information_schema"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-information_schema.ipynb) } &#x1F3C1;
 
 				- [{command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-intentionally-blank.ipynb)
 				&#x26AA;
 
-					- [{SHOW-CREATE-PROCEDURE}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-SHOW-CREATE-PROCEDURE.ipynb)
-					&#x1F4CC;
-					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-SHOW-CREATE-PROCEDURE.ipynb)
+                    - { [&#x00A9; "**SHOW-CREATE-PROCEDURE**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-SHOW-CREATE-PROCEDURE.ipynb) : &#x1F4CC;<br />
+                    ["review-code-procedure-function-SHOW-CREATE-PROCEDURE-SHOW-CREATE-FUNCTION"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-SHOW-CREATE-PROCEDURE.ipynb) } &#x1F3C1;
 
-					- [{DROP}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-DROP.ipynb)
-					&#x1F4CC;
-					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-DROP.ipynb)
+                    - { [&#x00A9; "**DROP**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-DROP.ipynb) : &#x1F4CC;<br /> [
+                    ["delete-function-procedure-DROP"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-DROP.ipynb) ,
+                    ["make-changes-function-procedure-DROP-create-again"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-DROP.ipynb) ] } &#x1F3C1;
 
 </details>
 
