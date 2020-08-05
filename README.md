@@ -809,7 +809,7 @@
 ["passive-digital-footprint-ip-address-computer-identified-logged-server"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb) ,
 ["amount-data-generated-exponentially-stored-databases"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data.ipynb) ] } &#x1F3C1;
 
-<details close>
+<details>
     <summary>data</summary>
 
 - { ["**database**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database.ipynb) : &#x1F4CC;<br /> [
@@ -921,55 +921,55 @@
             - { ["**failure**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-failure.ipynb) : &#x1F4CC;<br />
             ["backup-recovery-security-enabled-centralised-nature-centralisation-data-disadvantage-downtime-costly-time-money"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-DBMS-functions-disadvantages-failure.ipynb) } &#x1F3C1;
 
+    - { ["**normalisation**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) : &#x1F4CC;<br /> [
+    ["organising-columns-tables-relational-database-minimise-data-redundancy"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
+    ["breaking-table-smaller-related-data-easier-update-less-prone-anomalies"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
+    ["normalisation-large-table-large-number-columns"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
+    ["table-broken-down"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
+    ["reason-interlinked-tables-less-columns-definition-database"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
+    ["process-done-defining-schema"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
+    ["stages-normal-forms-rules"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ] } &#x1F3C1;
+
+        - { ["**anomaly**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-intentionally-blank.ipynb) :
+        &#x26AA; }
+
+            - { ["**update**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb) : &#x1F4CC;<br /> [
+            ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb) ,
+            ["real-world-table-thousands-rows-update-time"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb) ,
+            ["design-rows-overlooked-reviewing-incorrect-update-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb) ] } &#x1F3C1;
+
+            - { ["**insertion**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb) : &#x1F4CC;<br /> [
+            ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb) ,
+            ["columns-values-NULL-primary-key"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb) ,
+            ["design-not-allow-new-added-insertion-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb) ] } &#x1F3C1;
+
+            - { ["**deletion**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb) : &#x1F4CC;<br /> [
+            ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb) ,
+            ["data-protection-remove-all-relating-lose-information"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb) ,
+            ["design-deleting-all-related-references-deletion-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb) ] } &#x1F3C1;
+
+        - { ["**process**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) : &#x1F4CC;<br /> [
+        ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
+        ["normalised-version-table-Hospital-splitting-link-both"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
+        ["reference-rather-than-duplicating"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
+        ["check-update-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
+        ["check-insertion-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
+        ["check-deletion-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ] } &#x1F3C1;
+
+            - { ["**foreign-key**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) : &#x1F4CC;<br /> [
+            ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) ,
+            ["reference-between-tables-creating-table-define-link-foreign-key"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) ,
+            ["clause-foreign-key-relation-between-column-table-to-another-column-another-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) ] } &#x1F3C1;
+
+                - { ["**referential-integrity**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) : &#x1F4CC;<br />
+                ["referential-integrity-ensures-database-consistent"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) } &#x1F3C1;
+
 - { ["**types**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types.ipynb) : &#x1F4CC;<br />
 ["main-categories-relational-non-relational"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types.ipynb) } &#x1F3C1;
 
-- { ["**normalisation**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) : &#x1F4CC;<br /> [
-["organising-columns-tables-relational-database-minimise-data-redundancy"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
-["breaking-table-smaller-related-data-easier-update-less-prone-anomalies"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
-["normalisation-large-table-large-number-columns"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
-["table-broken-down"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
-["reason-interlinked-tables-less-columns-definition-database"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
-["process-done-defining-schema"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ,
-["stages-normal-forms-rules"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation.ipynb) ] } &#x1F3C1;
-
-    - { ["**anomaly**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-intentionally-blank.ipynb) :
-    &#x26AA; }
-
-        - { ["**update**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb) : &#x1F4CC;<br /> [
-        ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb) ,
-        ["real-world-table-thousands-rows-update-time"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb) ,
-        ["design-rows-overlooked-reviewing-incorrect-update-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-update.ipynb) ] } &#x1F3C1;
-
-        - { ["**insertion**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb) : &#x1F4CC;<br /> [
-        ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb) ,
-        ["columns-values-NULL-primary-key"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb) ,
-        ["design-not-allow-new-added-insertion-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-insertion.ipynb) ] } &#x1F3C1;
-
-        - { ["**deletion**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb) : &#x1F4CC;<br /> [
-        ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb) ,
-        ["data-protection-remove-all-relating-lose-information"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb) ,
-        ["design-deleting-all-related-references-deletion-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-anomaly-deletion.ipynb) ] } &#x1F3C1;
-
-    - { ["**process**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) : &#x1F4CC;<br /> [
-    ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
-    ["normalised-version-table-Hospital-splitting-link-both"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
-    ["reference-rather-than-duplicating"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
-    ["check-update-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
-    ["check-insertion-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ,
-    ["check-deletion-anomaly"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process.ipynb) ] } &#x1F3C1;
-
-        - { ["**foreign-key**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) : &#x1F4CC;<br /> [
-        ["table-Hospital"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) ,
-        ["reference-between-tables-creatingt-table-define-link-foreign-key"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) ,
-        ["clause-foreign-key-relation-between-column-table-to-another-column-another-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key.ipynb) ] } &#x1F3C1;
-
-            - { ["**referential-integrity**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) : &#x1F4CC;<br />
-            ["referential-integrity-ensures-database-consistent"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-normalisation-process-foreign-key-referential-integrity.ipynb) } &#x1F3C1;
-
 </details>
 
-<details open>
+<details>
     <summary>relational</summary>
 
 > { ["**relational**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational.ipynb) : &#x1F4CC;<br /> [
@@ -1093,7 +1093,6 @@
                 - { [&#x00A9; "**WHERE**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb) : &#x1F4CC;<br /> [
                 ["SELECT-column-table-limits-columns-returned-but-always-returns-all-rows-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb) ,
                 ["specify-certain-columns-given-tables-stores-enormous-amounts-data-interested-subset-rows-table-satisfying-conditions"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb) ,
-                ["returns-rows-column-clause-WHERE-column-condition"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb) ,
                 ["returns-rows-column-clause-WHERE-column-condition"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb) ] } &#x1F3C1;
 
                     - { [&#x00A9; "**operator**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator.ipynb) : &#x1F4CC;<br /> [
@@ -1259,7 +1258,7 @@
                 ["returns-uppercase-version-string"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-UPPER.ipynb) } &#x1F3C1;
 
                 - { [&#x00A9; "**STRCMP**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb) : &#x1F4CC;<br /> [
-                ["compares-two-strings-returns-zero-string-1-string-2"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb) ,
+                ["compares-two-strings-returns-zero-string-1-equals-string-2"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb) ,
                 ["returns-minus-1-string-1-less-string-2"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb) ,
                 ["returns-positive-1-string-1-greater-string-2"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb) ,
                 ["character-value-stored-ASCII"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb) ,
@@ -1419,7 +1418,7 @@
 
 </details>
 
-<details close>
+<details open>
     <summary>non-relational</summary>
 
 > [{non-relational}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational.ipynb)
