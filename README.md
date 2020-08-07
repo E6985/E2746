@@ -623,13 +623,29 @@
                 ["stable-preserve-relative-ordering-already-sorted-same-value-comparator-function"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge.ipynb) ,
                 ["versions-merge-good-sorting-data-slow-access-times-external-sorting-data-too-large-hold-ram-sort-disk-good-for-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge.ipynb) ] } &#x1F3C1;
 
-                    - [{procedure}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-procedure.ipynb)
-                    &#x1F530;
-                    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-procedure.ipynb)
+                    - { ["**procedure**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-procedure.ipynb) : &#x1F4CC;<br /> [ 
+                    ["larger-problem-divide-two-each-time"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-procedure.ipynb) ,
+                    ["get-case-size-input-array-zero-or-one"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-procedure.ipynb) ,
+                    ["returned-base-case-recursion-input-size-zero-or-one-assume-array-not-need-any-sorting-applied"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-procedure.ipynb) ,
+                    ["call-merge-sort-procedure-size-input-zero-or-one-return-caller"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-procedure.ipynb) ,
+                    ["otherwise-separate-input-array-two-lists-equal-nearly-equal-size"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-procedure.ipynb) ,
+                    ["recursively-apply-merge-first-half"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-procedure.ipynb) ,
+                    ["recursively-apply-merge-second-half"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-procedure.ipynb) ,
+                    ["result-left-right-partition"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-procedure.ipynb) ,
+                    ["re-apply-merge-sort-procedure"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-procedure.ipynb) ,
+                    ["finally-merge-two-sorted-halves-one-sorted-array"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-procedure.ipynb) ,
+                    ["any-merge-must-take-least-linear-time-total-size-two-lists-worst-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-procedure.ipynb) ] } &#x1F3C1;
 
-                    - [{process}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-process.ipynb)
-                    &#x1F530;
-                    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-process.ipynb)
+                    - { ["**process**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-process.ipynb) : &#x1F4CC;<br /> [ 
+                    ["unsorted-input-some-out-of-order-elements"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-process.ipynb) ,
+                    ["size-array-greater-zero-one-partition-into-different-subarrays"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-process.ipynb) ,
+                    ["input-instances-greater-size-one-merge-applied-recursively"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-process.ipynb) ,
+                    ["input-instance-size-one-reached-base-case-level-recursion"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-process.ipynb) ,
+                    ["all-single-elements-reached-base-cases-next-step-merge-in-between"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-process.ipynb) ,
+                    ["call-merge-step-sort-elements-being-merged-in-order-swap-indices"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-process.ipynb) ,
+                    ["combine-subarrays-call-merge-operation-correct-indices"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-process.ipynb) ,
+                    ["tree-structure-final-call-merge-during-merge-step-all-elements-inserted-correct-index"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-process.ipynb) ,
+                    ["sorting-expensive-active-stack-frames-applied-disadvantage-recursive-approach"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-process.ipynb) ] } &#x1F3C1;
 
                     - [{code}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-code.ipynb)
                     &#x1F530;
@@ -639,17 +655,63 @@
                         &#x1F530;
                         [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-code-analyse.ipynb)
 
-                - [{quick}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb)
-                &#x1F530;
-                [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb)
+                - { ["**quick**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb) : &#x1F4CC;<br /> [ 
+                ["efficient-comparison-based-Hoare-similar-idea-merge-recursive-algorithm-divide-conquer-approach"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb) ,
+                ["divide-conquer-approach-divide-step-divide-smaller-subproblems-same-problem-type"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb) ,
+                ["divide-conquer-approach-conquer-step-keep-break-down-until-base-case-propagate-solution-recursion-trace"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb) ,
+                ["memory-usage-linear-naive-implementations-variations-exist-linearithmic-memory-performance"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb) ,
+                ["best-average-case-performance-runtime-linearithmic"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb) ,
+                ["worst-case-runtime-performance-quadratic-rare-scenario-possible-get-quadratic-performance-if-almost-sorted-completely-sorted-and-poor-choice-pivot"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb) ,
+                ["on-average-quicksort-faster-merge-sort"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb) ,
+                ["performance-degrade-runtime-performance-quadratic-rare-scenario-if-input-almost-sorted-completely-sorted-and-poor-choice-pivot"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb) ,
+                ["pivot-not-chosen-good-manner-slow-as-other-quadratic-algorithms-happen-if-pivot-consistently-chosen-all-or-too-many-elements-array-less-greater-than-pivot"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb) ,
+                ["performing-partition-step-pivot-leaves-nothing-right-partition-everything-left-partition-algorithm-take-long-time-run"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb) ,
+                ["option-pick-first-element-pivot"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb) ,
+                ["option-pick-last-element-pivot"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb) ,
+                ["option-pick-element-random-index-pivot"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb) ,
+                ["classic-case-input-choose-first-element-last-element-array"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb) ,
+                ["pick-median-element-pivot-probably-better-option"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb) ,
+                ["median-element-partition-step-make-number-elements-left-partition-right-partition-even-equal-distribution"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb) ,
+                ["standard-quicksort-unlike-merge-unstable-stable-variations-exist-preserve-relative-ordering-already-sorted-same-value-comparator-function"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb) ,
+                ["quicksort-good-all-rounder-good-average-case-behaviour"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb) ,
+                ["in-practice-fastest-known-sorting-algorithms-on-average"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick.ipynb) ] } &#x1F3C1;
 
-                    - [{procedure}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-procedure.ipynb)
-                    &#x1F530;
-                    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-procedure.ipynb)
+                    - { ["**procedure**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-sorting-algorithm-comparator-comparison-algorithms-quick-procedure.ipynb) : &#x1F4CC;<br /> [ 
+                    ["step-one-pivot-selection-pick-element-pivot-array"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-procedure.ipynb) ,
+                    ["step-two-call-partition-every-element-array-value-less-than-pivot-reordered-left-pivot-greater-than-equal-pivot-reordered-pivot"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-procedure.ipynb) ,
+                    ["after-partition-pivot-final-index-subarray-left-subarray-right"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-procedure.ipynb) ,
+                    ["step-three-apply-steps-one-two-recursively-each-two-subarrays-working-until-base-case-reached"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-procedure.ipynb) ,
+                    ["base-case-recursion-subarray-reached-length-one-zero-not-need-sorted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-procedure.ipynb) ] } &#x1F3C1;
 
-                    - [{process}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb)
-                    &#x1F530;
-                    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb)
+                    - { ["**process**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) : &#x1F4CC;<br /> [ 
+                    ["unsorted-input-some-out-of-order-elements"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["step-one-pick-pivot-value"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["step-two-call-partition"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["put-all-elements-values-less-than-pivot-left-hand-side-pivot"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["put-all-elements-values-greater-than-pivot-right-hand-side-pivot"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["operate-left-partition-step-three-apply-steps-one-two-recursively"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["step-one-pick-pivot-value"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["step-two-call-partition"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["put-all-items-elements-values-less-than-pivot-left-hand-side-pivot"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["step-three-apply-steps-one-two-recursively-one-element-remain-base-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["operate-right-partition-step-three-apply-steps-one-two-recursively"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["step-one-pick-pivot-value"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["step-two-call-partition"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["put-all-elements-values-less-than-pivot-left-hand-side-pivot"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["put-all-elements-values-greater-than-pivot-right-hand-side-pivot"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["step-three-apply-steps-one-two-recursively-one-element-remain-base-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["operate-partition-left-previous-pivot-step-three-apply-steps-one-two-recursively"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["step-one-pick-pivot-value"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["step-two-call-partition"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["put-all-elements-values-less-than-pivot-left-hand-side-pivot"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["operate-partition-left-previous-pivot-step-three-apply-steps-one-two-recursively"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["step-one-pick-pivot-value"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["step-two-call-partition"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["put-all-elements-values-less-than-pivot-left-hand-side-pivot"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["put-all-elements-values-greater-than-pivot-right-hand-side-pivot"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["step-three-apply-steps-one-two-recursively-one-element-remain-base-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["step-three-apply-steps-one-two-recursively-one-element-remain-base-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
+                    ["array-sorted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ] } &#x1F3C1;
 
                     - [{code}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-code.ipynb)
                     &#x1F530;
@@ -659,55 +721,124 @@
                         &#x1F530;
                         [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-code-analyse.ipynb)
 
-                - [{heap}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-heap.ipynb)
-                &#x1F530;
-                [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-heap.ipynb)
+                - { ["**heap**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-heap.ipynb) : &#x1F4CC;<br /> [ 
+                ["efficient-comparison-based-unstable"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-heap.ipynb) ,
+                ["heapsort-achieve-linearithmic-upper-bound-possible-performance-best-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-heap.ipynb) ,
+                ["average-case-heapsort-achieve-linearithmic-expect-on-average-faster-bubble-selection-insertion"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-heap.ipynb) ,
+                ["quicksort-fastest-all-around-algorithm-on-average-concerned-worst-case-performance-need-guarantee-exceed-limit-merge-sort-heapsort-better-choice"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-heap.ipynb) ] } &#x1F3C1;
 
-        - [{non-comparison}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-non-comparison.ipynb)
-        &#x1F530;
-        [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-non-comparison.ipynb)
+        - { ["**non-comparison**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-non-comparison.ipynb) : &#x1F4CC;<br /> [ 
+        ["comparison-based-sorting-algorithms-most-widely-applicable"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-non-comparison.ipynb) ,
+        ["do-not-make-assumptions-data-comparing-elements-array-against-one-another"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-non-comparison.ipynb) ,
+        ["fundamental-mathematical-result-algorithm-analysis-linearithmic-ideal-worst-case-scenario-smallest-penalty-could-hope-heapsort-merge-sort"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-non-comparison.ipynb) ,
+        ["quicksort-quadratic-worst-case-heapsort-merge-sort-better-concerned-worst-case-performance-and-need-comparison-based-sorting-algorithm"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-non-comparison.ipynb) ,
+        ["non-comparison-based-sorting-algorithms-bucket-counting-radix-sort-better-worst-case-times"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-non-comparison.ipynb) ,
+        ["achieve-kind-of-linear-time-complexity-if-some-assumptions-made-about-data-do-not-need-compare-elements-against-one-another"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-non-comparison.ipynb) ,
+        ["know-data-certain-range-some-kind-distribution"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-non-comparison.ipynb) ,
+        ["linear-clearly-minimum-sorting-time-possible-examine-every-element-least-once"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-non-comparison.ipynb) ] } &#x1F3C1;
 
             - [{algorithms}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-non-comparison-algorithms-intentionally-blank.ipynb)
             &#x26AA;
 
-                - [{counting}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting.ipynb)
-                &#x1F530;
-                [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting.ipynb)
+                - { ["**counting**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting.ipynb) : &#x1F4CC;<br /> [ 
+                ["non-comparison-based-stable-Seaward-also-radix-sort"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting.ipynb) ,
+                ["counting-sort-simplest-non-comparison-based"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting.ipynb) ,
+                ["seems-impossible-sorts-array-elements-very-close-linear-time"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting.ipynb) ,
+                ["possible-linear-time-given-non-comparison-based-sorting-algorithm-has-set-assumptions-limitations-type-input-data-handle"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting.ipynb) ,
+                ["counting-sort-assume-input-size-n-each-element-has-non-negative-integer-key-with-range-k"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting.ipynb) ,
+                ["range-k-number-discrete-different-integer-keys-possible"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting.ipynb) ,
+                ["zero-based-indexing-keys-range-zero-up-k-1-zero-last-possible-integer-key-minus-one"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting.ipynb) ,
+                ["best-worst-average-case-time-complexity-n+k"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting.ipynb) ,
+                ["n-size-input-instance-plus-number-possible-key-values-k"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting.ipynb) ,
+                ["space-complexity-n+k-n-size-input-instance-plus-number-possible-key-values-k"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting.ipynb) ,
+                ["good-improvement-large-input-instances-compare-quicksort"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting.ipynb) ,
+                ["potential-running-time-advantage-cost-algorithm-not-be-widely-applicable-make-lot-assumptions-type-data-received"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting.ipynb) ,
+                ["possibility-data-has-labels-rather-integers-assign-each-label-integer-value-use-integers-proxy-sort-keys-instead-actual-name"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting.ipynb) ,
+                ["names-cars-sort-mapping-non-negative-integer-keys-strings-application-counting-sort-other-types-problems"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting.ipynb) ] } &#x1F3C1;
 
-                    - [{procedure}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting-procedure.ipynb)
-                    &#x1F530;
-                    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting-procedure.ipynb)
+                    - { ["**procedure**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting-procedure.ipynb) : &#x1F4CC;<br /> [ 
+                    ["first-not-known-determine-key-range-input-array"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting-procedure.ipynb) ,
+                    ["next-initialise-array-count-size-k-number-discrete-key-values-possible"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting-procedure.ipynb) ,
+                    ["initialised-collection-array-count-counting-number-times-each-key-value-appears-input-count-times-each-specific-key-value-occurs-duplicate-keys"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting-procedure.ipynb) ,
+                    ["next-initialise-array-results-size-n-sorted-output"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting-procedure.ipynb) ,
+                    ["space-complexity-working-memory-array-count-size-k-array-results-size-n-store-results-sorted-outputn+k"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting-procedure.ipynb) ,
+                    ["next-iterate-input-array-count-record-number-times-distinct-key-value-occurs-input-histogram"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting-procedure.ipynb) ,
+                    ["next-construct-sorted-array-results-based-histogram-key-frequencies-stored-array-count"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting-procedure.ipynb) ,
+                    ["referring-ordering-keys-original-input-ensure-stability-preserved-after-sorting-procedure-take-into-account-when-implementing-counting-sort"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting-procedure.ipynb) ] } &#x1F3C1;
 
-                    - [{process}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting-process.ipynb)
-                    &#x1F530;
-                    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting-process.ipynb)            
+                    - { ["**process**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting-process.ipynb) : &#x1F4CC;<br /> [ 
+                    ["input-unsorted-array"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting-process.ipynb) ,
+                    ["counting-sort-go-through-input-count-many-times-each-different-members-input-occurs-unique-key-value"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting-process.ipynb) ,
+                    ["histogram-represents-count-stored-array"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting-process.ipynb) ,
+                    ["knowing-key-values-total-ordering-largest-key-value-find-number-instances-number-exist-input-instance-know-placed-end-array-result"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting-process.ipynb) ,
+                    ["building-array-result-for-loop-counting-down-array-index-n-1-down-to-position-index-zero"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting-process.ipynb) ,
+                    ["if-counting-sort-implemented-correctly-duplicates-that-appear-input-will-appear-same-order-result"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting-process.ipynb) ] } &#x1F3C1;
 
-                - [{bucket}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket.ipynb)
-                &#x1F530;
-                [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket.ipynb)
+                - { ["**bucket**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket.ipynb) : &#x1F4CC;<br /> [ 
+                ["bin-sort-non-comparison-based-stable-sorting-algorithm-works-distributing-elements-array-buckets"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket.ipynb) ,
+                ["each-bucket-sorted-individually-using-different-sorting-algorithm-or-recursively-apply-bucket-sorting-algorithm"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket.ipynb) ,
+                ["generalisation-counting-sort-buckets-building-up-histogram-frequency-discrete-type-distinct-type-input"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket.ipynb) ,
+                ["bucket-sort-counting-buckets-counting-many-elements-keys-fall-certain-range"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket.ipynb) ,
+                ["if-elements-put-buckets-next-step-down-buckets-level-low-enough-use-some-other-sorting-algorithm-instead-insertion-sort-good-candidate-finish-small-arrays"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket.ipynb) ,
+                ["worst-case-performance-runtime-quadratic-not-quite-as-good-counting-sort-worse"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket.ipynb) ,
+                ["best-average-case-time-complexity-n+k"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket.ipynb) ,
+                ["space-complexity-worst-case-trade-off-compared-counting-sort-increased-space-plus-quadratic-time-complexity-worst-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket.ipynb) ,
+                ["bucket-sort-very-good-sorting-elements-come-from-uniform-distribution-certain-range"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket.ipynb) ,
+                ["know-sort-keys-maybe-floating-point-uniformly-distributed"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket.ipynb) ,
+                ["large-input-lot-numbers-uniform-distribution-certain-range-bucket-sort-good-candidate"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket.ipynb) ,
+                ["bucket-sort-performance-degrades-clustering-tend-towards-quadratic"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket.ipynb) ] } &#x1F3C1;           
 
-                    - [{procedure}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-procedure.ipynb)
-                    &#x1F530;
-                    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-procedure.ipynb)
+                    - { ["**procedure**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-procedure.ipynb) : &#x1F4CC;<br /> [ 
+                    ["set-up-array-buckets-initially-empty-hold-different-elements"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-procedure.ipynb) ,
+                    ["next-iterate-through-input-collection-array-place-element-into-correct-bucket-recursive-sorting-algorithm"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-procedure.ipynb) ,
+                    ["empty-bucket-base-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-procedure.ipynb) ,
+                    ["bucket-not-empty-recursive-call-bucket-sort-one-element-assume-size-zero-one-base-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-procedure.ipynb) ,
+                    ["could-recursive-call-bucket-sort-or-different-sorting-algorithm-insertion-sort"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-procedure.ipynb) ,
+                    ["first-bucket-sort-down-certain-level-then-down-small-input-instance-use-insertion-sort"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-procedure.ipynb) ,
+                    ["visit-buckets-order-after-sorted-level-then-place-each-element-back-array-or-result-array-correct-position"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-procedure.ipynb) ] } &#x1F3C1;
 
-                    - [{process}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-process.ipynb)
-                    &#x1F530;
-                    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-process.ipynb)     
+                    - { ["**process**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-process.ipynb) : &#x1F4CC;<br /> [ 
+                    ["input-unsorted-array"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-process.ipynb) ,
+                    ["picked-parameters-size-buckets-number-buckets-ranges-taken-depend-types-input-expected"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-process.ipynb) ,
+                    ["call-bucket-sort-bucket-integer-keys-get-all-elements-in-range"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-process.ipynb) ,
+                    ["each-bucket-have-elements-out-of-order-do-operation-solve-elements-into-correct-order"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-process.ipynb) ,
+                    ["option-keep-calling-bucket-sort-algorithm-recursively"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-process.ipynb) ,
+                    ["keep-going-down-end-buckets-one-element-recombine-like-merge-step"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-process.ipynb) ,
+                    ["option-get-down-small-input-use-another-algorithm-insertion-sort"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-process.ipynb) ,
+                    ["between-elements-buckets-and-step-other-sorting-operation-employed-insertion-sort-or-could-recursive-calls"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-process.ipynb) ,
+                    ["finally-elements-in-all-buckets-join-array-back-together"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-process.ipynb) ,
+                    ["know-buckets-all-in-order-respect-to-other-know-everything-within-those-buckets-correct-just-simple-combine-operation"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-bucket-process.ipynb) ] } &#x1F3C1;    
 
-        - [{hybrid}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid.ipynb)
-        &#x1F530;
-        [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid.ipynb)
+        - { ["**hybrid**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid.ipynb) : &#x1F4CC;<br /> [ 
+        ["combine-properties-two-different-algorithms-solve-same-type-problem-hybrid"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid.ipynb) ,
+        ["could-choose-one-specific-algorithm-based-data-and-execution-conditions"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid.ipynb) ,
+        ["could-choose-switch-between-different-algorithms-according-rule-set"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid.ipynb) ,
+        ["hybrid-algorithms-combine-desired-features-one-algorithm-some-other-algorithm-overall-algorithm-achieve-better-algorithm-aggregate"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid.ipynb) ,
+        ["might-algorithm-good-average-case-performance-improve-somewhat"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid.ipynb) ,
+        ["best-versions-quicksort-perform-better-heapsort-merged-sort-vast-majority-inputs-but-quicksort-poor-worst-case-running-time-quadratic"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid.ipynb) ,
+        ["avoid-running-time-quadratic-heapsort-merge-sort-instead-together-some-other-algorithm"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid.ipynb) ,
+        ["maybe-insertion-sort-speed-up-linearithmic-worst-case-running-time-beat-quicksort"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid.ipynb) ,
+        ["insertion-sort-speed-up-getting-down-level-recursion-only-very-few-elements-insertion-sort-performs-better-small-data-sets"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid.ipynb) ,
+        ["insertion-sort-prime-candidate-part-hybrid-algorithm"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid.ipynb) ] } &#x1F3C1;
 
             - [{algorithms}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-intentionally-blank.ipynb)
             &#x26AA;
 
-                - [{intro}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-intro.ipynb)
-                &#x1F530;
-                [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-intro.ipynb)
+                - { ["**intro**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-intro.ipynb) : &#x1F4CC;<br /> [ 
+                ["hybrid-combine-properties-two-different-algorithms-make-better-algorithm-aggregate-introsort-unstable"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-intro.ipynb) ,
+                ["variation-standard-quicksort-monitors-recursive-depth-standard-quicksort-algorithm-ensure-efficient-processing"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-intro.ipynb) ,
+                ["problems-recursive-algorithms-design-patterns-end-up-lot-overhead-conducting-different-recursive-calls-active-stack-frames"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-intro.ipynb) ,
+                ["if-depth-quicksort-certain-recursion-exceeds-linearithmic-levels-use-another-algorithm-heapsort"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-intro.ipynb) ,
+                ["quicksort-at-coarse-level-heapsort-more-fine-grained-level"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-intro.ipynb) ,
+                ["leads-fast-average-worst-case-performance-runtime-linearithmic"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-intro.ipynb) ] } &#x1F3C1;
 
-                - [{tim}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-tim.ipynb)
-                &#x1F530;
-                [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-tim.ipynb)
+                - { ["**tim**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-tim.ipynb) : &#x1F4CC;<br /> [ 
+                ["hybrid-combine-properties-two-different-algorithms-make-better-algorithm-aggregate-timsort-stable-Peters"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-tim.ipynb) ,
+                ["implemented-initially-use-reference-sorting-algorithm-python"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-tim.ipynb) ,
+                ["derived-combination-merge-sort-speed-insertion-sort-small-input-instances-plus-logic-binary-search"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-tim.ipynb) ,
+                ["finds-subsequences-runs-data-already-ordered-using-knowledge-sort-remainder-efficiently"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-tim.ipynb) ,
+                ["merging-identified-run-existing-runs-certain-criteria-satisfied"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-tim.ipynb) ,
+                ["algorithm-used-android-platform-python-java-gnu-octave"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-tim.ipynb) ] } &#x1F3C1;
 
 </details>
 
