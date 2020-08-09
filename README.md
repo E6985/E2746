@@ -367,7 +367,7 @@
 
 </details>
 
-<details open>
+<details close>
     <summary>sorting</summary>
 
 > { ["**sorting**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting.ipynb) : &#x1F4CC;<br /> [
@@ -842,48 +842,103 @@
 
 </details>
 
-<details close>
+<details open>
     <summary>search</summary>
 
-> [{search}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search.ipynb)
-&#x1F530;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search.ipynb)
+> { ["**search**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search.ipynb) : &#x1F4CC;<br /> [ 
+["searching-fundamental-operation-computing"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search.ipynb) ,
+["web-search-engine-give-mapping-search-key-entered-information-received-afterwards"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search.ipynb) ,
+["query-banking"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search.ipynb) ,
+["common-search-queries-finding-file"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search.ipynb) ,
+["querying-database-search-problem"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search.ipynb) ] } &#x1F3C1;
 
-- [{problem}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-problem.ipynb)
-&#x1F530;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-problem.ipynb)
+- { ["**problem**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-problem.ipynb) : &#x1F4CC;<br /> [ 
+["search-problem-relates-retrieving-some-information-from-data-structure"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-problem.ipynb) ,
+["data-structure-holding-data-search-based-search-key-search-term-search-value-does-value-exist-want-index-data"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-problem.ipynb) ,
+["algorithm-solves-search-problem-search-algorithm"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-problem.ipynb) ,
+["querying-database-SELECT-search-algorithm-underneath-queries-data-structure-call-made"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-problem.ipynb) ,
+["data-collection-fundamental-queries-existence-associative-lookup"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-problem.ipynb) ,
+["existence-criteria-query-collection-contain-target-value-result-true-false"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-problem.ipynb) ,
+["associative-lookup-criteria-query-return-information-associated-collection-target-key-value"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-problem.ipynb) ,
+["key-associated-complex-structure-value-look-up-retrieve-or-replace-value"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-problem.ipynb) ,
+["terms-correctness-algorithm-return-correct-result-true-index-requested-key-if-key-or-value-exists-return-minus-one-null-false-not-exist"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-problem.ipynb) ,
+["sample-problems-collections-integer-keys-array-convention-search-algorithm-return-index-value-searching-does-exist-return-minus-one-does-not-exist"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-problem.ipynb) ] } &#x1F3C1;
 
-- [{performance}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance.ipynb)
-&#x1F530;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance.ipynb)
+- { ["**performance**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance.ipynb) : &#x1F4CC;<br /> [ 
+["sorting-search-algorithm-performance-based-how-many-operations-performed"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance.ipynb) ,
+["sorting-algorithm-how-many-comparisons-how-many-insertions-swaps-elements"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance.ipynb) ,
+["searching-problem-how-many-elements-algorithm-inspects-runtime-as-processes-query"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance.ipynb) ,
+["performance-based-how-many-operations-performed-increase-increasing-input-instance"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance.ipynb) ,
+["time-omplexity-alue-nput-ize-ncreases-umber-perations-equired-lgorithm-un-lso-ncreases"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance.ipynb) ,
+["constant-linear-running-time-any-search-algorithm-correspond-inspecting-element-array-exactly-once-worst-case-linear-search"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance.ipynb) ,
+["lower-bound-possible-performance-linear-time-complexity"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance.ipynb) ,
+["comparator-function-some-definition-of-less-than"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance.ipynb) ,
+["can-sort-array-elements-according-definition-comparator-function-can-improve-performance-search-queries"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance.ipynb) ,
+["knowing-beforehand-array-elements-sorted-can-be-sorted-according-some-definition-comparator-function"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance.ipynb) ,
+["trade-off-costs-maintaining-sorted-array-data-use-cases-expect-frequent-insertion-removal-keys-or-elements"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance.ipynb) ,
+["trade-off-cost-sorted-array-increased-performance-possible-maintaining-data-sorted-fashion"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance.ipynb) ,
+["definitely-worth-pre-sorting-data-searched-often-not-be-updated-very-frequently-binary-search"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance.ipynb) ] } &#x1F3C1;
 
-    - [{pre-sort}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance-pre-sort.ipynb)
-    &#x1F530;
-    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance-pre-sort.ipynb)
+    - { ["**pre-sort**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance-pre-sort.ipynb) : &#x1F4CC;<br /> [ 
+    ["several-types-search-operation-trivial-assume-array-elements-sorted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance-pre-sort.ipynb) ,
+    ["economic-data-salary-paid-employees-company-can-assume-before-time-data-sorted-some-order-ascending-descending"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance-pre-sort.ipynb) ,
+    ["have-some-definition-sorted-according-comparator-function"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance-pre-sort.ipynb) ,
+    ["trivial-find-minimum-maximum-median-quartile"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance-pre-sort.ipynb) ,
+    ["salary-points-easily-retrieved-constant-O-1-running-time"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance-pre-sort.ipynb) ,
+    ["if-data-sorted-before-applying-search-operation-powerful-size-data-set"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-performance-pre-sort.ipynb) ] } &#x1F3C1;
 
-- [{types}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types.ipynb)
-&#x1F530;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types.ipynb)
+- { ["**types**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types.ipynb) : &#x1F4CC;<br /> [ 
+["as-with-sorting-algorithms-no-universal-best-algorithm-searching-problems"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types.ipynb) ,
+["appropriate-search-algorithm-use-particular-input-instance-particular-problem-type-depend-type-data-structure-used"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types.ipynb) ,
+["may-also-depend-a-priori-knowledge-about-data"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types.ipynb) ] } &#x1F3C1;
 
-    - [{comparsion}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-comparsion.ipynb)
-    &#x1F530;
-    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-comparsion.ipynb)
+    - { ["**comparsion**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-comparsion.ipynb) : &#x1F4CC;<br /> [ 
+    ["comparison-searches-eliminate-records-out-search-space"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-comparsion.ipynb) ,
+    ["based-some-comparisons-between-record-keys"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-comparsion.ipynb) ] } &#x1F3C1;
 
-    - [{digital}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-digital.ipynb)
-    &#x1F530;
-    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-digital.ipynb)
+    - { ["**digital**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-digital.ipynb) : &#x1F4CC;<br />
+    ["digital-searches-based-properties-digits-contained-record-keys"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-digital.ipynb) } &#x1F3C1;
 
-    - [{hash-based}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-hash-based.ipynb)
-    &#x1F530;
-    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-hash-based.ipynb)
+    - { ["**hash-based**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-hash-based.ipynb) : &#x1F4CC;<br /> [ 
+    ["hash-based-searches-hash-map-data-structure"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-hash-based.ipynb) ,
+    ["maps-keys-records-based-hashing-function
+    "](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-hash-based.ipynb) ] } &#x1F3C1;
 
-    - [{linear}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb)
-    &#x1F530;
-    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb)
+    - { ["**linear**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) : &#x1F4CC;<br /> [ 
+    ["linear-searches-simple-naive-search-algorithm-known-sequential-search-trivial-implement"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) ,
+    ["constitutes-brute-force-approach-locate-single-target-value-array-inefficient"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) ,
+    ["even-though-brute-force-algorithm-could-have-some-applications-real-world-useful-certain-instances"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) ,
+    ["procedure-begin-first-index-element-zero-array-inspect-element-inturn-until-target-value-found"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) ,
+    ["procedure-iterated-through-elements-array-target-value-not-found"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) ,
+    ["appropriate-algorithm-do-not-know-input-data-sorted-beforehand-no-assumptions-made-type-data"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) ,
+    ["appropriate-algorithm-array-searched-small"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) ,
+    ["given-no-assumptions-contents-array-place-fewest-restrictions-type-elements-searched"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) ,
+    ["good-algorithm-do-not-assume-data-sorted-beforehand"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) ,
+    ["knowing-data-sorted-beforehand-binary-search-better-choice"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) ,
+    ["only-requirement-linear-search-presence-match-function"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) ,
+    ["match-function-some-definition-equals-equivalent-to-determines-target-elements-searched-matches-elements-array"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) ,
+    ["use-case-linear-search-need-frequently-search-array-locate-some-element-knowing-array-may-or-may-not-ordered-maybe-array-data-added-removed-updated-large-rate"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) ,
+    ["with-without-further-knowledge-all-information-array-linear-search-get-job-brute-force-manner-linear-time-not-efficient"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) ,
+    ["array-accessible-only-through-iterator-one-element-a-time-forced-iterate-through-everything-linear-search-only-algorithm-used-instance"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) ,
+    ["achieve-constant-O-1-time-best-case-achieve-linear-n-time-average-worst-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) ,
+    ["assume-equally-likely-target-value-found-array-index-if-size-input-array-doubled-running-time-approximately-double-linear-running-time"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) ,
+    ["best-case-occur-if-element-sought-first-index-worst-case-last-index-average-case-somewhere-middle"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) ,
+    ["on-average-expect-n-over-2-operations-complete-linear-search"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) ,
+    ["still-call-linear-O-n-time-divide-by-two-constant"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) ,
+    ["constant-space-complexity-in-place"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear.ipynb) ] } &#x1F3C1;
 
-        - [{process}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-process.ipynb)
-        &#x1F530;
-        [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-process.ipynb)
+        - { ["**process**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-process.ipynb) : &#x1F4CC;<br /> [ 
+        ["unsorted-input-some-out-of-order-elements-number-inversions"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-process.ipynb) ,
+        ["not-assuming-anything-properties-data-array"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-process.ipynb) ,
+        ["linear-search-array-target-value"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-process.ipynb) ,
+        ["inspect-first-element-array-not-target-value"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-process.ipynb) ,
+        ["continue-iteration-iterate-up-indices-through-array"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-process.ipynb) ,
+        ["target-value-found-returns-index-value"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-process.ipynb) ,
+        ["linear-search-search-array-target-value-not-appear"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-process.ipynb) ,
+        ["consider-number-operations-neglecting-constants-checking-values-equal-target-value-input-size-number-steps-linear-worst-case-time"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-process.ipynb) ,
+        ["not-target-value-for-loop-terminated"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-process.ipynb) ,
+        ["last-index-not-target-value-for-loop-terminates-without-returning-index-value"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-process.ipynb) ,
+        ["iteration-complete-not-found-target-value-return-value-minus-one-flag-indicates-target-value-not-exist"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-process.ipynb) ] } &#x1F3C1;
 
         - [{code}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-code.ipynb)
         &#x1F530;
@@ -893,14 +948,36 @@
             &#x1F530;
             [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-code-analyse.ipynb)
 
-    - [{binary}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary.ipynb)
-    &#x1F530;
-    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary.ipynb)
+    - { ["**binary**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary.ipynb) : &#x1F4CC;<br /> [ 
+    ["linear-search-running-time-linear-if-element-not-found"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary.ipynb) ,
+    ["linear-search-running-time-n-over-2-if-element-found"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary.ipynb) ,
+    ["improve-linear-search-performance-if-known-a-priori-knowledge-beforehand-probability-distribution-searching-different-possible-keys-target-values-array"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary.ipynb) ,
+    ["try-organise-array-most-searched-elements-appear-start-array"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary.ipynb) ,
+    ["bootstrap-performance-linear-search-faster-could-impractical-measure-probability-distribution-search-queries"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary.ipynb) ,
+    ["improve-performance-assumption-array-data-could-sorted-according-definition-comparator-function-faster-searching-binary-search"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary.ipynb) ,
+    ["real-world-lookup-name-phone-book-word-dictionary"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary.ipynb) ,
+    ["middle-decide-pick-around-middle-process-again-halving-what-left-until-end-correct-place"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary.ipynb) ,
+    ["looking-name-phone-book-word-dictionary-implemented-binary-search-algorithm"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary.ipynb) ,
+    ["better-than-linear-running-time-achievable-only-if-data-sorted-according-definition-comparator-function"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary.ipynb) ,
+    ["delivers-better-performance-linear-search-array-elements-already-sorted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary.ipynb) ,
+    ["phone-book-dictionary-divide-sorted-array-halves-until-target-value-found-or-not-exist"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary.ipynb) ,
+    ["divides-array-approximately-half-whole-integer-division-disregarding-remainder"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary.ipynb) ,
+    ["logarithmic-time-complexity-better-than-linear-order-growth-curves"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary.ipynb) ,
+    ["logarithmic-time-complexity-better-than-linear-order-growth-curves"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary.ipynb) ] } &#x1F3C1;
 
-        - [{process}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-process.ipynb)
-        &#x1F530;
-        [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-process.ipynb)
-
+        - { ["**process**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-process.ipynb) : &#x1F4CC;<br /> [ 
+        ["sorted-input-array-integers"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-process.ipynb) ,
+        ["binary-search-array-target-value"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-process.ipynb) ,
+        ["calculate-middle-index-add-leftmost-rightmost"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-process.ipynb) ,
+        ["index-value-stored-less-than-target-value-search-rightmost-subarray"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-process.ipynb) ,
+        ["calculate-middle-index-add-leftmost-rightmost"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-process.ipynb) ,
+        ["index-value-stored-greater-than-target-value-search-leftmost-subarray"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-process.ipynb) ,
+        ["calculate-middle-index-leftmost-rightmost"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-process.ipynb) ,
+        ["index-element-equal-to-target-value-return-index"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-process.ipynb) ,
+        ["binary-search-search-array-target-value-not-appear"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-process.ipynb) ,
+        ["down-to-subarray-one-element"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-process.ipynb) ,
+        ["left-right-not-equal-break-out-while-loop-stop-recursion-occurring-base-case-returned-minus-one-not-find-target-value"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-process.ipynb) ] } &#x1F3C1;
+        
         - [{code}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-code.ipynb)
         &#x1F530;
         [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-code.ipynb)
