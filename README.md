@@ -1629,75 +1629,107 @@
 <details open>
     <summary>non-relational</summary>
 
-> [{non-relational}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational.ipynb)
-&#x1F4CC;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational.ipynb)
+> { ["**non-relational**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational.ipynb) : &#x1F4CC;<br /> [
+["non-relational-databases-nosql-databases-not-use-tables"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational.ipynb) ,
+["types-documentation-mongodb-graph-neo4j-key-value-redis-column-oriented-cassandra"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational.ipynb) ] } &#x1F3C1;
 
-- [{collection}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-collection.ipynb)
-&#x1F4CC;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-collection.ipynb)
+- { [&#x00A9; "**collection**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-collection.ipynb) : &#x1F4CC;<br /> [
+["relational-table-mongodb-collection"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-collection.ipynb) ,
+["relational-rows-mongodb-documents"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-collection.ipynb) ,
+["relational-columns-mongodb-attributes"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-collection.ipynb) ,
+["grouping-documents-collection-exists-within-single-database"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-collection.ipynb) ,
+["unlike-relational-tables-not-enforce-schema"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-collection.ipynb) ,
+["documents-can-different-attributes-typically-similar-related-purpose"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-collection.ipynb) ] } &#x1F3C1;
 
-- [{scalability}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb)
-&#x1F4CC;
-[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb)
+- { ["**scalability**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb) : &#x1F4CC;<br /> [
+["relational-widely-used-stable-technology"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb) ,
+["why-non-relational-scalability-ability-change-size"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb) ,
+["relational-databases-designed-store-relatively-small-amounts-data-designed-run-single-server"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb) ,
+["scalability-reason-nosql-databases-developed"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb) ,
+["today-data-increasing-exponentially-relational-size-increase-server-resources-are-over-extended"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb) ,
+["relational-databases-have-scaled-up-scaled-out"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb) ,
+["scale-up-vertically-moving-database-bigger-server-another-problem-limit-to-server-size"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb) ,
+["scale-out-horizontally-split-database-across-many-smaller-servers"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb) ,
+["relational-databases-designed-run-single-server-splitting-across-many-servers-causes-problems"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb) ,
+["scenario-column-in-server-referenced-foreign-key-another-column-another-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb) ,
+["table-is-split-across-two-other-servers"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb) ,
+["foreign-key-constraint-ON-DELETE-CASCADE-deleting-one-row-having-to-access-tables-on-other-servers"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb) ,
+["operation-dramatically-affected-network-load-and-speed"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb) ] } &#x1F3C1;
 
-	- [{transaction}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability-transaction.ipynb)
-	&#x1F4CC;
-	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability-transaction.ipynb)
+    - { ["**transaction**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability-transaction.ipynb) : &#x1F4CC;<br /> [
+    ["transaction-set-related-operations-completes-entirely-or-fails-totally"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability-transaction.ipynb) ,
+    ["if-tables-referenced-transaction-different-servers-or-each-referenced-tables-itself-spread-across-multiple-servers-problem-getting-locks-tables-keeping-them"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability-transaction.ipynb) ,
+    ["waiting-lock-another-table-another-server-scaling-vertically-horizontally-good-solution-expanding-relational-database-not-designed-cope-amount-data-generated-nowadays"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability-transaction.ipynb) ] } &#x1F3C1;
 
 - [{NoSQL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-intentionally-blank.ipynb)
 &#x26AA;
 
-	- [{MongoDB}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb)
-	&#x1F4CC;
-	[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb)
+    - { [&#x00A9; "**MongoDB**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) : &#x1F4CC;<br /> [
+    ["non-relational-nosql-mongodb-document-database"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) ,
+    ["larger-databases-data-less-structured-than-traditional-relational"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) ,
+    ["based-on-json-concept-database-relational-database"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) ,
+    ["relational-row-mongodb-document-associated-data-thought-of-document-usually-stored-together"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) ,
+    ["relational-model-data-stored-over-multiple-tables-joined-together-obtain-required-information"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) ,
+    ["relational-unable-manage-data-generated-nowadays"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) ,
+    ["mongodb-supports-large-amounts-data-sharding-across-multiple-servers"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) ,
+    ["horizontal-scalabilty-sharding-separates-very-large-databases-smaller-faster-easily-managed-parts"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) ,
+    ["shards-process-sharding-sql-complex-process-mongodb-designed-facilitate"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) ,
+    ["first-glance-duplication-data-seems-bad-wasteful-process-data-retrieval-faster"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) ,
+    ["if-all-data-needs-single-document-no-need-join-another-document"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) ,
+    ["relational-model-unable-manage-data-generated-nowadays-not-flexible-changes-required-schema"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) ,
+    ["mongodb-no-scheme-document-database-schemaless"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) ,
+    ["create-collection-calling-method-save-parameter-json-object-between-curly-brackets-name-value-pair"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) ,
+    ["relational-row-mongodb-document-analogous-json-object"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) ,
+    ["show-relational-table-mongodb-collection-calling-method-find"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) ] } &#x1F3C1;
 
-		- [{MySQL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-MySQL.ipynb)
-		&#x1F4CC;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-MySQL.ipynb)
+        - { ["**MySQL**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-MySQL.ipynb) : &#x1F4CC;<br /> [
+        ["mongodb-supports-enormous-amounts-data-increase-short-amount-time-unstructured-consistently-changing"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-MySQL.ipynb) ,
+        ["document-referencing-and-embedding-available-does-not-strict-foreign-key-constraints-mysql"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-MySQL.ipynb) ,
+        ["mysql-supports-technology-decades-stable-better-data-very-structured-controlled"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-MySQL.ipynb) ,
+        ["mysql-data-types-foreign-keys-ensures-data-integrity-data-security"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-MySQL.ipynb) ] } &#x1F3C1;
 
-		- [{JSON}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON.ipynb)
-		&#x1F4CC;
-		[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON.ipynb)
+        - { ["**JSON**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON.ipynb) : &#x1F4CC;<br /> [
+        ["relational-rows-mongodb-documents-based-json-javascript-object-notation"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON.ipynb) ,
+        ["lightweight-data-interchange-format-human-readability-machines-parse-generate"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON.ipynb) ,
+        ["named-javascript-albeit-language-independent"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON.ipynb) ,
+        ["composed-name-value-pairs-ordered-lists-arrays-objects-primary-data-holding-mechanism"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON.ipynb) ] } &#x1F3C1;
 
-			- [{use}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-use.ipynb)
-			&#x1F4CC;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-use.ipynb)
+            - { ["**use**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-use.ipynb) : &#x1F4CC;<br /> [
+            ["widely-used-publish-information-internet"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-use.ipynb) ,
+            ["application-connect-site-using-data-or-combine-other-sites-obtain-new-innovative-information"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-use.ipynb) ,
+            ["json-widely-used-internet-for-data-exchange"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-use.ipynb) ] } &#x1F3C1;
 
 			- [{data-types}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-intentionally-blank.ipynb)
 			&#x26AA;
 
-				- [{number}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-number.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-number.ipynb)
+                - { [&#x00A9; "**number**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-number.ipynb) : &#x1F4CC;<br />
+                ["data-type-number-json-object-between-curly-brackets-name-value-pair"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-number.ipynb) } &#x1F3C1;
 
-				- [{string}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-string.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-string.ipynb)
+                - { [&#x00A9; "**string**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-string.ipynb) : &#x1F4CC;<br />
+                ["data-type-string-json-object-between-curly-brackets-name-value-pairs"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-string.ipynb) } &#x1F3C1;
 
-				- [{boolean}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-boolean.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-boolean.ipynb)
+                - { [&#x00A9; "**boolean**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-boolean.ipynb) : &#x1F4CC;<br />
+                ["data-type-boolean-json-object-between-curly-brackets-name-value-pair-represented-true-false"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-boolean.ipynb) } &#x1F3C1;
 
-				- [{array}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-array.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-array.ipynb)
+                - { [&#x00A9; "**array**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-array.ipynb) : &#x1F4CC;<br />
+                ["data-type-array-json-object-ordered-collection-data-object"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-array.ipynb) } &#x1F3C1;
 
-				- [{object}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-object.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-object.ipynb)
+                - { [&#x00A9; "**object**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-object.ipynb) : &#x1F4CC;<br />
+                ["data-type-object-objects-stored-within-other-objects-value-of-an-object"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-object.ipynb) } &#x1F3C1;
 
-			- [{BSON}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON.ipynb)
-			&#x1F4CC;
-			[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON.ipynb)
+            - { ["**BSON**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON.ipynb) : &#x1F4CC;<br />
+            ["relational-row-mongodb-document-object-bascially-json-object"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON.ipynb) ,
+            ["stored-as-bson-object-binary-javascript-object-notation"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON.ipynb) ,
+            ["extends-json-model-provide-additional-data-types-plus-indexes"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON.ipynb) } &#x1F3C1;
 
-				- [{document}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document.ipynb)
-				&#x1F4CC;
-				[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document.ipynb)
+                - { [&#x00A9; "**document**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document.ipynb) : &#x1F4CC;<br /> [
+                ["relational-row-mongodb-document-relational-table-mongodb-collection-basic-unit-of-data"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document.ipynb) ,
+                ["document-analogous-to-equal-to-json-object-relational-row-rdbms"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document.ipynb) ] } &#x1F3C1;
 
-					- [{rules}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-rules.ipynb)
-					&#x1F4CC;
-					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-rules.ipynb)
+                    - { [&#x00A9; "**rules**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-rules.ipynb) : &#x1F4CC;<br />
+                    ["relational-row-mongodb-document-creation-must-have-relational-column-mongodb-attribute-underscore-id"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-rules.ipynb) ,
+                    ["not-provided-automatically-generated"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-rules.ipynb) ,
+                    ["cannot-be-array"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-rules.ipynb) } &#x1F3C1;
 
 					- [{attribute}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-intentionally-blank.ipynb)
 					&#x26AA;
