@@ -1734,97 +1734,209 @@
 					- [{attribute}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-intentionally-blank.ipynb)
 					&#x26AA;
 
-						- [{\_id}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb)
-						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb)
+                        - { [&#x00A9; "**\_id**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) : &#x1F4CC;<br /> [
+                        ["underscore-id-mandatory-part-document"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) ,
+                        ["method-save-document-save-collection"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) ,
+                        ["current-database-indicated-db"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) ,
+                        ["specifying-name-value-pairs"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) ,
+                        ["method-find-documents-name-equal-to-value"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) ,
+                        ["method-save-specifying-single-name-value-pair-leaving-out-mandatory-attribute-underscore-id"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) ,
+                        ["underscore-id-equal-to-ObjectId-bson-data-type"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) ,
+                        ["method-find-attached-automatically-underscore-id"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) ,
+                        ["attribute-underscore-id-like-primary-key"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) ,
+                        ["each-document-stored-in-collection-requires-unique-attribute-underscore-id"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) ,
+                        ["no-underscore-id-specified-when-inserting-document-ObjectId-automatically-generated-for-attribute"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) ,
+                        ["underscore-id-analogous-relational-schema-Extra-auto_increment-primary-key-mysql"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) ,
+                        ["not-care-what-it-is-once-its-unique"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) ] } &#x1F3C1;
 
 					- [{method}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-intentionally-blank.ipynb)
 					&#x26AA;
 
-						- [{save}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb)
-						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb)
+                        - { [&#x00A9; "**save**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb) : &#x1F4CC;<br /> [
+                        ["relational-row-mongodb-document-analogous-json-object-name-value-pairs-separated-commas-surrounded-curly-braces"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb) ,
+                        ["method-save-parameter-document-to-be-saved"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb) ,
+                        ["must-specify-where-saved-to-collection"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb) ,
+                        ["analogous-mysql-inserting-row-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb) ,
+                        ["must-specify-which-database-save-to-db-reference-current"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb) ,
+                        ["show-collection-calling-method-find-passing-no-parameter"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb) ,
+                        ["show-collection-calling-method-find-passing-parameter-json-object"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb) ,
+                        ["mysql-unable-save-row-given-exists-row-column-underscore-id"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb) ,
+                        ["behaviour-mongodb-different-existing-document-overwritten"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb) ,
+                        ["method-save-does-not-do-anything-instead-calls-one-two-methods-insert-update"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb) ,
+                        ["described-wrapper-method-purpose-call-second-method-wrappers-used-hide-abstract-details"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb) ] } &#x1F3C1;
 
-						- [{find}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb)
-						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb)
+                        - { [&#x00A9; "**find**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb) : &#x1F4CC;<br /> [
+                        ["method-find-data-collection-syntax-optional-parameter-query-optional-parameter-projection"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb) ,
+                        ["find-all-documents-method-find-no-parameters-or-empty-json-object"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb) ,
+                        ["must-specify-where-documents-sought-matched-collection"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb) ,
+                        ["must-specify-database-save-to-db-reference-current-database"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb) ,
+                        ["mysql-can-limit-number-rows-returned"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb) ,
+                        ["mongodb-also-limit-documents-returned"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb) ,
+                        ["method-find-get-certain-documents-matching-query-supplying-query-parameter-json-object-name-value-pair"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb) ,
+                        ["query-similar-to-smaller-document-matching-name-value-associated"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb) ,
+                        ["query-parameter-only-find-documents-name-value-pair"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb) ,
+                        ["query-parameter-operator-and-specify-array-items-true"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb) ,
+                        ["query-parameter-operator-or"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb) ,
+                        ["query-parameter-operator-in-selects-documents-whereby-attribute-value-equals-any-value-specified-array"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb) ] } &#x1F3C1;
 
-                            - [{projection}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find-projection.ipynb)
-                            &#x1F4CC;
-                            [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find-projection.ipynb)
+                            - { [&#x00A9; "**projection**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find-projection.ipynb) : &#x1F4CC;<br /> [
+                            ["method-find-syntax-optional-parameter-query-optional-parameter-projection"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find-projection.ipynb) ,
+                            ["projection-determines-which-attributes-returned-matching-documents"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find-projection.ipynb) ,
+                            ["return-only-attribute-of-each-matching-document-has-attribute-operator-greater-than"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find-projection.ipynb) ,
+                            ["passing-two-parameters-method-find"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find-projection.ipynb) ,
+                            ["first-parameter-query-match-all-documents-where-attribute-operator-gt-greater-than"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find-projection.ipynb) ,
+                            ["second-parameter-projection-states-which-attributes-to-return"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find-projection.ipynb) ,
+                            ["common-values-projection-1-or-true-return-0-or-false-not-return"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find-projection.ipynb) ,
+                            ["projection-similar-to-mysql-clause-SELECT"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find-projection.ipynb) ,
+                            ["attribute-always-returned-unless-specified-be-omitted-in-projection"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find-projection.ipynb) ,
+                            ["return-only-attributes-of-all-documents-collection-method-find-parameter-query-empty-match-all"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find-projection.ipynb) ] } &#x1F3C1;
 
-						- [{findone}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-findone.ipynb)
-						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-findone.ipynb)
+                        - { [&#x00A9; "**findone**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-findone.ipynb) : &#x1F4CC;<br /> [
+                        ["method-findOne-only-one-document-matches-query"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-findone.ipynb) ,
+                        ["returns-first-document"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-findone.ipynb) ,
+                        ["returned-based-order-documents-database-interval-implementation-each-time-different-document-could-be-returned"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-findone.ipynb) ,
+                        ["return-all-documents-query-match-all-documents-where-attribute-name-operator-exists"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-findone.ipynb) ,
+                        ["operator-exists-tests-path-specified-attribute-name-exists-document"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-findone.ipynb) ,
+                        ["return-first-method-findOne-document-matches-query"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-findone.ipynb) ,
+                        ["return-specific-order-method-sort-given-method-findOne-only-returns-single-document-cannot-use-method-sort"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-findone.ipynb) ] } &#x1F3C1;
 
-                        - [{pretty}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-pretty.ipynb)
-                        &#x1F4CC;
-                        [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-pretty.ipynb)
+                        - { [&#x00A9; "**pretty**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-pretty.ipynb) : &#x1F4CC;<br />
+                        ["method-pretty-readability"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-pretty.ipynb) } &#x1F3C1;
 
-						- [{sort}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-sort.ipynb)
-						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-sort.ipynb)
+                        - { [&#x00A9; "**sort**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-sort.ipynb) : &#x1F4CC;<br /> [
+                        ["method-sort-return-specific-order-parameter-query-matches-existing-documents"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-sort.ipynb) ,
+                        ["when-sort-performed-attribute-not-an-index-sorts-result-memory"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-sort.ipynb) ,
+                        ["sort-result-memory-consumption-more-than-32MB-aborts-sort-avoid-error-create-index-supporting-sort-operation"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-sort.ipynb) ,
+                        ["return-documents-have-attribute-name-operator-exists-collection"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-sort.ipynb) ,
+                        ["return-documents-ascending-alphabetically-order-attribute-name"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-sort.ipynb) ,
+                        ["within-order-descend-by-order-attribute-name"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-sort.ipynb) ,
+                        ["method-sort-parameter-name-to-sort-on-value-1-ascending-value-minus-1-descending"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-sort.ipynb) ] } &#x1F3C1;
 
-						- [{insert}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-insert.ipynb)
-						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-insert.ipynb)
+                        - { [&#x00A9; "**insert**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-insert.ipynb) : &#x1F4CC;<br /> [
+                        ["method-insert-inserts-documents-into-collection"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-insert.ipynb) ,
+                        ["insert-into-collection-returns-error-duplicate-key-existing"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-insert.ipynb) ,
+                        ["document-name-underscore-id-value-already-exists-collection"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-insert.ipynb) ,
+                        ["collection-remains-unchanged"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-insert.ipynb) ,
+                        ["insert-multiple-documents-collection-pass-into-method-insert-array-documents"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-insert.ipynb) ,
+                        ["array-ordered-collection-data-square-brackets"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-insert.ipynb) ,
+                        ["array-first-element-document"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-insert.ipynb) ,
+                        ["array-second-element-document"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-insert.ipynb) ,
+                        ["mongodb-schemaless-database-attributes-do-not-have-to-be-same"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-insert.ipynb) ,
+                        ["elements-array-separated-comma"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-insert.ipynb) ] } &#x1F3C1;
 
-						- [{update}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb)
-						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb)
+                        - { [&#x00A9; "**update**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) : &#x1F4CC;<br /> [
+                        ["method-update-modifies-documents-collection"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) ,
+                        ["parameter-query-selection-criteria-updated"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) ,
+                        ["parameter-update-modification-be-applied"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) ,
+                        ["optional-parameter-options-used-change-way-method-update-works"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) ,
+                        ["update-documents-name-value-name-value-both-have-address-attribute-name-value"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) ,
+                        ["first-parameter-query-find-all-documents-operator-or-name-value-name-value"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) ,
+                        ["operator-or-evaluates-one-more-expressions-returns-true-if-any-expressions-true"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) ,
+                        ["undesirable-output-optional-parameter-can-change-default-behaviour-method-update"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) ,
+                        ["optional-parameter-multi-default-set-false-only-first-document-updated"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) ,
+                        ["second-parameter-update-modification-applied-operator-set-replaces-value-attribute-with-specified-value"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) ,
+                        ["if-attribute-does-not-exist-operator-set-adds-new-attribute-with-specified-value"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) ,
+                        ["optional-parameter-options-change-default-behaviour-method-update"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) ,
+                        ["supply-values-parameter-options-multi-set-true-method-update-modifies-all-documents-that-satisfies-criteria-query"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) ,
+                        ["documents-matching-query-have-new-attribute-name-value"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) ,
+                        ["add-attribute-name-value-to-all-documents-whereby-name-value-operator-gt-greater-than"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) ,
+                        ["parameter-query-none-exist-create-new-document-with-attribute-name-value"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) ,
+                        ["parameter-update-contains-document-operator-set-add-new-attribute-if-not-already-exist"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) ,
+                        ["parameter-options-multi-true-update-all-documents-match-query"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) ,
+                        ["upsert-true-if-no-documents-match-query-create-new-document-based-parameter-update"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) ,
+                        ["no-documents-match-parameter-query"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) ,
+                        ["options-upsert-true-new-document-created-with-name-value"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) ] } &#x1F3C1;
 
-						- [{deleteOne}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteOne.ipynb)
-						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteOne.ipynb)
+                        - { [&#x00A9; "**deleteOne**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteOne.ipynb) : &#x1F4CC;<br /> [
+                        ["method-deleteOne-removes-single-document-collection"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteOne.ipynb) ,
+                        ["delete-single-document-whereby-attribute-name-value-operator-lt-less-than"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteOne.ipynb) ,
+                        ["deletes-only-one-document"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteOne.ipynb) ] } &#x1F3C1;
 
-						- [{deleteMany}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteMany.ipynb)
-						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteMany.ipynb)
+                        - { [&#x00A9; "**deleteMany**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteMany.ipynb) : &#x1F4CC;<br /> [
+                        ["method-deleteMany-removes-all-documents-that-match-query-from-collection"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteMany.ipynb) ,
+                        ["delete-all-attributes-whereby-name-value-operator-lt-less-than"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteMany.ipynb) ] } &#x1F3C1;
 
-						- [{aggregate}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate.ipynb)
-						&#x1F4CC;
-						[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate.ipynb)
+                        - { ["**aggregate**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate.ipynb) : &#x1F4CC;<br /> [
+                        ["method-aggregate-calculates-aggregate-values-data-collection"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate.ipynb) ,
+                        ["aggregate-values-min-max-sum-avg"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate.ipynb) ,
+                        ["parameter-pipeline-stages-array-aggregation-operations"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate.ipynb) ,
+                        ["optional-parameter-options-operators-used-change-way-method-aggregation-works"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate.ipynb) ] } &#x1F3C1;
 
 							- [{pipeline}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-intentionally-blank.ipynb)
 							&#x26AA;
 
-								- [{$group}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-group.ipynb)
-								&#x1F4CC;
-								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-group.ipynb)
+                                - { [&#x00A9; "**$group**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-group.ipynb) : &#x1F4CC;<br /> [
+                                ["method-aggregate-pipeline-stages-group-mysql-GROUP-BY-equivalent"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-group.ipynb) ,
+                                ["method-aggregate-pipeline-stages-name-group"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-group.ipynb) ,
+                                ["value-document"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-group.ipynb) ,
+                                ["name-underscore-id-mandatory-value-null-refers-attribute-to-group-by-not-grouping-by-any-all"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-group.ipynb) ,
+                                ["specify-string-displayed-as"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-group.ipynb) ,
+                                ["name-aggregation-operator-avg-value-attribute-prefixed-dollar-symbol"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-group.ipynb) ] } &#x1F3C1;
 
-								- [{$sort}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb)
-								&#x1F4CC;
-								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb)
+                                - { [&#x00A9; "**$sort**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb) : &#x1F4CC;<br /> [
+                                ["method-aggregate-pipeline-stages-sort"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb) ,
+                                ["obtain-maximum-per-group-method-aggregate-pipeline-stages-name-group"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb) ,
+                                ["value-document"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb) ,
+                                ["name-underscore-id-mandatory-value-null-or-attribute-prefixed-dollar-symbol"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb) ,
+                                ["group-by-attribute-value"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb) ,
+                                ["specify-string-displayed-as"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb) ,
+                                ["name-aggregation-operator-max-value-attribute-prefixed-dollar-symbol"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb) ,
+                                ["sort-result-returned-group"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb)
+                                ["sort-ascending-name-value-1-defined-pipeline-stages-group-as-the-attribute"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb) ] } &#x1F3C1;
 
 							- [{operator}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-intentionally-blank.ipynb)
 							&#x26AA;
 
-								- [{$avg}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-avg.ipynb)
-								&#x1F4CC;
-								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-avg.ipynb)
+                                - { ["**$avg**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-avg.ipynb) : &#x1F4CC;<br />
+                                ["aggregate-$group"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-avg.ipynb) } &#x1F3C1;
 
-								- [{$max}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-max.ipynb)
-								&#x1F4CC;
-								[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-max.ipynb)
+                                - { ["**$max**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-max.ipynb) : &#x1F4CC;<br />
+                                ["aggregate-$sort"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-max.ipynb) } &#x1F3C1;
 
-					- [{indexing}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb)
-					&#x1F4CC;
-					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb)
+                    - { [&#x00A9; "**indexing**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) : &#x1F4CC;<br /> [
+                    ["consider-collection-had-five-million-documents"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["return-all-documents-whereby-attribute-name-value-greater-than"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["mongodb-gets-first-document-checks-if-attribute-name-value-greater-than-if-so-return-if-not-ignore-move-next-document"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["repeat-until-all-documents-checked-take-long-time"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["mongodb-goes-to-database-reads-five-million-documents-checking-attribute-name-value-greater-than"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["if-documents-are-based-across-multiple-shards-process-could-take-longer"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["solution-reading-every-single-document-collection-use-indexing"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["supports-efficient-execution-queries-otherwise-perform-collection-scan-to-select-documents-match-query"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["indexes-special-data-structures-store-small-portion-collection"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["data-set-up-easy-traverse-form-indexes-hold-mappings-attribute-values-to-document-locations"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["documents-stored-at-disk-locations"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["knowing-lot-of-queries-performed-on-attribute-name-can-set-attribute-name-as-index"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["mongodb-creates-index-data-structure-attribute-name"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["the-index-stores-value-specific-attribute-or-set-of-attributes-ordered-attribute-value"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["ordering-index-entry-supports-equality-matches-efficiently-and-range-based-query-operations"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["index-attribute-name-return-all-documents-name-value-greater-than"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["go-next-entry-index-table-after-value-get-locations-of-all-documents-exist-index-table-read-them"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["to-return-only-documents-attribute-name-value-is-can-check-if-value-exist-name-index-table-if-so-read-documents-associated-addresses"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["indexing-saves-time-not-doing-collection-scan-not-reading-every-single-document-collection"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["indexing-should-used-in-moderation-querying-data-faster-indexing"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["writing-document-has-index-field-adding-document-name-value"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["must-update-attribute-name-index-table-attribute-name-order"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["new-document-name-value-first-a-place-given-value-index-table-second-as-well-as-write-value-table-all-this-extra-processing-needs-performed-if-attribute-is-index"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["deleting-document-name-value-location"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["as-well-as-deleting-document-also-update-name-index-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
+                    ["having-too-many-or-too-complex-indexes-on-documents-also-negatively-impact-performance"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ] } &#x1F3C1;
 
 						- [{method}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-intentionally-blank.ipynb)
 						&#x26AA;
 
-							- [{createIndex}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-createIndex.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-createIndex.ipynb)
+                            - { [&#x00A9; "**createIndex**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-createIndex.ipynb) : &#x1F4CC;<br /> [
+                            ["method-createIndex-create-index-on-attribute-other-than-name-underscore-id"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-createIndex.ipynb) ,
+                            ["create-index-ascending-on-attribute-name"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-createIndex.ipynb) ,
+                            ["call-method-createIndex-on-collection"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-createIndex.ipynb) ,
+                            ["pass-parameter-attribute-name"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-createIndex.ipynb) ,
+                            ["parameter-indicate-sort-on-attribute-ascending-order"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-createIndex.ipynb) ] } &#x1F3C1;
 
-                            - [{getIndexes}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-getIndexes.ipynb)
-                            &#x1F4CC;
-                            [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-getIndexes.ipynb)
+                            - { [&#x00A9; "**getIndexes**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-getIndexes.ipynb) : &#x1F4CC;<br /> [
+                            ["method-getIndexes-find-indexes-on-collection-default-index-document-name-underscore-id"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-getIndexes.ipynb) ,
+                            ["format-index-field-underscore-id-order-of-indexes-ascending-1-descending-minus-1"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-getIndexes.ipynb) ] } &#x1F3C1;
 
-							- [{dropIndex}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-dropIndex.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-dropIndex.ipynb)
+                            - { [&#x00A9; "**dropIndex**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-dropIndex.ipynb) : &#x1F4CC;<br />
+                            ["method-dropIndex-remove-an-index-on-attribute-other-than-name-underscore-id"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-dropIndex.ipynb) } &#x1F3C1;
 
 					- [{operator}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator.ipynb)
 					&#x1F4CC;
@@ -1833,42 +1945,35 @@
 						- [{query-logical}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-intentionally-blank.ipynb)
 						&#x26AA;
 
-							- [{$and}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-and.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-and.ipynb)
+                            - { ["**$and**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-and.ipynb) : &#x1F4CC;<br />
+                            ["find"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-and.ipynb) } &#x1F3C1;
 
-							- [{$or}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-or.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-or.ipynb)
+                            - { ["**$or**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-or.ipynb) : &#x1F4CC;<br />
+                            ["find-update-IN"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-or.ipynb) } &#x1F3C1;
 
 						- [{query-comparison}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-intentionally-blank.ipynb)
 						&#x26AA;
 
-							- [{$in}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-in.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-in.ipynb)
+                            - { ["**$in**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-in.ipynb) : &#x1F4CC;<br />
+                            ["find"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-in.ipynb) } &#x1F3C1;
 
-							- [{$gt}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-gt.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-gt.ipynb)
+                            - { ["**$gt**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-gt.ipynb) : &#x1F4CC;<br />
+                            ["projection-update"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-gt.ipynb) } &#x1F3C1;
 
-							- [{$lt}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-lt.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-lt.ipynb)
+                            - { ["**$lt**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-lt.ipynb) : &#x1F4CC;<br />
+                            ["deleteOne-deleteMany"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-lt.ipynb) } &#x1F3C1;
 
 						- [{query-element}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-intentionally-blank.ipynb)
 						&#x26AA;
 
-							- [{$set}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-set.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-set.ipynb)
+                            - { ["**$set**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-set.ipynb) : &#x1F4CC;<br />
+                            ["update"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-set.ipynb) } &#x1F3C1;
 
 						- [{update-field}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-intentionally-blank.ipynb)
 						&#x26AA;
-                        
-							- [{$exists}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-exists.ipynb)
-							&#x1F4CC;
-							[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-exists.ipynb)
+
+                            - { ["**$exists**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-exists.ipynb) : &#x1F4CC;<br />
+                            ["findone-sort"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-exists.ipynb) } &#x1F3C1;
 
 </details>
 
