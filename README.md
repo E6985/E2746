@@ -485,8 +485,8 @@
             ["library-authors-name-sort-key-book-itself-contents-satellite-data"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-key.ipynb) ,
             ["search-engine-sort-key-score-satellite-data-everything-search-engine-stored-specific-webpage"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-key.ipynb) ] } &#x1F3C1;
 
-            - [{algorithms}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-intentionally-blank.ipynb)
-            &#x26AA;
+            - { ["**algorithms**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-intentionally-blank.ipynb) :
+            &#x26AA; }
 
                 - { ["**bubble**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble.ipynb) : &#x1F4CC;<br /> [ 
                 ["comparison-based-named-larger-values-array-bubble-end-sorting-takes-place"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble.ipynb) ,
@@ -522,11 +522,11 @@
                     ["comparing-element-neighbour-right-out-of-order-swap-elements-otherwise-leave-same-index"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-process.ipynb) ,
                     ["sorted-partition-right-four-elements-sorted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-process.ipynb) ] } &#x1F3C1;
 
-                    - [{code}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-code.ipynb)
+                    - { ["**code**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-code.ipynb)
                     &#x1F530;
                     [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-code.ipynb)
 
-                        - [{analyse}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-code-analyse.ipynb)
+                        - { ["**analyse**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-code-analyse.ipynb)
                         &#x1F530;
                         [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-bubble-code-analyse.ipynb)
 
@@ -558,11 +558,11 @@
                     ["search-position-index-2-through-full-array-third-index-2-swap-smallest-element"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-process.ipynb) ,
                     ["search-position-index-3-through-full-array-fourth-index-3-swap-smallest-element"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-process.ipynb) ] } &#x1F3C1;
 
-                    - [{code}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-code.ipynb)
+                    - { ["**code**""](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-code.ipynb)
                     &#x1F530;
                     [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-code.ipynb)
 
-                        - [{analyse}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-code-analyse.ipynb)
+                        - { ["**analyse**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-code-analyse.ipynb)
                         &#x1F530;
                         [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-selection-code-analyse.ipynb)
 
@@ -605,11 +605,11 @@
                     ["all-elements-left-greater-key-value-move-right-one-index-insert-key"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-process.ipynb) ,
                     ["array-sorted-each-step-head-sorted-subarray-left-tail-unsorted-subarray-right"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-process.ipynb) ] } &#x1F3C1;
 
-                    - [{code}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-code.ipynb)
+                    - { ["**code**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-code.ipynb)
                     &#x1F530;
                     [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-code.ipynb)
 
-                        - [{analyse}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-code-analyse.ipynb)
+                        - { ["**analyse**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-code-analyse.ipynb)
                         &#x1F530;
                         [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-insertion-code-analyse.ipynb)
 
@@ -647,11 +647,11 @@
                     ["tree-structure-final-call-merge-during-merge-step-all-elements-inserted-correct-index"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-process.ipynb) ,
                     ["sorting-expensive-active-stack-frames-applied-disadvantage-recursive-approach"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-process.ipynb) ] } &#x1F3C1;
 
-                    - [{code}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-code.ipynb)
+                    - { ["**code**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-code.ipynb)
                     &#x1F530;
                     [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-code.ipynb)
 
-                        - [{analyse}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-code-analyse.ipynb)
+                        - { ["**analyse**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-code-analyse.ipynb)
                         &#x1F530;
                         [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-merge-code-analyse.ipynb)
 
@@ -713,11 +713,11 @@
                     ["step-three-apply-steps-one-two-recursively-one-element-remain-base-case"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ,
                     ["array-sorted"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-process.ipynb) ] } &#x1F3C1;
 
-                    - [{code}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-code.ipynb)
+                    - { ["**code**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-code.ipynb)
                     &#x1F530;
                     [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-code.ipynb)
 
-                        - [{analyse}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-code-analyse.ipynb)
+                        - { ["**analyse**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-code-analyse.ipynb)
                         &#x1F530;
                         [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-comparison-algorithms-quick-code-analyse.ipynb)
 
@@ -737,8 +737,8 @@
         ["know-data-certain-range-some-kind-distribution"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-non-comparison.ipynb) ,
         ["linear-clearly-minimum-sorting-time-possible-examine-every-element-least-once"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-non-comparison.ipynb) ] } &#x1F3C1;
 
-            - [{algorithms}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-non-comparison-algorithms-intentionally-blank.ipynb)
-            &#x26AA;
+            - { ["**algorithms**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-non-comparison-algorithms-intentionally-blank.ipynb) :
+            &#x26AA; }
 
                 - { ["**counting**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting.ipynb) : &#x1F4CC;<br /> [ 
                 ["non-comparison-based-stable-Seaward-also-radix-sort"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-non-comparison-algorithms-counting.ipynb) ,
@@ -821,8 +821,8 @@
         ["insertion-sort-speed-up-getting-down-level-recursion-only-very-few-elements-insertion-sort-performs-better-small-data-sets"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid.ipynb) ,
         ["insertion-sort-prime-candidate-part-hybrid-algorithm"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid.ipynb) ] } &#x1F3C1;
 
-            - [{algorithms}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-intentionally-blank.ipynb)
-            &#x26AA;
+            - { ["**algorithms**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-intentionally-blank.ipynb) :
+            &#x26AA; }
 
                 - { ["**intro**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-intro.ipynb) : &#x1F4CC;<br /> [ 
                 ["hybrid-combine-properties-two-different-algorithms-make-better-algorithm-aggregate-introsort-unstable"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/sorting-algorithm-comparator-hybrid-algorithms-intro.ipynb) ,
@@ -940,11 +940,11 @@
         ["last-index-not-target-value-for-loop-terminates-without-returning-index-value"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-process.ipynb) ,
         ["iteration-complete-not-found-target-value-return-value-minus-one-flag-indicates-target-value-not-exist"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-process.ipynb) ] } &#x1F3C1;
 
-        - [{code}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-code.ipynb)
+        - { ["**code**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-code.ipynb)
         &#x1F530;
         [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-code.ipynb)
 
-            - [{analyse}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-code-analyse.ipynb)
+            - { ["**analyse**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-code-analyse.ipynb)
             &#x1F530;
             [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-linear-code-analyse.ipynb)
 
@@ -978,17 +978,17 @@
         ["down-to-subarray-one-element"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-process.ipynb) ,
         ["left-right-not-equal-break-out-while-loop-stop-recursion-occurring-base-case-returned-minus-one-not-find-target-value"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-process.ipynb) ] } &#x1F3C1;
         
-        - [{code}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-code.ipynb)
+        - { ["**code**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-code.ipynb)
         &#x1F530;
         [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-code.ipynb)
 
-            - [{analyse}](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-code-analyse.ipynb)
+            - { ["**analyse**"](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-code-analyse.ipynb)
             &#x1F530;
             [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/cta/search-types-binary-code-analyse.ipynb)
 
 </details>
 
-- [{lorem_ipsum}](https://github.com/E6985/E2746/blob/master/src/lorem_ipsum.ipynb)
+- { ["**lorem_ipsum**"](https://github.com/E6985/E2746/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
 
     &#x23F9;
 
@@ -1206,8 +1206,8 @@
 ["comparing-storage-information-spreadsheet-opposed-relational-similarities-exist-both-columnns-rows-more-efficiently-organised-database"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb) ,
 ["responsibility-managing-efficiently-consistently-dbms"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb) ] } &#x1F3C1;
 
-- [{language}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-intentionally-blank.ipynb)
-&#x26AA;
+- { ["**language**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-intentionally-blank.ipynb) :
+&#x26AA; }
 
     - { ["**SQL**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb) : &#x1F4CC;<br /> [
     ["structured-query-language-standard-relational-language-different-databases-use-propreitary-extensions-top-standard"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb) ,
@@ -1238,8 +1238,8 @@
             ["data-stored-tables-made-up-columns-each-store-different-data-type"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-data-types.ipynb) ,
             ["determine-data-type-each-column-should-hold"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-data-types.ipynb) ] } &#x1F3C1;
 
-			- [{command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-intentionally-blank.ipynb)
-			&#x26AA;
+			- { ["**command**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-intentionally-blank.ipynb) :
+            &#x26AA; }
 
                 - { [&#x00A9; "**create-database**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-DATABASE.ipynb) :
                 ["&#x00A9;"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-DATABASE.ipynb) } &#x1F3C1;
@@ -1270,8 +1270,8 @@
                 ["command-DESCRIBE-not-specify-within-table-column-foreign-key-referencing-another-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-CREATE-TABLE.ipynb) ,
                 ["command-SHOW-CREATE-TABLE-same-information-command-DESCRIBE-different-format-plus-foreign-key"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-CREATE-TABLE.ipynb) ] } &#x1F3C1;
 
-		- [{C_R_UD-read-command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-intentionally-blank.ipynb)
-		&#x26AA;
+		- { ["**C_R_UD-read-command**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-intentionally-blank.ipynb) :
+        &#x26AA; }
 
             - { [&#x00A9; "**SELECT**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT.ipynb) : &#x1F4CC;<br /> [
             ["command-workhorse-sql"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT.ipynb) ,
@@ -1372,8 +1372,8 @@
                     ["subquery-replaced-result-subquery"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb) ,
                     ["outermost-query-columns-clause-WHERE-column-operator-IN-result-previous-subquery"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb) ] } &#x1F3C1;
 
-		- [{\_C_RUD-create-command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-intentionally-blank.ipynb)
-		&#x26AA;
+		- { ["**\_C_RUD-create-command**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-intentionally-blank.ipynb) :
+        &#x26AA; }
 
             - { [&#x00A9; "**INSERT-INTO**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb) : &#x1F4CC;<br /> [
             ["add-information-databases"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb) ,
@@ -1389,8 +1389,8 @@
             ["schema-Default-no-values-specified-during-insert-column-defaults-to-value"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb) ,
             ["adding-row-not-provide-all-data-want-add-update-later"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb) ] } &#x1F3C1;
 
-		- [{CR_U_D-update-command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-intentionally-blank.ipynb)
-		&#x26AA;
+		- { ["**CR_U_D-update-command**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-intentionally-blank.ipynb) :
+        &#x26AA; }
 
             - { [&#x00A9; "**UPDATE-SET**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb) : &#x1F4CC;<br /> [
             ["update-existing-rows-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb) ,
@@ -1400,8 +1400,8 @@
             ["function-IF-three-expressions-first-test-True-False-second-value-return-first-True-third-value-return-first-False"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb) ,
             ["function-CONCAT-joins-two-strings-two-parameters-first-result-IF-second-original-column"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb) ] } &#x1F3C1;
 
-		- [{CRU_D_-delete-command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-intentionally-blank.ipynb)
-		&#x26AA;
+		- { ["**CRU_D_-delete-command**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-intentionally-blank.ipynb) :
+        &#x26AA; }
 
             - { [&#x00A9; "**DELETE**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE.ipynb) : &#x1F4CC;<br /> [
             ["remove-existing-rows-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE.ipynb) ,
@@ -1459,8 +1459,8 @@
         - { ["**built-in**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in.ipynb) : &#x1F4CC;<br />
         ["mysql-built-in-functions-different-types-manipulations-categorised"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in.ipynb) } &#x1F3C1;
 
-			- [{string}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-intentionally-blank.ipynb)
-			&#x26AA;
+			- { ["**string**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-intentionally-blank.ipynb) :
+            &#x26AA; }
 
                 - { [&#x00A9; "**UPPER**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-UPPER.ipynb) : &#x1F4CC;<br />
                 ["returns-uppercase-version-string"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-UPPER.ipynb) } &#x1F3C1;
@@ -1489,8 +1489,8 @@
                 ["function-IF-three-expressions-first-test-True-False-second-value-return-first-True-third-value-return-first-False"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-CONCAT.ipynb) ,
                 ["function-CONCAT-joins-two-strings-parameters-first-result-function-IF-second-original-column"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-CONCAT.ipynb) ] } &#x1F3C1;
 
-			- [{numeric}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-intentionally-blank.ipynb)
-			&#x26AA;
+			- { ["**numeric**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-intentionally-blank.ipynb) :
+            &#x26AA; }
 
                 - { [&#x00A9; "**SQRT**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-SQRT.ipynb) : &#x1F4CC;<br />
                 ["returns-square-root-number"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-SQRT.ipynb) } &#x1F3C1;
@@ -1500,8 +1500,8 @@
                 ["specified-parameter-number-specified-number-decimal-places"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-ROUND.ipynb) ,
                 ["no-decimal-places-specified-default-nearest-integer"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-ROUND.ipynb) ] } &#x1F3C1;
 
-			- [{date}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-intentionally-blank.ipynb)
-			&#x26AA;
+			- { ["**date**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-intentionally-blank.ipynb) :
+            &#x26AA; }
 
                 - { [&#x00A9; "**DATEDIFF**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATEDIFF.ipynb) : &#x1F4CC;<br />
                 ["returns-number-days-between-two-dates"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATEDIFF.ipynb) } &#x1F3C1;
@@ -1536,8 +1536,8 @@
                     ["applying-extra-condition-interested-grouping-column"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-GROUP-BY-HAVING.ipynb) ,
                     ["clause-HAVING-filter-condition-each-group-rows-defined-by-clause-GROUP-BY"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-GROUP-BY-HAVING.ipynb) ] } &#x1F3C1;
 
-			- [{information}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-intentionally-blank.ipynb)
-			&#x26AA;
+			- { ["**information**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-intentionally-blank.ipynb) :
+            &#x26AA; }
 
                 - { [&#x00A9; "**DATABASE**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-DATABASE.ipynb) : &#x1F4CC;<br />
                 ["mysql-information-function-DATABASE-returns-name-current-database"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-DATABASE.ipynb) } &#x1F3C1;
@@ -1589,8 +1589,7 @@
             - { [&#x00A9; "**information_schema**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-information_schema.ipynb) : &#x1F4CC;<br />
             ["functions-procedures-found-table-routines-database-information_schema"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-information_schema.ipynb) } &#x1F3C1;
 
-			- [{command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-intentionally-blank.ipynb)
-			&#x26AA;
+			- { ["**command**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-intentionally-blank.ipynb) : &#x26AA; }
 
                 - { [&#x00A9; "**SHOW-CREATE-FUNCTION**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-SHOW-CREATE-FUNCTION.ipynb) : &#x1F4CC;<br />
                 ["review-code-function-procedure-SHOW-CREATE-FUNCTION-SHOW-CREATE-PROCEDURE"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-SHOW-CREATE-FUNCTION.ipynb) } &#x1F3C1;
@@ -1614,8 +1613,8 @@
                 - { [&#x00A9; "**information_schema**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-information_schema.ipynb) : &#x1F4CC;<br />
                 ["procedures-functions-found-table-routines-database-information_schema"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-information_schema.ipynb) } &#x1F3C1;
 
-				- [{command}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-intentionally-blank.ipynb)
-				&#x26AA;
+				- [{command](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-intentionally-blank.ipynb) :
+                &#x26AA; }
 
                     - { [&#x00A9; "**SHOW-CREATE-PROCEDURE**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-SHOW-CREATE-PROCEDURE.ipynb) : &#x1F4CC;<br />
                     ["review-code-procedure-function-SHOW-CREATE-PROCEDURE-SHOW-CREATE-FUNCTION"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-SHOW-CREATE-PROCEDURE.ipynb) } &#x1F3C1;
@@ -1626,7 +1625,7 @@
 
 </details>
 
-<details open>
+<details close>
     <summary>non-relational</summary>
 
 > { ["**non-relational**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational.ipynb) : &#x1F4CC;<br /> [
@@ -1661,8 +1660,8 @@
     ["if-tables-referenced-transaction-different-servers-or-each-referenced-tables-itself-spread-across-multiple-servers-problem-getting-locks-tables-keeping-them"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability-transaction.ipynb) ,
     ["waiting-lock-another-table-another-server-scaling-vertically-horizontally-good-solution-expanding-relational-database-not-designed-cope-amount-data-generated-nowadays"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-scalability-transaction.ipynb) ] } &#x1F3C1;
 
-- [{NoSQL}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-intentionally-blank.ipynb)
-&#x26AA;
+- { ["**NoSQL**""](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-intentionally-blank.ipynb) :
+&#x26AA; }
 
     - { [&#x00A9; "**MongoDB**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) : &#x1F4CC;<br /> [
     ["non-relational-nosql-mongodb-document-database"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) ,
@@ -1699,8 +1698,8 @@
             ["application-connect-site-using-data-or-combine-other-sites-obtain-new-innovative-information"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-use.ipynb) ,
             ["json-widely-used-internet-for-data-exchange"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-use.ipynb) ] } &#x1F3C1;
 
-			- [{data-types}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-intentionally-blank.ipynb)
-			&#x26AA;
+			- { ["**data-types**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-intentionally-blank.ipynb) :
+            &#x26AA; }
 
                 - { [&#x00A9; "**number**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-number.ipynb) : &#x1F4CC;<br />
                 ["data-type-number-json-object-between-curly-brackets-name-value-pair"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-number.ipynb) } &#x1F3C1;
@@ -1731,8 +1730,8 @@
                     ["not-provided-automatically-generated"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-rules.ipynb) ,
                     ["cannot-be-array"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-rules.ipynb) } &#x1F3C1;
 
-					- [{attribute}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-intentionally-blank.ipynb)
-					&#x26AA;
+					- { ["**attribute**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-intentionally-blank.ipynb) :
+                    &#x26AA; }
 
                         - { [&#x00A9; "**\_id**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) : &#x1F4CC;<br /> [
                         ["underscore-id-mandatory-part-document"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) ,
@@ -1749,8 +1748,7 @@
                         ["underscore-id-analogous-relational-schema-Extra-auto_increment-primary-key-mysql"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) ,
                         ["not-care-what-it-is-once-its-unique"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) ] } &#x1F3C1;
 
-					- [{method}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-intentionally-blank.ipynb)
-					&#x26AA;
+					- { ["**method**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-intentionally-blank.ipynb) : &#x26AA; }
 
                         - { [&#x00A9; "**save**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb) : &#x1F4CC;<br /> [
                         ["relational-row-mongodb-document-analogous-json-object-name-value-pairs-separated-commas-surrounded-curly-braces"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb) ,
@@ -1862,8 +1860,8 @@
                         ["parameter-pipeline-stages-array-aggregation-operations"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate.ipynb) ,
                         ["optional-parameter-options-operators-used-change-way-method-aggregation-works"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate.ipynb) ] } &#x1F3C1;
 
-							- [{pipeline}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-intentionally-blank.ipynb)
-							&#x26AA;
+							- [{"**pipeline**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-intentionally-blank.ipynb) :
+                            &#x26AA; }
 
                                 - { [&#x00A9; "**$group**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-group.ipynb) : &#x1F4CC;<br /> [
                                 ["method-aggregate-pipeline-stages-group-mysql-GROUP-BY-equivalent"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-group.ipynb) ,
@@ -1884,8 +1882,8 @@
                                 ["sort-result-returned-group"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb)
                                 ["sort-ascending-name-value-1-defined-pipeline-stages-group-as-the-attribute"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb) ] } &#x1F3C1;
 
-							- [{operator}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-intentionally-blank.ipynb)
-							&#x26AA;
+							- { ["**operator**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-intentionally-blank.ipynb) :
+                            &#x26AA; }
 
                                 - { ["**$avg**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-avg.ipynb) : &#x1F4CC;<br />
                                 ["aggregate-$group"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-avg.ipynb) } &#x1F3C1;
@@ -1921,8 +1919,8 @@
                     ["as-well-as-deleting-document-also-update-name-index-table"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ,
                     ["having-too-many-or-too-complex-indexes-on-documents-also-negatively-impact-performance"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) ] } &#x1F3C1;
 
-						- [{method}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-intentionally-blank.ipynb)
-						&#x26AA;
+						- { ["**method**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-intentionally-blank.ipynb) :
+                        &#x26AA; }
 
                             - { [&#x00A9; "**createIndex**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-createIndex.ipynb) : &#x1F4CC;<br /> [
                             ["method-createIndex-create-index-on-attribute-other-than-name-underscore-id"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-createIndex.ipynb) ,
@@ -1938,21 +1936,21 @@
                             - { [&#x00A9; "**dropIndex**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-dropIndex.ipynb) : &#x1F4CC;<br />
                             ["method-dropIndex-remove-an-index-on-attribute-other-than-name-underscore-id"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-dropIndex.ipynb) } &#x1F3C1;
 
-					- [{operator}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator.ipynb)
+					- { ["**operator**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator.ipynb)
 					&#x1F4CC;
-					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator.ipynb)
+					[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator.ipynb) }
 
-						- [{query-logical}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-intentionally-blank.ipynb)
-						&#x26AA;
+						- { ["**query-logical**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-intentionally-blank.ipynb) :
+                        &#x26AA; }
 
                             - { ["**$and**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-and.ipynb) : &#x1F4CC;<br />
-                            ["find"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-and.ipynb) } &#x1F3C1;
+                            ["**find**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-and.ipynb) } &#x1F3C1;
 
                             - { ["**$or**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-or.ipynb) : &#x1F4CC;<br />
-                            ["find-update-IN"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-or.ipynb) } &#x1F3C1;
+                            [find-update-IN"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-or.ipynb) } &#x1F3C1;
 
-						- [{query-comparison}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-intentionally-blank.ipynb)
-						&#x26AA;
+						- [{query-comparison](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-intentionally-blank.ipynb) :
+                        &#x26AA; }
 
                             - { ["**$in**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-in.ipynb) : &#x1F4CC;<br />
                             ["find"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-in.ipynb) } &#x1F3C1;
@@ -1963,21 +1961,132 @@
                             - { ["**$lt**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-lt.ipynb) : &#x1F4CC;<br />
                             ["deleteOne-deleteMany"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-lt.ipynb) } &#x1F3C1;
 
-						- [{query-element}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-intentionally-blank.ipynb)
-						&#x26AA;
+						- { ["**query-element**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-intentionally-blank.ipynb) :
+                        &#x26AA; }
 
                             - { ["**$set**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-set.ipynb) : &#x1F4CC;<br />
                             ["update"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-set.ipynb) } &#x1F3C1;
 
-						- [{update-field}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-intentionally-blank.ipynb)
-						&#x26AA;
+						- { ["**update-field**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-intentionally-blank.ipynb) :
+                        &#x26AA; }
 
                             - { ["**$exists**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-exists.ipynb) : &#x1F4CC;<br />
                             ["findone-sort"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-exists.ipynb) } &#x1F3C1;
 
+    - { ["**lab**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-nosql-mongodb-lab.ipynb) : &#x1F530; 
+    [{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/data-database-types-non-relational-nosql-mongodb-lab.ipynb) }
+
 </details>
 
-- [{lorem_ipsum}](https://github.com/E6985/E2746/blob/master/src/lorem_ipsum.ipynb)
+<details open>
+    <summary>python</summary>
+
+> { ["**database**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database.ipynb) : &#x1F530; 
+[{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database.ipynb) }
+
+- { ["**object**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-object-intentionally-blank.ipynb) : &#x26AA; }
+
+    - { ["**keyword**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-object-keyword-intentionally-blank.ipynb) : &#x26AA; }
+
+        - { [&#x00A9; "**\_\_name\_\_**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-object-keyword-__name__.ipynb) : &#x1F530; 
+        [{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-object-keyword-__name__.ipynb) }
+
+        - { [&#x00A9; "**global**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-object-keyword-global.ipynb) : &#x1F530; 
+        [{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-object-keyword-global.ipynb) }
+
+- { ["**function**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-function-intentionally-blank.ipynb) : &#x26AA; }
+
+    - { ["**built-in**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-function-built-in-intentionally-blank.ipynb) : &#x26AA; }
+
+        - { [&#x00A9; "**\_\_main\_\_**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-function-built-in-__main__.ipynb) : &#x1F530; 
+        [{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-function-built-in-__main__.ipynb) }
+
+        - { [&#x00A9; "**input**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-function-built-in-input.ipynb) : &#x1F530; 
+        [{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-function-built-in-input.ipynb) }
+
+- { ["**walk-through**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-walk-through-intentionally-blank.ipynb) : &#x26AA; }
+
+    - { [&#x00A9; "**python-0.py**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-walk-through-python-0.ipynb) : &#x1F530; 
+    [{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-walk-through-python-0.ipynb) }
+
+        - { [&#x00A9; "**python-1.py**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-walk-through-python-1.ipynb) : &#x1F530; 
+        [{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-walk-through-python-1.ipynb) }
+
+            - { [&#x00A9; "**python-2.py**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-walk-through-python-2.ipynb) : &#x1F530; 
+            [{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-walk-through-python-2.ipynb) }
+
+                - { [&#x00A9; "**python-3.py**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-walk-through-python-3.ipynb) : &#x1F530; 
+                [{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-walk-through-python-3.ipynb) }
+
+- { ["**module**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module.ipynb) : &#x1F530; 
+[{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module.ipynb) }
+
+    - { ["**package**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package.ipynb) : &#x1F530; 
+    [{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package.ipynb) }
+
+        - { ["**PyMySQL**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-intentionally-blank.ipynb) : &#x26AA; }
+
+            - { ["**class**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-intentionally-blank.ipynb) : &#x26AA; }   
+
+                - { ["**connect**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-function-connect.ipynb) : &#x1F530; 
+                [{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect.ipynb) }
+
+                    - { ["**method**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-intentionally-blank.ipynb) : &#x26AA; } 
+
+                        - { ["**cursor**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor.ipynb) : &#x1F530; 
+                        [{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor.ipynb) }
+
+                            - { ["**method**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor-method-intentionally-blank.ipynb) : &#x26AA; }
+
+                                - { ["**execute**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor-method-execute.ipynb) :  &#x1F530; 
+                                [{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor-method-execute.ipynb) }
+
+                                - { ["**fetchone**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor-method-fetchone.ipynb) : &#x1F530; 
+                                [{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor-method-fetchone.ipynb) }
+
+                                - { ["**fetchmany**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor-method-fetchmany.ipynb) : &#x1F530; 
+                                [{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor-method-fetchmany.ipynb) }
+
+                                - { ["**fetchall**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor-method-fetchall.ipynb) : &#x1F530; 
+                                [{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor-method-fetchall.ipynb) }
+
+                        - { ["**commit**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-commit.ipynb) : &#x1F530; 
+                        [{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-commit.ipynb) }
+
+                        - { ["**rollback**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-rollback.ipynb) : &#x1F530; 
+                        [{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-rollback.ipynb) }
+
+        - { ["**C_R_UD-read-command**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-C_R_UD-read-command-intentionally-blank.ipynb) :
+        &#x26AA; }
+
+            - { ["**process**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-C_R_UD-read-command-process.ipynb) : &#x1F530; 
+            [{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-C_R_UD-read-command-process.ipynb) }
+
+                - { ["**walk-through**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-C_R_UD-read-command-process-walk-through-intentionally-blank.ipynb) : &#x26AA; } 
+
+                    - { [&#x00A9; "**python-mysql-0.py**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-C_R_UD-read-command-process-walk-through-python-mysql-0.ipynb) : &#x1F530; 
+                    [{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-C_R_UD-read-command-process-walk-through-python-mysql-0.ipynb) }
+
+        - { ["**CR_U_D-update-command**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-CR_U_D-update-command-intentionally-blank.ipynb) :
+        &#x26AA; }
+
+            - { ["**process**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-CR_U_D-read-command-process.ipynb) : &#x1F530; 
+            [{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-CR_U_D-read-command-process.ipynb) }
+
+                - { ["**walk-through**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-CR_U_D-read-command-process-walk-through-intentionally-blank.ipynb) : &#x26AA; } 
+
+                    - { [&#x00A9; "**python-mysql-1.py**" &#x00A9;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-CR_U_D-read-command-process-walk-through-python-mysql-1.ipynb) : &#x1F530; 
+                    [{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-CR_U_D-read-command-process-walk-through-python-mysql-1.ipynb) }
+
+        - { ["**CRU_D_-delete-command**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-CRU_D_-delete-command-intentionally-blank.ipynb) :
+        &#x26AA; }
+
+            - { ["**process**"](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-CRU_D_-read-command-process.ipynb) : &#x1F530; 
+            [{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/hdp/adb/python-database-CRU_D_-read-command-process.ipynb) }
+
+</details>
+
+- { ["**lorem_ipsum**"](https://github.com/E6985/E2746/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
 
     &#x23F9;
 
@@ -2016,24 +2125,24 @@
 ***
 
 <!-- ( ./par ) -->
-> [{paradigm}](https://github.com/E6985/E2746/blob/master/src/par/paradigm.ipynb)
+> [paradigm](https://github.com/E6985/E2746/blob/master/src/par/paradigm.ipynb)
 &#x1F530;
-[{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/par/paradigm.ipynb)
+[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/par/paradigm.ipynb)
 
 <!-- ( ./par ) -->
-- [{imperative}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative.ipynb)
+- [imperative](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative.ipynb)
 &#x1F530;
-[{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative.ipynb)
+[...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative.ipynb)
     
     <!-- ( ./par ) -->
-    > [{procedural}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative-procedural.ipynb)
+    > [procedural](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative-procedural.ipynb)
     &#x1F530;
-    [{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative-procedural.ipynb)
+    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative-procedural.ipynb)
 
     <!-- ( ./par ) -->
-    > [{object-oriented}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative-object-oriented.ipynb)
+    > [object-oriented](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative-object-oriented.ipynb)
     &#x1F530;
-    [{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative-object-oriented.ipynb)
+    [...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative-object-oriented.ipynb)
 
     <details>
         <summary>Python &#x26AA;</summary> 
@@ -2042,242 +2151,242 @@
     
     ***
 
-    - [{object}](https://github.com/E6985/E2746/blob/master/src/pyt/object.ipynb)
+    - [object](https://github.com/E6985/E2746/blob/master/src/pyt/object.ipynb)
     &#x1F530;
-    [{distinction}](https://github.com/E6985/E2746/blob/master/src/pyt/object-distinction.ipynb)
+    [distinction](https://github.com/E6985/E2746/blob/master/src/pyt/object-distinction.ipynb)
     &#x1F530;
-    [{variable}](https://github.com/E6985/E2746/blob/master/src/pyt/object-variable.ipynb)
+    [variable](https://github.com/E6985/E2746/blob/master/src/pyt/object-variable.ipynb)
     &#x1F530;
                 
-        - [{class}](https://github.com/E6985/E2746/blob/master/src/pyt/object-class.ipynb)
+        - [class](https://github.com/E6985/E2746/blob/master/src/pyt/object-class.ipynb)
         &#x1F530;
-        [{instantiation}](https://github.com/E6985/E2746/blob/master/src/pyt/object-class-instantiation.ipynb)
+        [instantiation](https://github.com/E6985/E2746/blob/master/src/pyt/object-class-instantiation.ipynb)
         &#x1F530;
             
-            - [{instance}](https://github.com/E6985/E2746/blob/master/src/pyt/object-class-instance.ipynb)
+            - [instance](https://github.com/E6985/E2746/blob/master/src/pyt/object-class-instance.ipynb)
             &#x1F530;
-            [{attribute}](https://github.com/E6985/E2746/blob/master/src/pyt/object-class-instance-attribute.ipynb)
+            [attribute](https://github.com/E6985/E2746/blob/master/src/pyt/object-class-instance-attribute.ipynb)
             &#x1F530;
-            [{method}](https://github.com/E6985/E2746/blob/master/src/pyt/object-class-instance-method.ipynb)
-            &#x1F530;
-
-            - [{inheritance}](https://github.com/E6985/E2746/blob/master/src/pyt/object-class-inheritance.ipynb)
+            [method](https://github.com/E6985/E2746/blob/master/src/pyt/object-class-instance-method.ipynb)
             &#x1F530;
 
-    - [{operator}](https://github.com/E6985/E2746/blob/master/src/pyt/operator-intentionally-blank.ipynb) 
+            - [inheritance](https://github.com/E6985/E2746/blob/master/src/pyt/object-class-inheritance.ipynb)
+            &#x1F530;
+
+    - [operator](https://github.com/E6985/E2746/blob/master/src/pyt/operator-intentionally-blank.ipynb) 
     &#x26AA;
 
-        - [{arithmetic}](https://github.com/E6985/E2746/blob/master/src/pyt/operator-arithmetic.ipynb)
+        - [arithmetic](https://github.com/E6985/E2746/blob/master/src/pyt/operator-arithmetic.ipynb)
         &#x1F530;
-        [{bitwise}](https://github.com/E6985/E2746/blob/master/src/pyt/operator-bitwise.ipynb)
+        [bitwise](https://github.com/E6985/E2746/blob/master/src/pyt/operator-bitwise.ipynb)
         &#x1F530;
-        [{assignment}](https://github.com/E6985/E2746/blob/master/src/pyt/operator-assignment.ipynb)
+        [assignment](https://github.com/E6985/E2746/blob/master/src/pyt/operator-assignment.ipynb)
         &#x1F530;
-        [{comparison}](https://github.com/E6985/E2746/blob/master/src/pyt/operator-comparison.ipynb)
+        [comparison](https://github.com/E6985/E2746/blob/master/src/pyt/operator-comparison.ipynb)
         &#x1F530;
-        [{boolean}](https://github.com/E6985/E2746/blob/master/src/pyt/operator-boolean.ipynb)
+        [boolean](https://github.com/E6985/E2746/blob/master/src/pyt/operator-boolean.ipynb)
         &#x1F530;
-        [{identity}](https://github.com/E6985/E2746/blob/master/src/pyt/operator-identity.ipynb)
+        [identity](https://github.com/E6985/E2746/blob/master/src/pyt/operator-identity.ipynb)
         &#x1F530;
-        [{membership}](https://github.com/E6985/E2746/blob/master/src/pyt/operator-membership.ipynb)
+        [membership](https://github.com/E6985/E2746/blob/master/src/pyt/operator-membership.ipynb)
         &#x1F530;
 
-    - [{control-flow}](https://github.com/E6985/E2746/blob/master/src/pyt/control-flow.ipynb)
+    - [control-flow](https://github.com/E6985/E2746/blob/master/src/pyt/control-flow.ipynb)
     &#x1F530;
-    [{conditional}](https://github.com/E6985/E2746/blob/master/src/pyt/control-flow-conditional.ipynb)
+    [conditional](https://github.com/E6985/E2746/blob/master/src/pyt/control-flow-conditional.ipynb)
     &#x1F530;
 
-    - [{loop}](https://github.com/E6985/E2746/blob/master/src/pyt/loop-intentionally-blank.ipynb)
+    - [loop](https://github.com/E6985/E2746/blob/master/src/pyt/loop-intentionally-blank.ipynb)
     &#x26AA;
 
-        - [{for}](https://github.com/E6985/E2746/blob/master/src/pyt/control-flow-loop-for.ipynb)
+        - [for](https://github.com/E6985/E2746/blob/master/src/pyt/control-flow-loop-for.ipynb)
         &#x1F530;
-        [{while}](https://github.com/E6985/E2746/blob/master/src/pyt/control-flow-loop-while.ipynb)
+        [while](https://github.com/E6985/E2746/blob/master/src/pyt/control-flow-loop-while.ipynb)
         &#x1F530;
 
-    - [{iterator}](https://github.com/E6985/E2746/blob/master/src/pyt/iterator.ipynb)
+    - [iterator](https://github.com/E6985/E2746/blob/master/src/pyt/iterator.ipynb)
     &#x1F530;
 
-    - [{function}](https://github.com/E6985/E2746/blob/master/src/pyt/function-intentionally-blank.ipynb)
+    - [function](https://github.com/E6985/E2746/blob/master/src/pyt/function-intentionally-blank.ipynb)
     &#x26AA;
 
-        - [{user-defined}](https://github.com/E6985/E2746/blob/master/src/pyt/function-user-defined.ipynb)
+        - [user-defined](https://github.com/E6985/E2746/blob/master/src/pyt/function-user-defined.ipynb)
         &#x1F530;
-        [{\*args}](https://github.com/E6985/E2746/blob/master/src/pyt/function-user-defined-args.ipynb)
+        [\*args](https://github.com/E6985/E2746/blob/master/src/pyt/function-user-defined-args.ipynb)
         &#x1F530;
-        [{\*\*kwargs}](https://github.com/E6985/E2746/blob/master/src/pyt/function-user-defined-kwargs.ipynb)
+        [\*\*kwargs](https://github.com/E6985/E2746/blob/master/src/pyt/function-user-defined-kwargs.ipynb)
         &#x1F530;
 
-            - [{lambda}](https://github.com/E6985/E2746/blob/master/src/pyt/function-user-defined-lambda.ipynb)
+            - [lambda](https://github.com/E6985/E2746/blob/master/src/pyt/function-user-defined-lambda.ipynb)
             &#x1F530;
 
-        - [{built-in}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-intentionally-blank.ipynb)
+        - [built-in](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-intentionally-blank.ipynb)
         &#x26AA;
 
-            - [{iterator}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iterator-intentionally-blank.ipynb)
+            - [iterator](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iterator-intentionally-blank.ipynb)
             &#x26AA;
 
-                - [{enumerate}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iterator-enumerate.ipynb)
+                - [enumerate](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iterator-enumerate.ipynb)
                 &#x1F530;
-                [{filter}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iterator-filter.ipynb)
+                [filter](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iterator-filter.ipynb)
                 &#x1F530;
-                [{map}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iterator-map.ipynb)
+                [map](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iterator-map.ipynb)
                 &#x1F530;
-                [{zip}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iterator-zip.ipynb)
+                [zip](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iterator-zip.ipynb)
                 &#x1F530;
 
-                - [{class}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iterator-class-intentionally-blank.ipynb)
+                - [class](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iterator-class-intentionally-blank.ipynb)
                 &#x26AA;
 
-                    - [{range}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iterator-class-range.ipynb)
+                    - [range](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iterator-class-range.ipynb)
                     &#x1F530;
 
-            - [{abs}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-abs.ipynb)
+            - [abs](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-abs.ipynb)
             &#x1F530;
-            [{bin}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-bin.ipynb)
+            [bin](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-bin.ipynb)
             &#x1F530;
-            [{chr}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-chr.ipynb)
+            [chr](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-chr.ipynb)
             &#x1F530;
-            [{format}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-format.ipynb)
+            [format](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-format.ipynb)
             &#x1F530;
-            [{id}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-id.ipynb)
+            [id](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-id.ipynb)
             &#x1F530;
-            [{isinstance}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-isinstance.ipynb)
+            [isinstance](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-isinstance.ipynb)
             &#x1F530;
-            [{iter}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iter.ipynb)
+            [iter](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-iter.ipynb)
             &#x1F530;
-            [{len}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-len.ipynb)
+            [len](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-len.ipynb)
             &#x1F530;
-            [{ord}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-ord.ipynb)
+            [ord](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-ord.ipynb)
             &#x1F530;
-            [{next}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-next.ipynb)
+            [next](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-next.ipynb)
             &#x1F530;
-            [{print}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-print.ipynb)
+            [print](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-print.ipynb)
             &#x1F530;
-            [{sorted}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-sorted.ipynb)
+            [sorted](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-sorted.ipynb)
             &#x1F530;
 
-            - [{class}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-intentionally-blank.ipynb)
+            - [class](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-intentionally-blank.ipynb)
             &#x26AA;
 
-                - [{type}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-type.ipynb)
+                - [type](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-type.ipynb)
                 &#x1F530;
-                [{object}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-object.ipynb)
+                [object](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-object.ipynb)
                 &#x1F530;
 
-                    - [{simple}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple.ipynb)
+                    - [simple](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple.ipynb)
                     &#x1F530;
 
-                        - [{int}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-int.ipynb)
+                        - [int](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-int.ipynb)
                         &#x1F530;
 
-                        - [{float}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-float.ipynb) 
+                        - [float](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-float.ipynb) 
                         &#x1F530;
 
-                            - [{method}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-float-method-intentionally-blank.ipynb) 
+                            - [method](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-float-method-intentionally-blank.ipynb) 
                             &#x26AA;
-                            [{.as-integer-ratio}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-float-method-as-integer-ratio.ipynb)
+                            [.as-integer-ratio](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-float-method-as-integer-ratio.ipynb)
                             &#x1F530;
 
-                        - [{complex}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-complex.ipynb)
+                        - [complex](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-complex.ipynb)
                         &#x1F530;
 
-                            - [{attribute}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-complex-intentionally-blank.ipynb)
+                            - [attribute](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-complex-intentionally-blank.ipynb)
                             &#x26AA;
-                            [{.real} {.imag}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-complex-attribute-real-imag.ipynb)
+                            [.real} {.imag](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-complex-attribute-real-imag.ipynb)
                             &#x1F530;
 
-                            - [{method}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-complex-method-intentionally-blank.ipynb)
+                            - [method](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-complex-method-intentionally-blank.ipynb)
                             &#x26AA; 
-                            [{.conjugate}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-complex-method-conjugate.ipynb)
+                            [.conjugate](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-complex-method-conjugate.ipynb)
                             &#x1F530;
 
-                        - [{str}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-str.ipynb)
+                        - [str](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-str.ipynb)
                         &#x1F530;
 
-                            - [{method}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-str-method-intentionally-blank.ipynb)
+                            - [method](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-str-method-intentionally-blank.ipynb)
                             &#x26AA; 
-                            [{.format}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-str-method-format.ipynb)
+                            [.format](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-str-method-format.ipynb)
                             &#x1F530;
-                            [{.isupper}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-str-method-isupper.ipynb)
+                            [.isupper](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-str-method-isupper.ipynb)
                             &#x1F530;
 
-                        - [{bool}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-bool.ipynb)
+                        - [{bool](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-simple-bool.ipynb)
                         &#x1F530;
 
-                    - [{compound}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound.ipynb)
+                    - [compound](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound.ipynb)
                     &#x1F530;
 
-                        - [{list}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list.ipynb)
+                        - [list](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list.ipynb)
                         &#x1F530;
 
-                            - [{method}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-method-intentionally-blank.ipynb)
+                            - [method](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-method-intentionally-blank.ipynb)
                             &#x26AA;
-                            [{.append}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-method-append.ipynb)
+                            [.append](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-method-append.ipynb)
                             &#x1F530;
-                            [{.sort}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-method-sort.ipynb)
+                            [.sort](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-method-sort.ipynb)
                             &#x1F530;
 
-                            - [{indexing}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-indexing.ipynb)
+                            - [indexing](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-indexing.ipynb)
                             &#x1F530;
                             
-                                - [{tuple}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-indexing-tuple.ipynb)
+                                - [tuple](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-indexing-tuple.ipynb)
                                 &#x1F530;
 
-                                - [{dict}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-indexing-dict.ipynb)
+                                - [dict](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-indexing-dict.ipynb)
                                 &#x1F530;                         
 
-                            - [{slicing}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-slicing.ipynb)
+                            - [slicing](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-slicing.ipynb)
                             &#x1F530;
 
-                                - [{tuple}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-slicing-tuple.ipynb)
+                                - [tuple](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-slicing-tuple.ipynb)
                                 &#x1F530;
                         
-                            - [{comprehension}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-comprehension.ipynb) 
+                            - [comprehension](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-comprehension.ipynb) 
                             &#x1F530;
 
-                               - [{dict}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-comprehension-dict.ipynb)
+                               - [dict](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-comprehension-dict.ipynb)
                                &#x1F530;
 
-                                - [{set}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-comprehension-set.ipynb)
+                                - [set](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-comprehension-set.ipynb)
                                 &#x1F530;
 
-                            - [{generator}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-comprehension-generator.ipynb)
+                            - [generator](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-list-comprehension-generator.ipynb)
                             &#x1F530;
 
-                        - [{tuple}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-tuple.ipynb)
+                        - [tuple](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-tuple.ipynb)
                         &#x1F530;
 
-                        - [{dict}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-dict.ipynb)
+                        - [dict](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-dict.ipynb)
                         &#x1F530;
 
-                            - [{method}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-dict-method-intentionally-blank.ipynb)
+                            - [method](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-dict-method-intentionally-blank.ipynb)
                             &#x26AA;
-                            [{.values}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-dict-method-values.ipynb)
+                            [.values](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-dict-method-values.ipynb)
                             &#x1F530;
 
-                        - [{set}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-set.ipynb)
+                        - [set](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-set.ipynb)
                         &#x1F530;
 
-                            - [{method}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-set-method-intentionally-blank.ipynb)
+                            - [method](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-set-method-intentionally-blank.ipynb)
                             &#x26AA;
-                            [{.union}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-set-method-union.ipynb)
+                            [.union](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-set-method-union.ipynb)
                             &#x1F530;
-                            [{.intersection}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-set-method-intersection.ipynb)
+                            [.intersection](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-set-method-intersection.ipynb)
                             &#x1F530;
-                            [{.difference}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-set-method-difference.ipynb)
+                            [.difference](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-set-method-difference.ipynb)
                             &#x1F530;
-                            [{.symmetric_difference}](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-set-method-symmetric_difference.ipynb)
+                            [.symmetric_difference](https://github.com/E6985/E2746/blob/master/src/pyt/function-built-in-class-compound-set-method-symmetric_difference.ipynb)
                             &#x1F530;
 
-    - [{errors-exceptions}](https://github.com/E6985/E2746/blob/master/src/pyt/errors-exceptions.ipynb)
+    - [errors-exceptions](https://github.com/E6985/E2746/blob/master/src/pyt/errors-exceptions.ipynb)
     &#x1F530;
-    [{try-except}](https://github.com/E6985/E2746/blob/master/src/pyt/errors-exceptions-try-except.ipynb)
+    [try-except](https://github.com/E6985/E2746/blob/master/src/pyt/errors-exceptions-try-except.ipynb)
     &#x1F530;
-    [{raise}](https://github.com/E6985/E2746/blob/master/src/pyt/errors-exceptions-raise.ipynb)
+    [raise](https://github.com/E6985/E2746/blob/master/src/pyt/errors-exceptions-raise.ipynb)
     &#x1F530;
 
-    - [{lorem_ipsum}](https://github.com/E6985/E2746/blob/master/src/lorem_ipsum.ipynb)
+    - { ["**lorem_ipsum**"](https://github.com/E6985/E2746/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
 
     &#x23F9;
 
@@ -2288,29 +2397,29 @@
     </details> 
 
     <!-- ( ./par ) -->
-    > [{parallel-processing}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative-parallel-processing.ipynb)
+    > [parallel-processing](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative-parallel-processing.ipynb)
     &#x1F530;
-    [{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative-parallel-processing.ipynb)
+    [{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/par/paradigm-imperative-parallel-processing.ipynb)
 
 <!-- ( ./par ) -->
-- [{declarative}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative.ipynb)
+- [declarative](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative.ipynb)
 &#x1F530;
-[{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative.ipynb)
+[{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative.ipynb)
 
     <!-- ( ./par ) -->
-    > [{logic}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative-logic.ipynb)
+    > [logic](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative-logic.ipynb)
     &#x1F530;
-    [{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative-logic.ipynb)
+    [{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative-logic.ipynb)
     
     <!-- ( ./par ) -->
-    > [{functional}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative-functional.ipynb)
+    > [functional](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative-functional.ipynb)
     &#x1F530;
-    [{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative-functional.ipynb)
+    [{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative-functional.ipynb)
     
     <!-- ( ./par ) -->
-    > [{database-processing}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative-database-processing.ipynb) 
+    > [database-processing](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative-database-processing.ipynb) 
     &#x1F530;
-    [{...&#x1F530;}](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative-database-processing.ipynb)
+    [{...&#x1F530;](https://github.com/E6985/E2746/blob/master/src/par/paradigm-declarative-database-processing.ipynb)
 
 &#x23CF;
 
@@ -2355,9 +2464,7 @@
 
 ***
 
-- **SARS-CoV-2**
-[{covid-19-ireland}](https://github.com/E6985/E2746/blob/master/src/dataset/covid-19-ireland.csv)
-&#x1F7E1;
+- { **SARS-CoV-2** : { ["**covid-19-ireland**"](https://github.com/E6985/E2746/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F7E1; } }
 
 &#x23CF;
 
