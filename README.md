@@ -13,11 +13,11 @@
 
     > ...
 
-    - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module.ipynb) : &#x1F530; } ~~08272020~~ **08282020**
+    - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module.ipynb) : &#x1F530; } ~~08272020~~ ~~08282020~~ **08292020**
 
-        - { ["**user-defined**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-user-defined.ipynb) : &#x1F530; } ~~08272020~~ **08282020**
+        - { ["**user-defined**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-user-defined.ipynb) : &#x1F530; } ~~08272020~~ ~~08282020~~ **08292020**
 
-            - { ["**import**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-user-defined-import.ipynb) : &#x1F530; } ~~08272020~~ **08282020**
+            - { ["**import**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-user-defined-import.ipynb) : &#x1F530; } ~~08272020~~ ~~08282020~~ **08292020**
 
         - { ["**built-in**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-intentionally-blank.ipynb) : &#x26AA; }
         
