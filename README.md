@@ -1,39 +1,6 @@
 ***
 
 <details open>
-    <summary>Staging</summary>
-
-***
-
-- **Python**
-
-    - { ["**environment-variable**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/environment-variable.ipynb) : &#x26AA; } 08272020
-
-        - { ["**PYTHONPATH**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/environment-variable-PYTHONPATH.ipynb) : &#x1F530; } 08272020
-
-    > ...
-
-    - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module.ipynb) : &#x1F530; } ~~08272020~~ ~~08282020~~ **08292020**
-
-        - { ["**user-defined**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-user-defined.ipynb) : &#x1F530; } ~~08272020~~ ~~08282020~~ **08292020**
-
-            - { ["**import**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-user-defined-import.ipynb) : &#x1F530; } ~~08272020~~ ~~08282020~~ **08292020**
-
-        - { ["**built-in**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-intentionally-blank.ipynb) : &#x26AA; }
-        
-            - { ["**sys**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys.ipynb) : &#x1F530; } 08272020
-
-                - { ["**name**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys-name-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["**path**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys-name-path.ipynb) : &#x1F530; } ~~08272020~~ **08282020**
-
-&#x23CF;
-
-</details>
-
-***
-
-<details open>
     <summary>A Priori</summary>
 
 [//]: # (====================================================================)
@@ -923,6 +890,10 @@
     
     ***
 
+    - { ["**environment-variable**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/environment-variable.ipynb) : **08272020** &#x1F4CC; } <!-- &#x1F530; -->
+
+        - { ["**PYTHONPATH**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/environment-variable-PYTHONPATH.ipynb) : **08272020** &#x1F4CC; } <!-- &#x1F530; -->
+
     - { ["**object**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/object.ipynb) : &#x1F530; }
     { ["**distinction**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/object-distinction.ipynb) : &#x1F530; }
     { ["**variable**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/object-variable.ipynb) : &#x1F530; }
@@ -980,6 +951,7 @@
             - { ["**abs**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-abs.ipynb) : &#x1F530; }
             { ["**bin**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-bin.ipynb) : &#x1F530; }
             { ["**chr**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-chr.ipynb) : &#x1F530; }
+            { ["**dir**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-dir.ipynb) : **08302020** &#x1F4CC; } <!-- &#x1F530; -->
             { ["**format**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-format.ipynb) : &#x1F530; }
             { ["**id**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-id.ipynb) : &#x1F530; }
             { ["**isinstance**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-isinstance.ipynb) : &#x1F530; }
@@ -1060,6 +1032,20 @@
                                 { ["**.intersection**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-intersection.ipynb) : &#x1F530; }
                                 { ["**.difference**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-difference.ipynb) : &#x1F530; }
                                 { ["**.symmetric_difference**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-symmetric_difference.ipynb) : &#x1F530; }
+
+    - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module.ipynb) : **08292020** &#x1F4CC; } <!-- &#x1F530; -->
+
+        - { ["**user-defined**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-user-defined.ipynb) : **08292020** &#x1F4CC; } <!-- &#x1F530; -->
+
+            - { ["**import**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-user-defined-import.ipynb) : **08292020** &#x1F4CC; } <!-- &#x1F530; -->
+
+        - { ["**built-in**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-intentionally-blank.ipynb) : &#x26AA; }
+        
+            - { ["**sys**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys.ipynb) : **08272020** &#x1F4CC; } <!-- &#x1F530; -->
+
+                - { ["**name**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys-name-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["**path**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys-name-path.ipynb) **08282020** &#x1F4CC; } <!-- &#x1F530; -->
 
     - { ["**errors-exceptions**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions.ipynb) : &#x1F530; }
     { ["**try-except**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-try-except.ipynb) : &#x1F530; }
