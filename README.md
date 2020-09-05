@@ -1043,6 +1043,8 @@
 
                     - { ["**path**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys-name-path.ipynb) : &#x1F4CC; 09022020_60 } <!-- &#x1F530; -->
 
+    - { ["**package**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package.ipynb) : &#x1F4CC; 09022020_120, 09032020_120, 09042020_300, 09052020_330 } <!-- &#x1F530; -->
+
     - { ["**errors-exceptions**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions.ipynb) : &#x1F530; }
     { ["**try-except**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-try-except.ipynb) : &#x1F530; }
     { ["**raise**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-raise.ipynb) : &#x1F530; }
